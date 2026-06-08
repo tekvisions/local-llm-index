@@ -4,7 +4,7 @@ A living index of tools for **running LLMs locally and on-device** — inference
 local chat UIs, and quantization tooling — ranked by **momentum** (stars, push-recency, and how
 fast a repo is rising) computed from live GitHub signals.
 
-Live: https://local-llm-index.vercel.app
+Live: https://localllm.kymatalabs.com
 
 ## How it works (self-updating)
 
