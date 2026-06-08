@@ -3,7 +3,7 @@
 > The living index of tools for running LLMs LOCALLY and on-device — inference
 > engines, runners, local UIs, quantization — ranked daily by GitHub momentum.
 
-Updated: 2026-06-08T04:10:35.954740+00:00
+Updated: 2026-06-08T04:17:28.176374+00:00
 Tools indexed: 243
 
 ## Top local-LLM tools by momentum
@@ -11,7 +11,7 @@ Tools indexed: 243
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) — momentum 86, ⭐61221 — Local LLM Tools — Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-fi
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) — momentum 81, ⭐24690 — Quantization & Formats — Distribute and run LLMs with a single file.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) — momentum 80, ⭐18149 — In-Browser — High-performance In-browser LLM Inference Engine
-- [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) — momentum 80, ⭐11817 — Local LLM Tools — Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feish
+- [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) — momentum 80, ⭐11818 — Local LLM Tools — Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feish
 - [alibaba/MNN](https://github.com/alibaba/MNN) — momentum 79, ⭐15435 — On-Device & Mobile — MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performanc
 - [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) — momentum 77, ⭐10338 — On-Device & Mobile — Production ready toolkit to run AI locally
 - [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed) — momentum 77, ⭐1389 — Inference Engines — TokenSpeed is a speed-of-light LLM inference engine.
@@ -27,7 +27,7 @@ Tools indexed: 243
 - [techjarves/USB-Uncensored-LLM](https://github.com/techjarves/USB-Uncensored-LLM) — momentum 74, ⭐1450 — Runners — The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, 
 - [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) — momentum 73, ⭐4700 — On-Device & Mobile — AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 - [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) — momentum 73, ⭐4236 — Inference Engines — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own G
-- [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) — momentum 73, ⭐3092 — Quantization & Formats — Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aw
+- [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) — momentum 73, ⭐3093 — Quantization & Formats — Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aw
 - [itayinbarr/little-coder](https://github.com/itayinbarr/little-coder) — momentum 73, ⭐1455 — Runners — A coding agent optimized to smaller LLMs
 - [dograh-hq/dograh](https://github.com/dograh-hq/dograh) — momentum 72, ⭐4270 — Local LLM Tools — Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across  Spe
 - [langroid/langroid](https://github.com/langroid/langroid) — momentum 72, ⭐4032 — Local LLM Tools — Harness LLMs with Multi-Agent Programming
