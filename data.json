@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-03T11:22:17.656174+00:00",
+ "generated_at": "2026-07-04T10:46:37.949095+00:00",
  "count": 243,
  "categories": [
   {
@@ -43,12 +43,12 @@
    "url": "https://github.com/Mintplex-Labs/anything-llm",
    "owner": "Mintplex-Labs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/134426827?v=4",
-   "stars": 62507,
-   "forks": 6829,
-   "open_issues": 341,
+   "stars": 62554,
+   "forks": 6834,
+   "open_issues": 320,
    "language": "JavaScript",
    "license": "MIT",
-   "pushed_at": "2026-07-03T00:53:51Z",
+   "pushed_at": "2026-07-03T21:44:55Z",
    "created_at": "2023-06-04T02:29:14Z",
    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
    "topics": [
@@ -77,9 +77,9 @@
    "url": "https://github.com/khoj-ai/khoj",
    "owner": "khoj-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/134046886?v=4",
-   "stars": 35454,
-   "forks": 2280,
-   "open_issues": 113,
+   "stars": 35463,
+   "forks": 2284,
+   "open_issues": 116,
    "language": "Python",
    "license": "AGPL-3.0",
    "pushed_at": "2026-06-24T21:17:20Z",
@@ -108,7 +108,7 @@
     "whatsapp-ai"
    ],
    "category": "Inference Engines",
-   "momentum": 82,
+   "momentum": 81,
    "rank": 2
   },
   {
@@ -118,7 +118,7 @@
    "url": "https://github.com/mozilla-ai/llamafile",
    "owner": "mozilla-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/129804596?v=4",
-   "stars": 25160,
+   "stars": 25173,
    "forks": 1425,
    "open_issues": 212,
    "language": "C++",
@@ -148,9 +148,9 @@
    "url": "https://github.com/alibaba/MNN",
    "owner": "alibaba",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1961952?v=4",
-   "stars": 15599,
-   "forks": 2378,
-   "open_issues": 42,
+   "stars": 15603,
+   "forks": 2380,
+   "open_issues": 43,
    "language": "C++",
    "license": "Apache-2.0",
    "pushed_at": "2026-07-01T07:38:34Z",
@@ -180,12 +180,12 @@
    "url": "https://github.com/chenhg5/cc-connect",
    "owner": "chenhg5",
    "owner_avatar": "https://avatars.githubusercontent.com/u/4344486?v=4",
-   "stars": 13472,
-   "forks": 1272,
-   "open_issues": 453,
+   "stars": 13505,
+   "forks": 1277,
+   "open_issues": 456,
    "language": "Go",
    "license": "",
-   "pushed_at": "2026-07-03T03:21:59Z",
+   "pushed_at": "2026-07-04T02:37:24Z",
    "created_at": "2026-02-28T02:39:39Z",
    "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.",
    "topics": [],
@@ -200,12 +200,12 @@
    "url": "https://github.com/RunanywhereAI/runanywhere-sdks",
    "owner": "RunanywhereAI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/220821781?v=4",
-   "stars": 10303,
+   "stars": 10301,
    "forks": 360,
    "open_issues": 24,
    "language": "C++",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-02T09:35:34Z",
+   "pushed_at": "2026-07-04T01:18:48Z",
    "created_at": "2025-07-22T01:23:34Z",
    "description": "Production ready toolkit to run AI locally",
    "topics": [
@@ -235,46 +235,18 @@
    "rank": 6
   },
   {
-   "name": "web-llm",
-   "full_name": "mlc-ai/web-llm",
-   "slug": "mlc-ai-web-llm",
-   "url": "https://github.com/mlc-ai/web-llm",
-   "owner": "mlc-ai",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/106173866?v=4",
-   "stars": 18293,
-   "forks": 1317,
-   "open_issues": 147,
-   "language": "TypeScript",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-06-09T03:38:30Z",
-   "created_at": "2023-04-13T18:11:59Z",
-   "description": "High-performance In-browser LLM Inference Engine",
-   "topics": [
-    "chatgpt",
-    "deep-learning",
-    "language-model",
-    "llm",
-    "tvm",
-    "webgpu",
-    "webml"
-   ],
-   "category": "In-Browser",
-   "momentum": 76,
-   "rank": 7
-  },
-  {
    "name": "local-deep-research",
    "full_name": "LearningCircuit/local-deep-research",
    "slug": "learningcircuit-local-deep-research",
    "url": "https://github.com/LearningCircuit/local-deep-research",
    "owner": "LearningCircuit",
    "owner_avatar": "https://avatars.githubusercontent.com/u/185559241?v=4",
-   "stars": 8642,
-   "forks": 762,
-   "open_issues": 268,
+   "stars": 8656,
+   "forks": 763,
+   "open_issues": 265,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-07-02T22:59:52Z",
+   "pushed_at": "2026-07-04T10:18:26Z",
    "created_at": "2025-02-09T15:41:32Z",
    "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
    "topics": [
@@ -301,7 +273,7 @@
    ],
    "category": "Inference Engines",
    "momentum": 76,
-   "rank": 8
+   "rank": 7
   },
   {
    "name": "GenieX",
@@ -310,12 +282,12 @@
    "url": "https://github.com/qualcomm/GenieX",
    "owner": "qualcomm",
    "owner_avatar": "https://avatars.githubusercontent.com/u/55295994?v=4",
-   "stars": 8128,
-   "forks": 1012,
-   "open_issues": 60,
+   "stars": 8134,
+   "forks": 1011,
+   "open_issues": 58,
    "language": "Rust",
    "license": "BSD-3-Clause",
-   "pushed_at": "2026-07-03T09:18:40Z",
+   "pushed_at": "2026-07-03T13:21:16Z",
    "created_at": "2024-08-16T20:13:07Z",
    "description": "Run frontier LLMs and VLMs locally on Qualcomm devices across NPU, GPU, and CPU with a few lines of code",
    "topics": [
@@ -337,6 +309,34 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 76,
+   "rank": 8
+  },
+  {
+   "name": "web-llm",
+   "full_name": "mlc-ai/web-llm",
+   "slug": "mlc-ai-web-llm",
+   "url": "https://github.com/mlc-ai/web-llm",
+   "owner": "mlc-ai",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/106173866?v=4",
+   "stars": 18303,
+   "forks": 1319,
+   "open_issues": 147,
+   "language": "TypeScript",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-06-09T03:38:30Z",
+   "created_at": "2023-04-13T18:11:59Z",
+   "description": "High-performance In-browser LLM Inference Engine",
+   "topics": [
+    "chatgpt",
+    "deep-learning",
+    "language-model",
+    "llm",
+    "tvm",
+    "webgpu",
+    "webml"
+   ],
+   "category": "In-Browser",
+   "momentum": 75,
    "rank": 9
   },
   {
@@ -346,8 +346,8 @@
    "url": "https://github.com/di-sukharev/opencommit",
    "owner": "di-sukharev",
    "owner_avatar": "https://avatars.githubusercontent.com/u/57486732?v=4",
-   "stars": 7429,
-   "forks": 434,
+   "stars": 7432,
+   "forks": 435,
    "open_issues": 195,
    "language": "JavaScript",
    "license": "MIT",
@@ -369,47 +369,14 @@
    "rank": 10
   },
   {
-   "name": "tokenspeed",
-   "full_name": "lightseekorg/tokenspeed",
-   "slug": "lightseekorg-tokenspeed",
-   "url": "https://github.com/lightseekorg/tokenspeed",
-   "owner": "lightseekorg",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/238925110?v=4",
-   "stars": 1539,
-   "forks": 184,
-   "open_issues": 27,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-07-03T10:58:45Z",
-   "created_at": "2026-05-06T13:13:21Z",
-   "description": "TokenSpeed is a speed-of-light LLM inference engine.",
-   "topics": [
-    "blackwell",
-    "deepseek",
-    "glm",
-    "gpt-oss",
-    "kimi",
-    "lightseek",
-    "llm",
-    "minimax",
-    "qwen",
-    "speed-of-light",
-    "tokenspeed",
-    "vlm"
-   ],
-   "category": "Inference Engines",
-   "momentum": 75,
-   "rank": 11
-  },
-  {
    "name": "MiniCPM",
    "full_name": "OpenBMB/MiniCPM",
    "slug": "openbmb-minicpm",
    "url": "https://github.com/OpenBMB/MiniCPM",
    "owner": "OpenBMB",
    "owner_avatar": "https://avatars.githubusercontent.com/u/89920203?v=4",
-   "stars": 9541,
-   "forks": 625,
+   "stars": 9545,
+   "forks": 624,
    "open_issues": 21,
    "language": "Jupyter Notebook",
    "license": "Apache-2.0",
@@ -419,7 +386,7 @@
    "topics": [],
    "category": "On-Device & Mobile",
    "momentum": 74,
-   "rank": 12
+   "rank": 11
   },
   {
    "name": "LiteRT-LM",
@@ -428,12 +395,12 @@
    "url": "https://github.com/google-ai-edge/LiteRT-LM",
    "owner": "google-ai-edge",
    "owner_avatar": "https://avatars.githubusercontent.com/u/150697620?v=4",
-   "stars": 5773,
-   "forks": 610,
-   "open_issues": 398,
+   "stars": 5776,
+   "forks": 611,
+   "open_issues": 400,
    "language": "C++",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-03T04:49:33Z",
+   "pushed_at": "2026-07-04T04:10:51Z",
    "created_at": "2025-04-14T21:00:20Z",
    "description": "LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices.",
    "topics": [
@@ -443,7 +410,7 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 74,
-   "rank": 13
+   "rank": 12
   },
   {
    "name": "shimmy",
@@ -452,7 +419,7 @@
    "url": "https://github.com/Michael-A-Kuykendall/shimmy",
    "owner": "Michael-A-Kuykendall",
    "owner_avatar": "https://avatars.githubusercontent.com/u/196678413?v=4",
-   "stars": 5612,
+   "stars": 5617,
    "forks": 538,
    "open_issues": 11,
    "language": "Rust",
@@ -484,6 +451,41 @@
    ],
    "category": "Quantization & Formats",
    "momentum": 74,
+   "rank": 13
+  },
+  {
+   "name": "whichllm",
+   "full_name": "Andyyyy64/whichllm",
+   "slug": "andyyyy64-whichllm",
+   "url": "https://github.com/Andyyyy64/whichllm",
+   "owner": "Andyyyy64",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/105579829?v=4",
+   "stars": 5546,
+   "forks": 293,
+   "open_issues": 14,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-07-03T14:55:59Z",
+   "created_at": "2026-03-04T13:16:00Z",
+   "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+   "topics": [
+    "ai",
+    "apple-silicon",
+    "benchmarks",
+    "cli",
+    "command-line-tool",
+    "gguf",
+    "gpu",
+    "huggingface",
+    "inference",
+    "llm",
+    "local-llm",
+    "ollama",
+    "python",
+    "vram"
+   ],
+   "category": "Quantization & Formats",
+   "momentum": 74,
    "rank": 14
   },
   {
@@ -493,12 +495,12 @@
    "url": "https://github.com/cactus-compute/cactus",
    "owner": "cactus-compute",
    "owner_avatar": "https://avatars.githubusercontent.com/u/196640840?v=4",
-   "stars": 5376,
-   "forks": 433,
-   "open_issues": 67,
+   "stars": 5379,
+   "forks": 435,
+   "open_issues": 69,
    "language": "C++",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-03T00:37:18Z",
+   "pushed_at": "2026-07-04T08:02:24Z",
    "created_at": "2025-04-23T14:33:43Z",
    "description": "Low-latency AI engine for mobile devices & wearables",
    "topics": [
@@ -528,13 +530,46 @@
    "rank": 15
   },
   {
+   "name": "tokenspeed",
+   "full_name": "lightseekorg/tokenspeed",
+   "slug": "lightseekorg-tokenspeed",
+   "url": "https://github.com/lightseekorg/tokenspeed",
+   "owner": "lightseekorg",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/238925110?v=4",
+   "stars": 1544,
+   "forks": 184,
+   "open_issues": 27,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-07-04T09:41:30Z",
+   "created_at": "2026-05-06T13:13:21Z",
+   "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+   "topics": [
+    "blackwell",
+    "deepseek",
+    "glm",
+    "gpt-oss",
+    "kimi",
+    "lightseek",
+    "llm",
+    "minimax",
+    "qwen",
+    "speed-of-light",
+    "tokenspeed",
+    "vlm"
+   ],
+   "category": "Inference Engines",
+   "momentum": 74,
+   "rank": 16
+  },
+  {
    "name": "junction",
    "full_name": "Plaer1/junction",
    "slug": "plaer1-junction",
    "url": "https://github.com/Plaer1/junction",
    "owner": "Plaer1",
    "owner_avatar": "https://avatars.githubusercontent.com/u/3485414?v=4",
-   "stars": 645,
+   "stars": 642,
    "forks": 10,
    "open_issues": 0,
    "language": "TypeScript",
@@ -545,78 +580,7 @@
    "topics": [],
    "category": "Local LLM Tools",
    "momentum": 74,
-   "rank": 16
-  },
-  {
-   "name": "SiliconScope",
-   "full_name": "kennss/SiliconScope",
-   "slug": "kennss-siliconscope",
-   "url": "https://github.com/kennss/SiliconScope",
-   "owner": "kennss",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/77983942?v=4",
-   "stars": 616,
-   "forks": 40,
-   "open_issues": 4,
-   "language": "Swift",
-   "license": "MIT",
-   "pushed_at": "2026-07-03T11:12:45Z",
-   "created_at": "2026-06-08T17:19:50Z",
-   "description": "Sudoless Apple Silicon system monitor (native SwiftUI GUI) with ANE / Media Engine / memory-bandwidth tracking",
-   "topics": [
-    "apple-silicon",
-    "gpu",
-    "llama-cpp",
-    "llm",
-    "lm-studio",
-    "local-llm",
-    "macos",
-    "menubar",
-    "mlx",
-    "neural-engine",
-    "ollama",
-    "on-device-ai",
-    "performance-monitoring",
-    "swiftui",
-    "system-monitor"
-   ],
-   "category": "On-Device & Mobile",
-   "momentum": 74,
    "rank": 17
-  },
-  {
-   "name": "whichllm",
-   "full_name": "Andyyyy64/whichllm",
-   "slug": "andyyyy64-whichllm",
-   "url": "https://github.com/Andyyyy64/whichllm",
-   "owner": "Andyyyy64",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/105579829?v=4",
-   "stars": 5523,
-   "forks": 293,
-   "open_issues": 19,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-06-29T04:32:20Z",
-   "created_at": "2026-03-04T13:16:00Z",
-   "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
-   "topics": [
-    "ai",
-    "apple-silicon",
-    "benchmarks",
-    "cli",
-    "command-line-tool",
-    "gguf",
-    "gpu",
-    "huggingface",
-    "inference",
-    "llm",
-    "local-llm",
-    "ollama",
-    "python",
-    "vram"
-   ],
-   "category": "Quantization & Formats",
-   "momentum": 73,
-   "rank": 18
   },
   {
    "name": "dograh",
@@ -625,12 +589,12 @@
    "url": "https://github.com/dograh-hq/dograh",
    "owner": "dograh-hq",
    "owner_avatar": "https://avatars.githubusercontent.com/u/191861025?v=4",
-   "stars": 4755,
-   "forks": 1064,
+   "stars": 4767,
+   "forks": 1067,
    "open_issues": 19,
    "language": "Python",
    "license": "BSD-2-Clause",
-   "pushed_at": "2026-07-03T11:12:27Z",
+   "pushed_at": "2026-07-04T07:49:47Z",
    "created_at": "2025-09-09T08:48:29Z",
    "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across  Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
    "topics": [
@@ -657,7 +621,7 @@
    ],
    "category": "Local LLM Tools",
    "momentum": 73,
-   "rank": 19
+   "rank": 18
   },
   {
    "name": "lemonade",
@@ -666,12 +630,12 @@
    "url": "https://github.com/lemonade-sdk/lemonade",
    "owner": "lemonade-sdk",
    "owner_avatar": "https://avatars.githubusercontent.com/u/209808453?v=4",
-   "stars": 4750,
+   "stars": 4757,
    "forks": 379,
-   "open_issues": 382,
+   "open_issues": 381,
    "language": "C++",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-03T09:37:39Z",
+   "pushed_at": "2026-07-04T06:04:24Z",
    "created_at": "2025-05-15T19:17:39Z",
    "description": "Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk",
    "topics": [
@@ -697,7 +661,7 @@
    ],
    "category": "Inference Engines",
    "momentum": 73,
-   "rank": 20
+   "rank": 19
   },
   {
    "name": "thunderbolt",
@@ -707,11 +671,11 @@
    "owner": "thunderbird",
    "owner_avatar": "https://avatars.githubusercontent.com/u/15187237?v=4",
    "stars": 4733,
-   "forks": 314,
-   "open_issues": 37,
+   "forks": 315,
+   "open_issues": 38,
    "language": "TypeScript",
    "license": "MPL-2.0",
-   "pushed_at": "2026-07-03T06:59:01Z",
+   "pushed_at": "2026-07-04T06:04:13Z",
    "created_at": "2025-07-23T18:54:20Z",
    "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
    "topics": [
@@ -722,7 +686,7 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 73,
-   "rank": 21
+   "rank": 20
   },
   {
    "name": "openmed",
@@ -731,12 +695,12 @@
    "url": "https://github.com/maziyarpanahi/openmed",
    "owner": "maziyarpanahi",
    "owner_avatar": "https://avatars.githubusercontent.com/u/5762953?v=4",
-   "stars": 4025,
-   "forks": 453,
-   "open_issues": 508,
+   "stars": 4038,
+   "forks": 457,
+   "open_issues": 297,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-03T09:37:04Z",
+   "pushed_at": "2026-07-04T10:44:37Z",
    "created_at": "2025-10-04T15:13:34Z",
    "description": "Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 1,000+ medical models, 12 languages, Apple MLX + Python, no cloud, no patient data leaving your network. Apache-2.0",
    "topics": [
@@ -760,6 +724,42 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 73,
+   "rank": 21
+  },
+  {
+   "name": "SiliconScope",
+   "full_name": "kennss/SiliconScope",
+   "slug": "kennss-siliconscope",
+   "url": "https://github.com/kennss/SiliconScope",
+   "owner": "kennss",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/77983942?v=4",
+   "stars": 618,
+   "forks": 40,
+   "open_issues": 5,
+   "language": "Swift",
+   "license": "MIT",
+   "pushed_at": "2026-07-03T11:12:45Z",
+   "created_at": "2026-06-08T17:19:50Z",
+   "description": "Sudoless Apple Silicon system monitor (native SwiftUI GUI) with ANE / Media Engine / memory-bandwidth tracking",
+   "topics": [
+    "apple-silicon",
+    "gpu",
+    "llama-cpp",
+    "llm",
+    "lm-studio",
+    "local-llm",
+    "macos",
+    "menubar",
+    "mlx",
+    "neural-engine",
+    "ollama",
+    "on-device-ai",
+    "performance-monitoring",
+    "swiftui",
+    "system-monitor"
+   ],
+   "category": "On-Device & Mobile",
+   "momentum": 73,
    "rank": 22
   },
   {
@@ -769,8 +769,8 @@
    "url": "https://github.com/CaviraOSS/OpenMemory",
    "owner": "CaviraOSS",
    "owner_avatar": "https://avatars.githubusercontent.com/u/214697751?v=4",
-   "stars": 4295,
-   "forks": 487,
+   "stars": 4300,
+   "forks": 486,
    "open_issues": 13,
    "language": "TypeScript",
    "license": "Apache-2.0",
@@ -810,7 +810,7 @@
    "url": "https://github.com/SciSharp/LLamaSharp",
    "owner": "SciSharp",
    "owner_avatar": "https://avatars.githubusercontent.com/u/44989469?v=4",
-   "stars": 3729,
+   "stars": 3728,
    "forks": 501,
    "open_issues": 20,
    "language": "C#",
@@ -836,15 +836,48 @@
    "rank": 24
   },
   {
+   "name": "little-coder",
+   "full_name": "itayinbarr/little-coder",
+   "slug": "itayinbarr-little-coder",
+   "url": "https://github.com/itayinbarr/little-coder",
+   "owner": "itayinbarr",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/12065558?v=4",
+   "stars": 1699,
+   "forks": 110,
+   "open_issues": 6,
+   "language": "TypeScript",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-07-04T08:29:42Z",
+   "created_at": "2026-04-11T10:37:11Z",
+   "description": "A harness optimized to smaller LLMs",
+   "topics": [
+    "ai-coding-assistant",
+    "aider-polygot",
+    "benchmark",
+    "code-generation",
+    "coding-agent",
+    "coding-agents",
+    "local-llm",
+    "ollama",
+    "qwen",
+    "small-language-models",
+    "terminal-bench",
+    "tool-use"
+   ],
+   "category": "Runners",
+   "momentum": 72,
+   "rank": 25
+  },
+  {
    "name": "Uncensored-Local-Studio",
    "full_name": "techjarves/Uncensored-Local-Studio",
    "slug": "techjarves-uncensored-local-studio",
    "url": "https://github.com/techjarves/Uncensored-Local-Studio",
    "owner": "techjarves",
    "owner_avatar": "https://avatars.githubusercontent.com/u/54399984?v=4",
-   "stars": 464,
-   "forks": 129,
-   "open_issues": 5,
+   "stars": 476,
+   "forks": 130,
+   "open_issues": 7,
    "language": "JavaScript",
    "license": "MIT",
    "pushed_at": "2026-07-03T06:43:07Z",
@@ -859,7 +892,7 @@
    ],
    "category": "Quantization & Formats",
    "momentum": 72,
-   "rank": 25
+   "rank": 26
   },
   {
    "name": "surf",
@@ -870,7 +903,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/47275976?v=4",
    "stars": 3469,
    "forks": 254,
-   "open_issues": 33,
+   "open_issues": 32,
    "language": "TypeScript",
    "license": "Apache-2.0",
    "pushed_at": "2026-06-30T17:05:54Z",
@@ -894,7 +927,7 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 71,
-   "rank": 26
+   "rank": 27
   },
   {
    "name": "Rapid-MLX",
@@ -903,12 +936,12 @@
    "url": "https://github.com/raullenchai/Rapid-MLX",
    "owner": "raullenchai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/989846?v=4",
-   "stars": 3175,
-   "forks": 366,
-   "open_issues": 27,
+   "stars": 3182,
+   "forks": 367,
+   "open_issues": 26,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-03T06:05:51Z",
+   "pushed_at": "2026-07-04T07:42:52Z",
    "created_at": "2026-02-25T00:41:44Z",
    "description": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.",
    "topics": [
@@ -934,7 +967,7 @@
    ],
    "category": "Runners",
    "momentum": 71,
-   "rank": 27
+   "rank": 28
   },
   {
    "name": "algernon",
@@ -948,7 +981,7 @@
    "open_issues": 19,
    "language": "JavaScript",
    "license": "BSD-3-Clause",
-   "pushed_at": "2026-07-01T08:29:59Z",
+   "pushed_at": "2026-07-03T22:35:45Z",
    "created_at": "2015-03-10T11:25:30Z",
    "description": "Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++",
    "topics": [
@@ -975,7 +1008,7 @@
    ],
    "category": "Inference Engines",
    "momentum": 71,
-   "rank": 28
+   "rank": 29
   },
   {
    "name": "spiceai",
@@ -984,12 +1017,12 @@
    "url": "https://github.com/spiceai/spiceai",
    "owner": "spiceai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/73862742?v=4",
-   "stars": 3009,
+   "stars": 3011,
    "forks": 210,
-   "open_issues": 406,
+   "open_issues": 397,
    "language": "Rust",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-03T10:21:07Z",
+   "pushed_at": "2026-07-04T09:58:39Z",
    "created_at": "2021-08-08T23:26:13Z",
    "description": "A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.",
    "topics": [
@@ -1005,7 +1038,7 @@
    ],
    "category": "Inference Engines",
    "momentum": 71,
-   "rank": 29
+   "rank": 30
   },
   {
    "name": "claude-code-local",
@@ -1014,8 +1047,8 @@
    "url": "https://github.com/nicedreamzapp/claude-code-local",
    "owner": "nicedreamzapp",
    "owner_avatar": "https://avatars.githubusercontent.com/u/207429969?v=4",
-   "stars": 2910,
-   "forks": 556,
+   "stars": 2913,
+   "forks": 557,
    "open_issues": 0,
    "language": "Python",
    "license": "MIT",
@@ -1045,75 +1078,8 @@
     "voice-ai"
    ],
    "category": "On-Device & Mobile",
-   "momentum": 71,
-   "rank": 30
-  },
-  {
-   "name": "Mano-P",
-   "full_name": "Mininglamp-AI/Mano-P",
-   "slug": "mininglamp-ai-mano-p",
-   "url": "https://github.com/Mininglamp-AI/Mano-P",
-   "owner": "Mininglamp-AI",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/270859891?v=4",
-   "stars": 2396,
-   "forks": 224,
-   "open_issues": 25,
-   "language": "",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-06-25T03:00:01Z",
-   "created_at": "2026-03-25T14:11:12Z",
-   "description": "Mano-P: Open-source GUI-VLA agent for edge devices. #1 on OSWorld (specialized, 58.2%). Runs locally on Apple M4 Mac mini/MacBook — no data leaves your device.Mano-P 是一个开源 GUI-VLA 项目，支持在 Mac mini/MacBook 上或通过算力棒本地运行推理，实现纯视觉驱动的跨平台 GUI 自动化操作。数据完全本地处理，支持复杂多步骤任务规划与执行。",
-   "topics": [
-    "computer-use-agents",
-    "desktop-automation",
-    "edge-computing",
-    "gui-automation",
-    "gui-grounding",
-    "local-inference",
-    "mano",
-    "mano-p",
-    "multimodal-ai",
-    "on-device-ai",
-    "osworld",
-    "vision-language-action",
-    "visual-language-model"
-   ],
-   "category": "On-Device & Mobile",
-   "momentum": 71,
+   "momentum": 70,
    "rank": 31
-  },
-  {
-   "name": "little-coder",
-   "full_name": "itayinbarr/little-coder",
-   "slug": "itayinbarr-little-coder",
-   "url": "https://github.com/itayinbarr/little-coder",
-   "owner": "itayinbarr",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/12065558?v=4",
-   "stars": 1695,
-   "forks": 110,
-   "open_issues": 6,
-   "language": "TypeScript",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-06-28T12:35:31Z",
-   "created_at": "2026-04-11T10:37:11Z",
-   "description": "A harness optimized to smaller LLMs",
-   "topics": [
-    "ai-coding-assistant",
-    "aider-polygot",
-    "benchmark",
-    "code-generation",
-    "coding-agent",
-    "coding-agents",
-    "local-llm",
-    "ollama",
-    "qwen",
-    "small-language-models",
-    "terminal-bench",
-    "tool-use"
-   ],
-   "category": "Runners",
-   "momentum": 71,
-   "rank": 32
   },
   {
    "name": "llm-checker",
@@ -1122,8 +1088,8 @@
    "url": "https://github.com/signerless/llm-checker",
    "owner": "signerless",
    "owner_avatar": "https://avatars.githubusercontent.com/u/109688848?v=4",
-   "stars": 2774,
-   "forks": 182,
+   "stars": 2780,
+   "forks": 183,
    "open_issues": 5,
    "language": "JavaScript",
    "license": "NOASSERTION",
@@ -1133,7 +1099,7 @@
    "topics": [],
    "category": "Runners",
    "momentum": 70,
-   "rank": 33
+   "rank": 32
   },
   {
    "name": "neural-compressor",
@@ -1171,7 +1137,7 @@
    ],
    "category": "Quantization & Formats",
    "momentum": 70,
-   "rank": 34
+   "rank": 33
   },
   {
    "name": "needle",
@@ -1180,7 +1146,7 @@
    "url": "https://github.com/cactus-compute/needle",
    "owner": "cactus-compute",
    "owner_avatar": "https://avatars.githubusercontent.com/u/196640840?v=4",
-   "stars": 2650,
+   "stars": 2666,
    "forks": 179,
    "open_issues": 19,
    "language": "Python",
@@ -1197,7 +1163,72 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 70,
+   "rank": 34
+  },
+  {
+   "name": "Mano-P",
+   "full_name": "Mininglamp-AI/Mano-P",
+   "slug": "mininglamp-ai-mano-p",
+   "url": "https://github.com/Mininglamp-AI/Mano-P",
+   "owner": "Mininglamp-AI",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/270859891?v=4",
+   "stars": 2398,
+   "forks": 224,
+   "open_issues": 25,
+   "language": "",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-06-25T03:00:01Z",
+   "created_at": "2026-03-25T14:11:12Z",
+   "description": "Mano-P: Open-source GUI-VLA agent for edge devices. #1 on OSWorld (specialized, 58.2%). Runs locally on Apple M4 Mac mini/MacBook — no data leaves your device.Mano-P 是一个开源 GUI-VLA 项目，支持在 Mac mini/MacBook 上或通过算力棒本地运行推理，实现纯视觉驱动的跨平台 GUI 自动化操作。数据完全本地处理，支持复杂多步骤任务规划与执行。",
+   "topics": [
+    "computer-use-agents",
+    "desktop-automation",
+    "edge-computing",
+    "gui-automation",
+    "gui-grounding",
+    "local-inference",
+    "mano",
+    "mano-p",
+    "multimodal-ai",
+    "on-device-ai",
+    "osworld",
+    "vision-language-action",
+    "visual-language-model"
+   ],
+   "category": "On-Device & Mobile",
+   "momentum": 70,
    "rank": 35
+  },
+  {
+   "name": "awesome-local-llm",
+   "full_name": "rafska/awesome-local-llm",
+   "slug": "rafska-awesome-local-llm",
+   "url": "https://github.com/rafska/awesome-local-llm",
+   "owner": "rafska",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/17859377?v=4",
+   "stars": 2352,
+   "forks": 274,
+   "open_issues": 92,
+   "language": "",
+   "license": "MIT",
+   "pushed_at": "2026-07-03T23:31:45Z",
+   "created_at": "2025-06-03T10:01:04Z",
+   "description": "A curated list of awesome platforms, tools, practices and resources that helps run LLMs locally",
+   "topics": [
+    "ai",
+    "awesome",
+    "awesome-list",
+    "llm",
+    "local",
+    "local-ai",
+    "local-llm",
+    "resources",
+    "self-hosted",
+    "selfhosted"
+   ],
+   "category": "Collections",
+   "momentum": 70,
+   "rank": 36
   },
   {
    "name": "Ironsmith",
@@ -1206,18 +1237,18 @@
    "url": "https://github.com/Jeidoban/Ironsmith",
    "owner": "Jeidoban",
    "owner_avatar": "https://avatars.githubusercontent.com/u/24860890?v=4",
-   "stars": 262,
+   "stars": 265,
    "forks": 19,
    "open_issues": 0,
    "language": "Swift",
    "license": "GPL-3.0",
-   "pushed_at": "2026-07-03T05:13:13Z",
+   "pushed_at": "2026-07-04T05:45:54Z",
    "created_at": "2026-06-14T00:11:35Z",
    "description": "Create personal Mac apps instantly with a prompt. Supports on-device and cloud LLMs",
    "topics": [],
    "category": "On-Device & Mobile",
    "momentum": 70,
-   "rank": 36
+   "rank": 37
   },
   {
    "name": "langroid",
@@ -1226,9 +1257,9 @@
    "url": "https://github.com/langroid/langroid",
    "owner": "langroid",
    "owner_avatar": "https://avatars.githubusercontent.com/u/130325191?v=4",
-   "stars": 4051,
-   "forks": 379,
-   "open_issues": 72,
+   "stars": 4052,
+   "forks": 381,
+   "open_issues": 73,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-06-15T15:52:28Z",
@@ -1256,37 +1287,6 @@
    ],
    "category": "Local LLM Tools",
    "momentum": 69,
-   "rank": 37
-  },
-  {
-   "name": "aphrodite-engine",
-   "full_name": "dphnAI/aphrodite-engine",
-   "slug": "dphnai-aphrodite-engine",
-   "url": "https://github.com/dphnAI/aphrodite-engine",
-   "owner": "dphnAI",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/279777435?v=4",
-   "stars": 1778,
-   "forks": 200,
-   "open_issues": 126,
-   "language": "C++",
-   "license": "AGPL-3.0",
-   "pushed_at": "2026-07-03T04:52:36Z",
-   "created_at": "2023-06-23T02:34:29Z",
-   "description": "Large-scale LLM inference engine",
-   "topics": [
-    "api-rest",
-    "cuda",
-    "inference-engine",
-    "inferentia",
-    "intel",
-    "lora",
-    "machine-learning",
-    "rocm",
-    "speculative-decoding",
-    "tpu"
-   ],
-   "category": "Inference Engines",
-   "momentum": 69,
    "rank": 38
   },
   {
@@ -1296,7 +1296,7 @@
    "url": "https://github.com/kellyvv/PhoneClaw",
    "owner": "kellyvv",
    "owner_avatar": "https://avatars.githubusercontent.com/u/129767595?v=4",
-   "stars": 1129,
+   "stars": 1130,
    "forks": 152,
    "open_issues": 1,
    "language": "Swift",
@@ -1335,12 +1335,12 @@
    "url": "https://github.com/AtomicBot-ai/Atomic-Chat",
    "owner": "AtomicBot-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/259533419?v=4",
-   "stars": 1027,
-   "forks": 104,
-   "open_issues": 31,
+   "stars": 1033,
+   "forks": 105,
+   "open_issues": 28,
    "language": "TypeScript",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-03T08:19:47Z",
+   "pushed_at": "2026-07-03T20:38:36Z",
    "created_at": "2026-03-31T08:03:09Z",
    "description": "Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer.",
    "topics": [
@@ -1377,8 +1377,8 @@
    "owner": "SharpAI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/36420545?v=4",
    "stars": 2873,
-   "forks": 455,
-   "open_issues": 11,
+   "forks": 454,
+   "open_issues": 10,
    "language": "JavaScript",
    "license": "MIT",
    "pushed_at": "2026-06-18T04:37:54Z",
@@ -1411,45 +1411,14 @@
    "rank": 41
   },
   {
-   "name": "awesome-local-llm",
-   "full_name": "rafska/awesome-local-llm",
-   "slug": "rafska-awesome-local-llm",
-   "url": "https://github.com/rafska/awesome-local-llm",
-   "owner": "rafska",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/17859377?v=4",
-   "stars": 2348,
-   "forks": 274,
-   "open_issues": 91,
-   "language": "",
-   "license": "MIT",
-   "pushed_at": "2026-06-23T21:44:33Z",
-   "created_at": "2025-06-03T10:01:04Z",
-   "description": "A curated list of awesome platforms, tools, practices and resources that helps run LLMs locally",
-   "topics": [
-    "ai",
-    "awesome",
-    "awesome-list",
-    "llm",
-    "local",
-    "local-ai",
-    "local-llm",
-    "resources",
-    "self-hosted",
-    "selfhosted"
-   ],
-   "category": "Collections",
-   "momentum": 68,
-   "rank": 42
-  },
-  {
    "name": "USB-Uncensored-LLM",
    "full_name": "techjarves/USB-Uncensored-LLM",
    "slug": "techjarves-usb-uncensored-llm",
    "url": "https://github.com/techjarves/USB-Uncensored-LLM",
    "owner": "techjarves",
    "owner_avatar": "https://avatars.githubusercontent.com/u/54399984?v=4",
-   "stars": 1828,
-   "forks": 405,
+   "stars": 1835,
+   "forks": 408,
    "open_issues": 37,
    "language": "HTML",
    "license": "",
@@ -1463,6 +1432,37 @@
    ],
    "category": "Runners",
    "momentum": 68,
+   "rank": 42
+  },
+  {
+   "name": "aphrodite-engine",
+   "full_name": "dphnAI/aphrodite-engine",
+   "slug": "dphnai-aphrodite-engine",
+   "url": "https://github.com/dphnAI/aphrodite-engine",
+   "owner": "dphnAI",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/279777435?v=4",
+   "stars": 1779,
+   "forks": 200,
+   "open_issues": 126,
+   "language": "C++",
+   "license": "AGPL-3.0",
+   "pushed_at": "2026-07-03T04:52:36Z",
+   "created_at": "2023-06-23T02:34:29Z",
+   "description": "Large-scale LLM inference engine",
+   "topics": [
+    "api-rest",
+    "cuda",
+    "inference-engine",
+    "inferentia",
+    "intel",
+    "lora",
+    "machine-learning",
+    "rocm",
+    "speculative-decoding",
+    "tpu"
+   ],
+   "category": "Inference Engines",
+   "momentum": 68,
    "rank": 43
   },
   {
@@ -1472,12 +1472,12 @@
    "url": "https://github.com/software-mansion/react-native-executorch",
    "owner": "software-mansion",
    "owner_avatar": "https://avatars.githubusercontent.com/u/56880679?v=4",
-   "stars": 1613,
+   "stars": 1615,
    "forks": 84,
-   "open_issues": 73,
+   "open_issues": 70,
    "language": "C++",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-03T10:34:26Z",
+   "pushed_at": "2026-07-03T15:50:03Z",
    "created_at": "2024-10-16T10:58:16Z",
    "description": "Declarative way to run AI models in React Native on device, powered by ExecuTorch.",
    "topics": [
@@ -1508,10 +1508,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/17888862?v=4",
    "stars": 1503,
    "forks": 148,
-   "open_issues": 79,
+   "open_issues": 78,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-03T08:48:05Z",
+   "pushed_at": "2026-07-04T01:00:21Z",
    "created_at": "2024-01-04T02:41:51Z",
    "description": "A SOTA quantization algorithm for high-accuracy low-bit LLM inference, seamlessly optimized for CPU/XPU/CUDA, with multi-datatype support and full compatibility with vLLM, SGLang, and Transformers.",
    "topics": [
@@ -1540,12 +1540,12 @@
    "url": "https://github.com/AtomicBot-ai/atomic-agent",
    "owner": "AtomicBot-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/259533419?v=4",
-   "stars": 558,
-   "forks": 70,
+   "stars": 564,
+   "forks": 81,
    "open_issues": 4,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-07-01T22:31:26Z",
+   "pushed_at": "2026-07-03T15:15:02Z",
    "created_at": "2026-04-21T21:34:51Z",
    "description": "Local First Ai Agent. Optimized for Local Ai models. Long context window. Proper tools callings. Runs privately on your device.",
    "topics": [
@@ -1577,7 +1577,7 @@
    "url": "https://github.com/heshengtao/comfyui_LLM_party",
    "owner": "heshengtao",
    "owner_avatar": "https://avatars.githubusercontent.com/u/20573295?v=4",
-   "stars": 2296,
+   "stars": 2297,
    "forks": 191,
    "open_issues": 82,
    "language": "Python",
@@ -1617,8 +1617,8 @@
    "url": "https://github.com/fikrikarim/parlor",
    "owner": "fikrikarim",
    "owner_avatar": "https://avatars.githubusercontent.com/u/13066728?v=4",
-   "stars": 1873,
-   "forks": 230,
+   "stars": 1877,
+   "forks": 232,
    "open_issues": 7,
    "language": "HTML",
    "license": "Apache-2.0",
@@ -1653,7 +1653,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/75349771?v=4",
    "stars": 1385,
    "forks": 250,
-   "open_issues": 174,
+   "open_issues": 175,
    "language": "C++",
    "license": "Apache-2.0",
    "pushed_at": "2026-07-03T09:44:30Z",
@@ -1679,12 +1679,12 @@
    "url": "https://github.com/callstackincubator/ai",
    "owner": "callstackincubator",
    "owner_avatar": "https://avatars.githubusercontent.com/u/40356278?v=4",
-   "stars": 1351,
+   "stars": 1356,
    "forks": 52,
-   "open_issues": 7,
+   "open_issues": 9,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-07-03T10:12:17Z",
+   "pushed_at": "2026-07-03T19:46:23Z",
    "created_at": "2024-07-19T13:25:57Z",
    "description": "On-device LLM execution in React Native with Vercel AI SDK compatibility",
    "topics": [
@@ -1704,12 +1704,12 @@
    "url": "https://github.com/siddsachar/row-bot",
    "owner": "siddsachar",
    "owner_avatar": "https://avatars.githubusercontent.com/u/50956096?v=4",
-   "stars": 1326,
-   "forks": 157,
+   "stars": 1328,
+   "forks": 158,
    "open_issues": 23,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-03T08:57:13Z",
+   "pushed_at": "2026-07-03T14:17:47Z",
    "created_at": "2026-03-06T19:50:36Z",
    "description": "Row-Bot - Personal AI Sovereignty. A local-first AI assistant with integrated tools, a personal knowledge graph, voice, vision, shell, browser automation, scheduled tasks, health tracking, and messaging channels. Run locally via Ollama or add opt-in cloud models. Your data stays on your machine.",
    "topics": [
@@ -1733,12 +1733,12 @@
    "url": "https://github.com/alibaba/rtp-llm",
    "owner": "alibaba",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1961952?v=4",
-   "stars": 1247,
-   "forks": 222,
+   "stars": 1251,
+   "forks": 224,
    "open_issues": 154,
    "language": "Cuda",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-03T10:43:40Z",
+   "pushed_at": "2026-07-04T09:55:02Z",
    "created_at": "2023-12-27T08:22:59Z",
    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
    "topics": [
@@ -1755,76 +1755,18 @@
    "rank": 52
   },
   {
-   "name": "FaceAISDK_Android",
-   "full_name": "FaceAISDK/FaceAISDK_Android",
-   "slug": "faceaisdk-faceaisdk-android",
-   "url": "https://github.com/FaceAISDK/FaceAISDK_Android",
-   "owner": "FaceAISDK",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/15169396?v=4",
-   "stars": 1220,
-   "forks": 240,
-   "open_issues": 6,
-   "language": "Java",
-   "license": "",
-   "pushed_at": "2026-07-03T03:31:46Z",
-   "created_at": "2022-07-26T15:34:33Z",
-   "description": "Android on_device Face Recognition 、 Liveness detection and 1:N & M:N Face Search SDK 离线版设备端人脸识别 活体检测 以及1:N M:N 人脸搜索SDK",
-   "topics": [
-    "anti-spoofing",
-    "binocular",
-    "color-flash",
-    "face-recognition",
-    "face-search",
-    "face-verification",
-    "face-verify",
-    "liveness-detection",
-    "on-device-ai"
-   ],
-   "category": "On-Device & Mobile",
-   "momentum": 67,
-   "rank": 53
-  },
-  {
-   "name": "GPTQModel",
-   "full_name": "ModelCloud/GPTQModel",
-   "slug": "modelcloud-gptqmodel",
-   "url": "https://github.com/ModelCloud/GPTQModel",
-   "owner": "ModelCloud",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/172743990?v=4",
-   "stars": 1197,
-   "forks": 191,
-   "open_issues": 43,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-07-03T01:23:18Z",
-   "created_at": "2024-06-17T06:45:30Z",
-   "description": "LLM model quantization (compression) toolkit with HW acceleration support for Nvidia, AMD, Intel GPU and Intel/AMD/Apple CPU via HF, vLLM, and SGLang.",
-   "topics": [
-    "gptq",
-    "optimum",
-    "peft",
-    "quantization",
-    "sglang",
-    "transformers",
-    "vllm"
-   ],
-   "category": "Quantization & Formats",
-   "momentum": 67,
-   "rank": 54
-  },
-  {
    "name": "locally-uncensored",
    "full_name": "PurpleDoubleD/locally-uncensored",
    "slug": "purpledoubled-locally-uncensored",
    "url": "https://github.com/PurpleDoubleD/locally-uncensored",
    "owner": "PurpleDoubleD",
    "owner_avatar": "https://avatars.githubusercontent.com/u/224399100?v=4",
-   "stars": 841,
-   "forks": 124,
+   "stars": 846,
+   "forks": 129,
    "open_issues": 4,
    "language": "TypeScript",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-03T11:11:26Z",
+   "pushed_at": "2026-07-03T13:33:37Z",
    "created_at": "2026-03-24T21:52:47Z",
    "description": "Uncensored local AI desktop app: chat, agent mode, image & video generation. Run abliterated/uncensored LLMs + ComfyUI fully offline with your own provider. Single .exe, no Docker.",
    "topics": [
@@ -1851,7 +1793,7 @@
    ],
    "category": "Local UIs & Apps",
    "momentum": 67,
-   "rank": 55
+   "rank": 53
   },
   {
    "name": "Box",
@@ -1860,9 +1802,9 @@
    "url": "https://github.com/jegly/Box",
    "owner": "jegly",
    "owner_avatar": "https://avatars.githubusercontent.com/u/239281279?v=4",
-   "stars": 633,
+   "stars": 631,
    "forks": 36,
-   "open_issues": 8,
+   "open_issues": 6,
    "language": "Kotlin",
    "license": "NOASSERTION",
    "pushed_at": "2026-06-28T02:07:22Z",
@@ -1891,7 +1833,7 @@
    ],
    "category": "Quantization & Formats",
    "momentum": 67,
-   "rank": 56
+   "rank": 54
   },
   {
    "name": "synthadoc",
@@ -1902,10 +1844,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/275206488?v=4",
    "stars": 540,
    "forks": 48,
-   "open_issues": 2,
+   "open_issues": 1,
    "language": "Python",
    "license": "AGPL-3.0",
-   "pushed_at": "2026-07-03T00:05:33Z",
+   "pushed_at": "2026-07-03T23:58:19Z",
    "created_at": "2026-04-11T03:50:12Z",
    "description": "Synthadoc: An open-source LLM knowledge compilation engine that turns raw documents into structured, local-first wikis. A transparent, human-readable alternative to traditional RAG, which can be self-managed and self-improved without the use of any tools.",
    "topics": [
@@ -1927,7 +1869,7 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 67,
-   "rank": 57
+   "rank": 55
   },
   {
    "name": "FlashRT",
@@ -1936,12 +1878,12 @@
    "url": "https://github.com/flashrt-project/FlashRT",
    "owner": "flashrt-project",
    "owner_avatar": "https://avatars.githubusercontent.com/u/293028000?v=4",
-   "stars": 392,
-   "forks": 46,
-   "open_issues": 7,
+   "stars": 393,
+   "forks": 47,
+   "open_issues": 8,
    "language": "C++",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-03T11:13:16Z",
+   "pushed_at": "2026-07-04T10:08:35Z",
    "created_at": "2026-04-28T16:07:25Z",
    "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
    "topics": [
@@ -1967,7 +1909,7 @@
    ],
    "category": "Inference Engines",
    "momentum": 67,
-   "rank": 58
+   "rank": 56
   },
   {
    "name": "MLX-LoRA-Studio",
@@ -1976,7 +1918,7 @@
    "url": "https://github.com/Goekdeniz-Guelmez/MLX-LoRA-Studio",
    "owner": "Goekdeniz-Guelmez",
    "owner_avatar": "https://avatars.githubusercontent.com/u/60228478?v=4",
-   "stars": 233,
+   "stars": 235,
    "forks": 23,
    "open_issues": 0,
    "language": "Swift",
@@ -2001,7 +1943,7 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 67,
-   "rank": 59
+   "rank": 57
   },
   {
    "name": "TranslateBooksWithLLMs",
@@ -2010,8 +1952,8 @@
    "url": "https://github.com/hydropix/TranslateBooksWithLLMs",
    "owner": "hydropix",
    "owner_avatar": "https://avatars.githubusercontent.com/u/5154373?v=4",
-   "stars": 1937,
-   "forks": 252,
+   "stars": 1954,
+   "forks": 253,
    "open_issues": 34,
    "language": "Python",
    "license": "AGPL-3.0",
@@ -2038,7 +1980,7 @@
    ],
    "category": "Runners",
    "momentum": 66,
-   "rank": 60
+   "rank": 58
   },
   {
    "name": "home-llm",
@@ -2047,7 +1989,7 @@
    "url": "https://github.com/acon96/home-llm",
    "owner": "acon96",
    "owner_avatar": "https://avatars.githubusercontent.com/u/35843486?v=4",
-   "stars": 1373,
+   "stars": 1372,
    "forks": 140,
    "open_issues": 39,
    "language": "Python",
@@ -2060,6 +2002,64 @@
     "large-language-model"
    ],
    "category": "Local LLM Tools",
+   "momentum": 66,
+   "rank": 59
+  },
+  {
+   "name": "FaceAISDK_Android",
+   "full_name": "FaceAISDK/FaceAISDK_Android",
+   "slug": "faceaisdk-faceaisdk-android",
+   "url": "https://github.com/FaceAISDK/FaceAISDK_Android",
+   "owner": "FaceAISDK",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/15169396?v=4",
+   "stars": 1221,
+   "forks": 240,
+   "open_issues": 4,
+   "language": "Java",
+   "license": "",
+   "pushed_at": "2026-07-03T03:31:46Z",
+   "created_at": "2022-07-26T15:34:33Z",
+   "description": "Android on_device Face Recognition 、 Liveness detection and 1:N & M:N Face Search SDK 离线版设备端人脸识别 活体检测 以及1:N M:N 人脸搜索SDK",
+   "topics": [
+    "anti-spoofing",
+    "binocular",
+    "color-flash",
+    "face-recognition",
+    "face-search",
+    "face-verification",
+    "face-verify",
+    "liveness-detection",
+    "on-device-ai"
+   ],
+   "category": "On-Device & Mobile",
+   "momentum": 66,
+   "rank": 60
+  },
+  {
+   "name": "GPTQModel",
+   "full_name": "ModelCloud/GPTQModel",
+   "slug": "modelcloud-gptqmodel",
+   "url": "https://github.com/ModelCloud/GPTQModel",
+   "owner": "ModelCloud",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/172743990?v=4",
+   "stars": 1198,
+   "forks": 191,
+   "open_issues": 45,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-07-03T13:21:44Z",
+   "created_at": "2024-06-17T06:45:30Z",
+   "description": "LLM model quantization (compression) toolkit with HW acceleration support for Nvidia, AMD, Intel GPU and Intel/AMD/Apple CPU via HF, vLLM, and SGLang.",
+   "topics": [
+    "gptq",
+    "optimum",
+    "peft",
+    "quantization",
+    "sglang",
+    "transformers",
+    "vllm"
+   ],
+   "category": "Quantization & Formats",
    "momentum": 66,
    "rank": 61
   },
@@ -2075,7 +2075,7 @@
    "open_issues": 0,
    "language": "Swift",
    "license": "MIT",
-   "pushed_at": "2026-07-03T10:38:10Z",
+   "pushed_at": "2026-07-03T12:26:23Z",
    "created_at": "2025-06-09T19:29:16Z",
    "description": "A practical lab for building, testing, and evaluating apps with Apple's Foundation Models framework.",
    "topics": [
@@ -2111,12 +2111,12 @@
    "url": "https://github.com/nobodywho-ooo/nobodywho",
    "owner": "nobodywho-ooo",
    "owner_avatar": "https://avatars.githubusercontent.com/u/168536145?v=4",
-   "stars": 1014,
+   "stars": 1016,
    "forks": 70,
-   "open_issues": 34,
+   "open_issues": 35,
    "language": "Rust",
    "license": "EUPL-1.2",
-   "pushed_at": "2026-07-03T10:06:52Z",
+   "pushed_at": "2026-07-03T13:54:25Z",
    "created_at": "2024-09-03T12:53:14Z",
    "description": "NobodyWho is an inference engine that lets you run LLMs locally and efficiently on any device.",
    "topics": [
@@ -2141,54 +2141,14 @@
    "rank": 63
   },
   {
-   "name": "taOS",
-   "full_name": "jaylfc/taOS",
-   "slug": "jaylfc-taos",
-   "url": "https://github.com/jaylfc/taOS",
-   "owner": "jaylfc",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/30096482?v=4",
-   "stars": 523,
-   "forks": 30,
-   "open_issues": 248,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-07-03T11:13:24Z",
-   "created_at": "2026-04-05T15:33:40Z",
-   "description": "Self-hosted AI agent OS. Your memory, chat, agents, and files stay on hardware you own, offline by default, cloud by choice. Offline AI memory (taOSmd), self-hosted multi-framework group chat, a full web desktop + app store, and auto-clustering across the consumer hardware you already have (Orange/Raspberry Pi, Mac mini, gaming PC).",
-   "topics": [
-    "agent-framework",
-    "ai-agents",
-    "ai-platform",
-    "apple-silicon",
-    "data-sovereignty",
-    "distributed-computing",
-    "kv-cache-quantization",
-    "llm",
-    "llm-inference",
-    "local-first",
-    "local-llm",
-    "offline-first",
-    "orange-pi",
-    "privacy",
-    "raspberry-pi",
-    "rockchip-npu",
-    "self-hosted",
-    "turboquant",
-    "vllm"
-   ],
-   "category": "Quantization & Formats",
-   "momentum": 66,
-   "rank": 64
-  },
-  {
    "name": "BrowserAI",
    "full_name": "sauravpanda/BrowserAI",
    "slug": "sauravpanda-browserai",
    "url": "https://github.com/sauravpanda/BrowserAI",
    "owner": "sauravpanda",
    "owner_avatar": "https://avatars.githubusercontent.com/u/12201824?v=4",
-   "stars": 1440,
-   "forks": 139,
+   "stars": 1439,
+   "forks": 138,
    "open_issues": 24,
    "language": "TypeScript",
    "license": "MIT",
@@ -2208,7 +2168,7 @@
    ],
    "category": "In-Browser",
    "momentum": 65,
-   "rank": 65
+   "rank": 64
   },
   {
    "name": "mlx-tune",
@@ -2217,7 +2177,7 @@
    "url": "https://github.com/ARahim3/mlx-tune",
    "owner": "ARahim3",
    "owner_avatar": "https://avatars.githubusercontent.com/u/41390319?v=4",
-   "stars": 1340,
+   "stars": 1342,
    "forks": 87,
    "open_issues": 11,
    "language": "Python",
@@ -2249,7 +2209,7 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 65,
-   "rank": 66
+   "rank": 65
   },
   {
    "name": "n8n-install",
@@ -2259,7 +2219,7 @@
    "owner": "kossakovsky",
    "owner_avatar": "https://avatars.githubusercontent.com/u/11432603?v=4",
    "stars": 890,
-   "forks": 228,
+   "forks": 227,
    "open_issues": 0,
    "language": "Shell",
    "license": "Apache-2.0",
@@ -2290,7 +2250,7 @@
    ],
    "category": "Local UIs & Apps",
    "momentum": 65,
-   "rank": 67
+   "rank": 66
   },
   {
    "name": "tiny-vllm",
@@ -2299,7 +2259,7 @@
    "url": "https://github.com/jmaczan/tiny-vllm",
    "owner": "jmaczan",
    "owner_avatar": "https://avatars.githubusercontent.com/u/18054202?v=4",
-   "stars": 825,
+   "stars": 828,
    "forks": 52,
    "open_issues": 1,
    "language": "C++",
@@ -2324,7 +2284,7 @@
    ],
    "category": "Inference Engines",
    "momentum": 65,
-   "rank": 68
+   "rank": 67
   },
   {
    "name": "NornicDB",
@@ -2333,8 +2293,8 @@
    "url": "https://github.com/orneryd/NornicDB",
    "owner": "orneryd",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1736223?v=4",
-   "stars": 820,
-   "forks": 46,
+   "stars": 823,
+   "forks": 45,
    "open_issues": 3,
    "language": "Go",
    "license": "MIT",
@@ -2364,7 +2324,7 @@
    ],
    "category": "Inference Engines",
    "momentum": 65,
-   "rank": 69
+   "rank": 68
   },
   {
    "name": "cross-platform-llm-client",
@@ -2373,8 +2333,8 @@
    "url": "https://github.com/orailnoor/cross-platform-llm-client",
    "owner": "orailnoor",
    "owner_avatar": "https://avatars.githubusercontent.com/u/34442749?v=4",
-   "stars": 641,
-   "forks": 131,
+   "stars": 643,
+   "forks": 132,
    "open_issues": 21,
    "language": "C++",
    "license": "MIT",
@@ -2384,7 +2344,7 @@
    "topics": [],
    "category": "On-Device & Mobile",
    "momentum": 65,
-   "rank": 70
+   "rank": 69
   },
   {
    "name": "Bonsai-Image-Demo",
@@ -2393,7 +2353,7 @@
    "url": "https://github.com/PrismML-Eng/Bonsai-Image-Demo",
    "owner": "PrismML-Eng",
    "owner_avatar": "https://avatars.githubusercontent.com/u/259176612?v=4",
-   "stars": 464,
+   "stars": 465,
    "forks": 63,
    "open_issues": 5,
    "language": "PowerShell",
@@ -2411,7 +2371,7 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 65,
-   "rank": 71
+   "rank": 70
   },
   {
    "name": "Sidekick",
@@ -2451,7 +2411,181 @@
    ],
    "category": "Inference Engines",
    "momentum": 64,
+   "rank": 71
+  },
+  {
+   "name": "Wax",
+   "full_name": "christopherkarani/Wax",
+   "slug": "christopherkarani-wax",
+   "url": "https://github.com/christopherkarani/Wax",
+   "owner": "christopherkarani",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/13857475?v=4",
+   "stars": 767,
+   "forks": 46,
+   "open_issues": 0,
+   "language": "Swift",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-06-29T19:20:58Z",
+   "created_at": "2026-01-20T06:00:56Z",
+   "description": "Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No API. One File. Pure Swift",
+   "topics": [
+    "ai-agents",
+    "cli",
+    "coreml",
+    "coreml-framework",
+    "data-science",
+    "machine-learning",
+    "mcp",
+    "mcp-server",
+    "memory",
+    "memory-cache",
+    "memory-hacking",
+    "metal",
+    "on-device-ai",
+    "rag",
+    "rag-pipeline",
+    "swift",
+    "vector-database",
+    "vector-embeddings",
+    "vector-search",
+    "vectordb"
+   ],
+   "category": "On-Device & Mobile",
+   "momentum": 64,
    "rank": 72
+  },
+  {
+   "name": "mcp-client-for-ollama",
+   "full_name": "jonigl/mcp-client-for-ollama",
+   "slug": "jonigl-mcp-client-for-ollama",
+   "url": "https://github.com/jonigl/mcp-client-for-ollama",
+   "owner": "jonigl",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/4612832?v=4",
+   "stars": 764,
+   "forks": 106,
+   "open_issues": 22,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-06-30T17:53:15Z",
+   "created_at": "2025-04-23T21:05:02Z",
+   "description": "Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools, prompts, resources), agent mode, multi-server, model switching, streaming responses, human-in-the-loop, thinking mode, model params config, system prompts, and saved preferences.",
+   "topics": [
+    "agentic-ai",
+    "ai",
+    "command-line-tool",
+    "harness",
+    "linux",
+    "local-llm",
+    "macos",
+    "mcp",
+    "mcp-client",
+    "mcp-prompts",
+    "mcp-resouces",
+    "mcp-server",
+    "mcp-tools",
+    "model-context-protocol",
+    "ollama",
+    "open-source",
+    "sse",
+    "stdio",
+    "streamable-http",
+    "windows"
+   ],
+   "category": "Inference Engines",
+   "momentum": 64,
+   "rank": 73
+  },
+  {
+   "name": "muesli",
+   "full_name": "Muesli-HQ/muesli",
+   "slug": "muesli-hq-muesli",
+   "url": "https://github.com/Muesli-HQ/muesli",
+   "owner": "Muesli-HQ",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/285458230?v=4",
+   "stars": 656,
+   "forks": 68,
+   "open_issues": 36,
+   "language": "Swift",
+   "license": "MIT",
+   "pushed_at": "2026-07-04T09:20:39Z",
+   "created_at": "2026-03-05T13:40:49Z",
+   "description": "Muesli - local meeting transcription + dictation for macOS (Granola + WisprFlow alternative)",
+   "topics": [
+    "apple-silicon",
+    "dictation",
+    "macos",
+    "meeting-assistant",
+    "meeting-notes",
+    "on-device-ai",
+    "privacy-first",
+    "speech-to-text",
+    "transcription"
+   ],
+   "category": "On-Device & Mobile",
+   "momentum": 64,
+   "rank": 74
+  },
+  {
+   "name": "hipfire",
+   "full_name": "Kaden-Schutt/hipfire",
+   "slug": "kaden-schutt-hipfire",
+   "url": "https://github.com/Kaden-Schutt/hipfire",
+   "owner": "Kaden-Schutt",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/151092359?v=4",
+   "stars": 464,
+   "forks": 48,
+   "open_issues": 79,
+   "language": "Rust",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-07-04T10:17:19Z",
+   "created_at": "2026-03-21T02:59:11Z",
+   "description": "RDNA-native LLM inference engine in Rust.",
+   "topics": [
+    "amd-gpu",
+    "gpu-computing",
+    "hip",
+    "llm-inference",
+    "machine-learning",
+    "quantization",
+    "rdna",
+    "rocm",
+    "rust"
+   ],
+   "category": "Quantization & Formats",
+   "momentum": 64,
+   "rank": 75
+  },
+  {
+   "name": "zinc",
+   "full_name": "zolotukhin/zinc",
+   "slug": "zolotukhin-zinc",
+   "url": "https://github.com/zolotukhin/zinc",
+   "owner": "zolotukhin",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/5089340?v=4",
+   "stars": 443,
+   "forks": 18,
+   "open_issues": 3,
+   "language": "Zig",
+   "license": "MIT",
+   "pushed_at": "2026-07-04T05:27:27Z",
+   "created_at": "2026-03-25T01:50:17Z",
+   "description": "Zig INferenCe Engine — Local LLM inference on AMD GPUs and Apple Silicon",
+   "topics": [
+    "amd",
+    "amdgpu",
+    "gpt",
+    "gpu",
+    "openai",
+    "pytorch",
+    "qwen3",
+    "rdna3",
+    "rdna4",
+    "transformer",
+    "zig"
+   ],
+   "category": "Inference Engines",
+   "momentum": 64,
+   "rank": 76
   },
   {
    "name": "airunner",
@@ -2491,213 +2625,210 @@
     "text-to-speech-app"
    ],
    "category": "Inference Engines",
-   "momentum": 64,
-   "rank": 73
-  },
-  {
-   "name": "Wax",
-   "full_name": "christopherkarani/Wax",
-   "slug": "christopherkarani-wax",
-   "url": "https://github.com/christopherkarani/Wax",
-   "owner": "christopherkarani",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/13857475?v=4",
-   "stars": 767,
-   "forks": 47,
-   "open_issues": 0,
-   "language": "Swift",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-06-29T19:20:58Z",
-   "created_at": "2026-01-20T06:00:56Z",
-   "description": "Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No API. One File. Pure Swift",
-   "topics": [
-    "ai-agents",
-    "cli",
-    "coreml",
-    "coreml-framework",
-    "data-science",
-    "machine-learning",
-    "mcp",
-    "mcp-server",
-    "memory",
-    "memory-cache",
-    "memory-hacking",
-    "metal",
-    "on-device-ai",
-    "rag",
-    "rag-pipeline",
-    "swift",
-    "vector-database",
-    "vector-embeddings",
-    "vector-search",
-    "vectordb"
-   ],
-   "category": "On-Device & Mobile",
-   "momentum": 64,
-   "rank": 74
-  },
-  {
-   "name": "mcp-client-for-ollama",
-   "full_name": "jonigl/mcp-client-for-ollama",
-   "slug": "jonigl-mcp-client-for-ollama",
-   "url": "https://github.com/jonigl/mcp-client-for-ollama",
-   "owner": "jonigl",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/4612832?v=4",
-   "stars": 764,
-   "forks": 105,
-   "open_issues": 22,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-06-30T17:53:15Z",
-   "created_at": "2025-04-23T21:05:02Z",
-   "description": "Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools, prompts, resources), agent mode, multi-server, model switching, streaming responses, human-in-the-loop, thinking mode, model params config, system prompts, and saved preferences.",
-   "topics": [
-    "agentic-ai",
-    "ai",
-    "command-line-tool",
-    "harness",
-    "linux",
-    "local-llm",
-    "macos",
-    "mcp",
-    "mcp-client",
-    "mcp-prompts",
-    "mcp-resouces",
-    "mcp-server",
-    "mcp-tools",
-    "model-context-protocol",
-    "ollama",
-    "open-source",
-    "sse",
-    "stdio",
-    "streamable-http",
-    "windows"
-   ],
-   "category": "Inference Engines",
-   "momentum": 64,
-   "rank": 75
-  },
-  {
-   "name": "muesli",
-   "full_name": "Muesli-HQ/muesli",
-   "slug": "muesli-hq-muesli",
-   "url": "https://github.com/Muesli-HQ/muesli",
-   "owner": "Muesli-HQ",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/285458230?v=4",
-   "stars": 651,
-   "forks": 67,
-   "open_issues": 39,
-   "language": "Swift",
-   "license": "MIT",
-   "pushed_at": "2026-07-03T08:25:54Z",
-   "created_at": "2026-03-05T13:40:49Z",
-   "description": "Muesli - local meeting transcription + dictation for macOS (Granola + WisprFlow alternative)",
-   "topics": [
-    "apple-silicon",
-    "dictation",
-    "macos",
-    "meeting-assistant",
-    "meeting-notes",
-    "on-device-ai",
-    "privacy-first",
-    "speech-to-text",
-    "transcription"
-   ],
-   "category": "On-Device & Mobile",
-   "momentum": 64,
-   "rank": 76
-  },
-  {
-   "name": "hipfire",
-   "full_name": "Kaden-Schutt/hipfire",
-   "slug": "kaden-schutt-hipfire",
-   "url": "https://github.com/Kaden-Schutt/hipfire",
-   "owner": "Kaden-Schutt",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/151092359?v=4",
-   "stars": 464,
-   "forks": 48,
-   "open_issues": 77,
-   "language": "Rust",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-07-03T10:51:28Z",
-   "created_at": "2026-03-21T02:59:11Z",
-   "description": "RDNA-native LLM inference engine in Rust.",
-   "topics": [
-    "amd-gpu",
-    "gpu-computing",
-    "hip",
-    "llm-inference",
-    "machine-learning",
-    "quantization",
-    "rdna",
-    "rocm",
-    "rust"
-   ],
-   "category": "Quantization & Formats",
-   "momentum": 64,
+   "momentum": 63,
    "rank": 77
   },
   {
-   "name": "zinc",
-   "full_name": "zolotukhin/zinc",
-   "slug": "zolotukhin-zinc",
-   "url": "https://github.com/zolotukhin/zinc",
-   "owner": "zolotukhin",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/5089340?v=4",
-   "stars": 441,
-   "forks": 18,
-   "open_issues": 3,
-   "language": "Zig",
-   "license": "MIT",
-   "pushed_at": "2026-07-03T07:25:12Z",
-   "created_at": "2026-03-25T01:50:17Z",
-   "description": "Zig INferenCe Engine — Local LLM inference on AMD GPUs and Apple Silicon",
+   "name": "PokeClaw",
+   "full_name": "agents-io/PokeClaw",
+   "slug": "agents-io-pokeclaw",
+   "url": "https://github.com/agents-io/PokeClaw",
+   "owner": "agents-io",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/269032195?v=4",
+   "stars": 944,
+   "forks": 131,
+   "open_issues": 25,
+   "language": "Kotlin",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-06-02T07:20:06Z",
+   "created_at": "2026-04-06T08:31:02Z",
+   "description": "PokeClaw (PocketClaw) — first on-device AI that controls your Android phone. Gemma 4, no cloud, no API key. Poke is short for Pocket.",
    "topics": [
-    "amd",
-    "amdgpu",
-    "gpt",
-    "gpu",
-    "openai",
-    "pytorch",
-    "qwen3",
-    "rdna3",
-    "rdna4",
-    "transformer",
-    "zig"
+    "accessibility",
+    "ai-agent",
+    "android-automation",
+    "gemma4",
+    "litert",
+    "local-llm",
+    "on-device-ai",
+    "open-source",
+    "phone-agent",
+    "pocketclaw",
+    "pokeclaw",
+    "tool-calling"
    ],
-   "category": "Inference Engines",
-   "momentum": 64,
+   "category": "On-Device & Mobile",
+   "momentum": 63,
    "rank": 78
   },
   {
-   "name": "shortcast",
-   "full_name": "mutonby/shortcast",
-   "slug": "mutonby-shortcast",
-   "url": "https://github.com/mutonby/shortcast",
-   "owner": "mutonby",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/30499505?v=4",
-   "stars": 345,
-   "forks": 53,
-   "open_issues": 4,
-   "language": "Swift",
+   "name": "SmolChat-Android",
+   "full_name": "shubham0204/SmolChat-Android",
+   "slug": "shubham0204-smolchat-android",
+   "url": "https://github.com/shubham0204/SmolChat-Android",
+   "owner": "shubham0204",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/41076823?v=4",
+   "stars": 859,
+   "forks": 141,
+   "open_issues": 38,
+   "language": "Kotlin",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-04T21:23:55Z",
-   "created_at": "2026-05-23T12:53:38Z",
-   "description": "Native macOS app: drop a long video → auto-cut viral shorts, captioned for TikTok/Reels/YouTube, reframed to vertical, and scheduled. 100% on-device (Gemma 4 12B + WhisperKit + MLX).",
+   "pushed_at": "2026-06-21T11:40:53Z",
+   "created_at": "2024-11-10T08:26:09Z",
+   "description": "Running any GGUF SLMs/LLMs locally, on-device in Android",
    "topics": [
-    "apple-silicon",
-    "gemma",
-    "instagram-reels",
-    "macos",
-    "mlx",
+    "android",
+    "cpp",
+    "ggml",
+    "kotlin",
+    "llamacpp",
+    "small-language-models"
+   ],
+   "category": "Quantization & Formats",
+   "momentum": 63,
+   "rank": 79
+  },
+  {
+   "name": "Soul-of-Waifu",
+   "full_name": "jofizcd/Soul-of-Waifu",
+   "slug": "jofizcd-soul-of-waifu",
+   "url": "https://github.com/jofizcd/Soul-of-Waifu",
+   "owner": "jofizcd",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/103282270?v=4",
+   "stars": 769,
+   "forks": 43,
+   "open_issues": 4,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "pushed_at": "2026-06-23T22:26:07Z",
+   "created_at": "2023-09-02T14:43:26Z",
+   "description": "🌌 Give a soul to your favorite characters. Soul of Waifu is a desktop roleplay & AI companion app featuring Live2D/VRM avatars, voice chat & local LLM. Evolve together across immersive chat, RPG adventures, and your desktop.",
+   "topics": [
+    "ai",
+    "ai-companion",
+    "ai-girlfriend",
+    "ai-roleplay",
+    "ai-vtuber",
+    "ai-waifu",
+    "anime",
+    "character-ai",
+    "chatbot",
+    "desktop-app",
+    "live2d",
+    "live2d-model",
+    "llamacpp",
+    "local-llm",
+    "neurosama",
+    "python",
+    "roleplay",
+    "soul-of-waifu",
+    "virtual-girlfriend",
+    "vrm"
+   ],
+   "category": "Inference Engines",
+   "momentum": 63,
+   "rank": 80
+  },
+  {
+   "name": "ONE",
+   "full_name": "Samsung/ONE",
+   "slug": "samsung-one",
+   "url": "https://github.com/Samsung/ONE",
+   "owner": "Samsung",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/6210390?v=4",
+   "stars": 576,
+   "forks": 185,
+   "open_issues": 377,
+   "language": "C++",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-07-04T01:49:15Z",
+   "created_at": "2020-04-16T09:33:50Z",
+   "description": "On-device Neural Engine",
+   "topics": [
+    "compiler",
+    "neural-network",
     "on-device-ai",
-    "swift",
-    "swiftui",
-    "tiktok",
-    "youtube-shorts"
+    "optimization",
+    "runtime"
    ],
    "category": "On-Device & Mobile",
-   "momentum": 64,
-   "rank": 79
+   "momentum": 63,
+   "rank": 81
+  },
+  {
+   "name": "llm-wiki-memory",
+   "full_name": "ctxr-dev/llm-wiki-memory",
+   "slug": "ctxr-dev-llm-wiki-memory",
+   "url": "https://github.com/ctxr-dev/llm-wiki-memory",
+   "owner": "ctxr-dev",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/275156613?v=4",
+   "stars": 101,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "JavaScript",
+   "license": "MIT",
+   "pushed_at": "2026-07-03T17:13:19Z",
+   "created_at": "2026-05-22T20:22:41Z",
+   "description": "Local, git-versioned memory for AI coding agents. No RAG, no Docker, no external service. Capture, compile, recall over a local LLM wiki with on-device embeddings and an MCP server.",
+   "topics": [
+    "agent-memory",
+    "andrej-karpathy",
+    "andrej-karpathy-llm-wiki",
+    "andrej-karpathy-skills",
+    "claude-code",
+    "embeddings",
+    "llm-wiki",
+    "memory",
+    "rag",
+    "semantic-search"
+   ],
+   "category": "On-Device & Mobile",
+   "momentum": 63,
+   "rank": 82
+  },
+  {
+   "name": "praxis-cloak",
+   "full_name": "Praxis-Society/praxis-cloak",
+   "slug": "praxis-society-praxis-cloak",
+   "url": "https://github.com/Praxis-Society/praxis-cloak",
+   "owner": "Praxis-Society",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/108590114?v=4",
+   "stars": 53,
+   "forks": 3,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-06-29T15:02:29Z",
+   "created_at": "2026-06-29T15:02:22Z",
+   "description": "On-device PII scrub + rehydration for cloud LLMs — chat with Claude/GPT while a local model swaps your PII out before the prompt is sent, then maps the answer back to your real entities. Built with Qwen.",
+   "topics": [],
+   "category": "On-Device & Mobile",
+   "momentum": 63,
+   "rank": 83
+  },
+  {
+   "name": "OpenTihui",
+   "full_name": "cyyself/OpenTihui",
+   "slug": "cyyself-opentihui",
+   "url": "https://github.com/cyyself/OpenTihui",
+   "owner": "cyyself",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/8191303?v=4",
+   "stars": 47,
+   "forks": 3,
+   "open_issues": 1,
+   "language": "Swift",
+   "license": "MIT",
+   "pushed_at": "2026-06-30T16:17:17Z",
+   "created_at": "2026-06-28T16:13:21Z",
+   "description": "on-device LLM for iOS with keyboard shortcuts",
+   "topics": [
+    "ios",
+    "llama-cpp",
+    "llm-inference"
+   ],
+   "category": "On-Device & Mobile",
+   "momentum": 63,
+   "rank": 84
   },
   {
    "name": "awesome-openclaw",
@@ -2706,7 +2837,7 @@
    "url": "https://github.com/SamurAIGPT/awesome-openclaw",
    "owner": "SamurAIGPT",
    "owner_avatar": "https://avatars.githubusercontent.com/u/131431084?v=4",
-   "stars": 965,
+   "stars": 966,
    "forks": 229,
    "open_issues": 21,
    "language": "",
@@ -2737,184 +2868,8 @@
     "whatsapp-bot"
    ],
    "category": "Collections",
-   "momentum": 63,
-   "rank": 80
-  },
-  {
-   "name": "PokeClaw",
-   "full_name": "agents-io/PokeClaw",
-   "slug": "agents-io-pokeclaw",
-   "url": "https://github.com/agents-io/PokeClaw",
-   "owner": "agents-io",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/269032195?v=4",
-   "stars": 940,
-   "forks": 131,
-   "open_issues": 24,
-   "language": "Kotlin",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-06-02T07:20:06Z",
-   "created_at": "2026-04-06T08:31:02Z",
-   "description": "PokeClaw (PocketClaw) — first on-device AI that controls your Android phone. Gemma 4, no cloud, no API key. Poke is short for Pocket.",
-   "topics": [
-    "accessibility",
-    "ai-agent",
-    "android-automation",
-    "gemma4",
-    "litert",
-    "local-llm",
-    "on-device-ai",
-    "open-source",
-    "phone-agent",
-    "pocketclaw",
-    "pokeclaw",
-    "tool-calling"
-   ],
-   "category": "On-Device & Mobile",
-   "momentum": 63,
-   "rank": 81
-  },
-  {
-   "name": "SmolChat-Android",
-   "full_name": "shubham0204/SmolChat-Android",
-   "slug": "shubham0204-smolchat-android",
-   "url": "https://github.com/shubham0204/SmolChat-Android",
-   "owner": "shubham0204",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/41076823?v=4",
-   "stars": 859,
-   "forks": 141,
-   "open_issues": 38,
-   "language": "Kotlin",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-06-21T11:40:53Z",
-   "created_at": "2024-11-10T08:26:09Z",
-   "description": "Running any GGUF SLMs/LLMs locally, on-device in Android",
-   "topics": [
-    "android",
-    "cpp",
-    "ggml",
-    "kotlin",
-    "llamacpp",
-    "small-language-models"
-   ],
-   "category": "Quantization & Formats",
-   "momentum": 63,
-   "rank": 82
-  },
-  {
-   "name": "Soul-of-Waifu",
-   "full_name": "jofizcd/Soul-of-Waifu",
-   "slug": "jofizcd-soul-of-waifu",
-   "url": "https://github.com/jofizcd/Soul-of-Waifu",
-   "owner": "jofizcd",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/103282270?v=4",
-   "stars": 767,
-   "forks": 43,
-   "open_issues": 3,
-   "language": "Python",
-   "license": "GPL-3.0",
-   "pushed_at": "2026-06-23T22:26:07Z",
-   "created_at": "2023-09-02T14:43:26Z",
-   "description": "🌌 Give a soul to your favorite characters. Soul of Waifu is a desktop roleplay & AI companion app featuring Live2D/VRM avatars, voice chat & local LLM. Evolve together across immersive chat, RPG adventures, and your desktop.",
-   "topics": [
-    "ai",
-    "ai-companion",
-    "ai-girlfriend",
-    "ai-roleplay",
-    "ai-vtuber",
-    "ai-waifu",
-    "anime",
-    "character-ai",
-    "chatbot",
-    "desktop-app",
-    "live2d",
-    "live2d-model",
-    "llamacpp",
-    "local-llm",
-    "neurosama",
-    "python",
-    "roleplay",
-    "soul-of-waifu",
-    "virtual-girlfriend",
-    "vrm"
-   ],
-   "category": "Inference Engines",
-   "momentum": 63,
-   "rank": 83
-  },
-  {
-   "name": "llm-wiki-memory",
-   "full_name": "ctxr-dev/llm-wiki-memory",
-   "slug": "ctxr-dev-llm-wiki-memory",
-   "url": "https://github.com/ctxr-dev/llm-wiki-memory",
-   "owner": "ctxr-dev",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/275156613?v=4",
-   "stars": 101,
-   "forks": 0,
-   "open_issues": 1,
-   "language": "JavaScript",
-   "license": "MIT",
-   "pushed_at": "2026-07-02T23:12:01Z",
-   "created_at": "2026-05-22T20:22:41Z",
-   "description": "Local, git-versioned memory for AI coding agents. No RAG, no Docker, no external service. Capture, compile, recall over a local LLM wiki with on-device embeddings and an MCP server.",
-   "topics": [
-    "agent-memory",
-    "andrej-karpathy",
-    "andrej-karpathy-llm-wiki",
-    "andrej-karpathy-skills",
-    "claude-code",
-    "embeddings",
-    "llm-wiki",
-    "memory",
-    "rag",
-    "semantic-search"
-   ],
-   "category": "On-Device & Mobile",
-   "momentum": 63,
-   "rank": 84
-  },
-  {
-   "name": "OpenTihui",
-   "full_name": "cyyself/OpenTihui",
-   "slug": "cyyself-opentihui",
-   "url": "https://github.com/cyyself/OpenTihui",
-   "owner": "cyyself",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/8191303?v=4",
-   "stars": 47,
-   "forks": 3,
-   "open_issues": 1,
-   "language": "Swift",
-   "license": "MIT",
-   "pushed_at": "2026-06-30T16:17:17Z",
-   "created_at": "2026-06-28T16:13:21Z",
-   "description": "on-device LLM for iOS with keyboard shortcuts",
-   "topics": [
-    "ios",
-    "llama-cpp",
-    "llm-inference"
-   ],
-   "category": "On-Device & Mobile",
-   "momentum": 63,
+   "momentum": 62,
    "rank": 85
-  },
-  {
-   "name": "praxis-cloak",
-   "full_name": "Praxis-Society/praxis-cloak",
-   "slug": "praxis-society-praxis-cloak",
-   "url": "https://github.com/Praxis-Society/praxis-cloak",
-   "owner": "Praxis-Society",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/108590114?v=4",
-   "stars": 47,
-   "forks": 3,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-06-29T15:02:29Z",
-   "created_at": "2026-06-29T15:02:22Z",
-   "description": "On-device PII scrub + rehydration for cloud LLMs — chat with Claude/GPT while a local model swaps your PII out before the prompt is sent, then maps the answer back to your real entities. Built with Qwen.",
-   "topics": [],
-   "category": "On-Device & Mobile",
-   "momentum": 63,
-   "rank": 86
   },
   {
    "name": "TheWhisper",
@@ -2948,7 +2903,7 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 62,
-   "rank": 87
+   "rank": 86
   },
   {
    "name": "Uncensored-Local-AI-Multiplatform",
@@ -2957,8 +2912,8 @@
    "url": "https://github.com/techjarves/Uncensored-Local-AI-Multiplatform",
    "owner": "techjarves",
    "owner_avatar": "https://avatars.githubusercontent.com/u/54399984?v=4",
-   "stars": 806,
-   "forks": 177,
+   "stars": 814,
+   "forks": 181,
    "open_issues": 30,
    "language": "Dart",
    "license": "",
@@ -2972,7 +2927,7 @@
    ],
    "category": "Quantization & Formats",
    "momentum": 62,
-   "rank": 88
+   "rank": 87
   },
   {
    "name": "restai",
@@ -2982,7 +2937,7 @@
    "owner": "apocas",
    "owner_avatar": "https://avatars.githubusercontent.com/u/597413?v=4",
    "stars": 511,
-   "forks": 104,
+   "forks": 105,
    "open_issues": 5,
    "language": "Python",
    "license": "Apache-2.0",
@@ -3007,39 +2962,7 @@
    ],
    "category": "Inference Engines",
    "momentum": 62,
-   "rank": 89
-  },
-  {
-   "name": "pennywiseai-tracker",
-   "full_name": "sarim2000/pennywiseai-tracker",
-   "slug": "sarim2000-pennywiseai-tracker",
-   "url": "https://github.com/sarim2000/pennywiseai-tracker",
-   "owner": "sarim2000",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/50093514?v=4",
-   "stars": 508,
-   "forks": 104,
-   "open_issues": 40,
-   "language": "Kotlin",
-   "license": "AGPL-3.0",
-   "pushed_at": "2026-07-03T07:23:38Z",
-   "created_at": "2025-07-18T15:07:31Z",
-   "description": "PennyWise automatically reads transaction SMS messages and transforms them    into organized financial data with on-device AI assistance. No manual   entry, no cloud processing, complete privacy.",
-   "topics": [
-    "android",
-    "budget-manager",
-    "budget-tracker",
-    "expense-tracker",
-    "finance-management",
-    "finance-tracker",
-    "kotlin",
-    "mediapipe",
-    "on-device-ai",
-    "sms-parser",
-    "sms-parsing"
-   ],
-   "category": "On-Device & Mobile",
-   "momentum": 62,
-   "rank": 90
+   "rank": 88
   },
   {
    "name": "openinfer",
@@ -3048,12 +2971,12 @@
    "url": "https://github.com/openinfer-project/openinfer",
    "owner": "openinfer-project",
    "owner_avatar": "https://avatars.githubusercontent.com/u/292134277?v=4",
-   "stars": 506,
+   "stars": 510,
    "forks": 75,
-   "open_issues": 95,
+   "open_issues": 101,
    "language": "Rust",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-03T10:25:14Z",
+   "pushed_at": "2026-07-04T10:28:14Z",
    "created_at": "2026-02-17T12:01:22Z",
    "description": "Pure Rust + CUDA LLM inference engine — no PyTorch, OpenAI-compatible, serves Qwen3 to Kimi-K2",
    "topics": [
@@ -3080,7 +3003,39 @@
    ],
    "category": "Inference Engines",
    "momentum": 62,
-   "rank": 91
+   "rank": 89
+  },
+  {
+   "name": "pennywiseai-tracker",
+   "full_name": "sarim2000/pennywiseai-tracker",
+   "slug": "sarim2000-pennywiseai-tracker",
+   "url": "https://github.com/sarim2000/pennywiseai-tracker",
+   "owner": "sarim2000",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/50093514?v=4",
+   "stars": 509,
+   "forks": 107,
+   "open_issues": 40,
+   "language": "Kotlin",
+   "license": "AGPL-3.0",
+   "pushed_at": "2026-07-03T07:23:38Z",
+   "created_at": "2025-07-18T15:07:31Z",
+   "description": "PennyWise automatically reads transaction SMS messages and transforms them    into organized financial data with on-device AI assistance. No manual   entry, no cloud processing, complete privacy.",
+   "topics": [
+    "android",
+    "budget-manager",
+    "budget-tracker",
+    "expense-tracker",
+    "finance-management",
+    "finance-tracker",
+    "kotlin",
+    "mediapipe",
+    "on-device-ai",
+    "sms-parser",
+    "sms-parsing"
+   ],
+   "category": "On-Device & Mobile",
+   "momentum": 62,
+   "rank": 90
   },
   {
    "name": "OpenArc",
@@ -3108,27 +3063,7 @@
    ],
    "category": "Inference Engines",
    "momentum": 62,
-   "rank": 92
-  },
-  {
-   "name": "gemma-chat",
-   "full_name": "ammaarreshi/gemma-chat",
-   "slug": "ammaarreshi-gemma-chat",
-   "url": "https://github.com/ammaarreshi/gemma-chat",
-   "owner": "ammaarreshi",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/159876365?v=4",
-   "stars": 1395,
-   "forks": 256,
-   "open_issues": 27,
-   "language": "TypeScript",
-   "license": "MIT",
-   "pushed_at": "2026-04-28T19:56:12Z",
-   "created_at": "2026-04-20T01:27:00Z",
-   "description": "Local AI chat + coding agent for Apple Silicon, powered by Gemma 4 via MLX / Supports Ollama",
-   "topics": [],
-   "category": "Runners",
-   "momentum": 61,
-   "rank": 93
+   "rank": 91
   },
   {
    "name": "obsidian-llm-wiki-local",
@@ -3137,7 +3072,7 @@
    "url": "https://github.com/kytmanov/obsidian-llm-wiki-local",
    "owner": "kytmanov",
    "owner_avatar": "https://avatars.githubusercontent.com/u/19655528?v=4",
-   "stars": 755,
+   "stars": 757,
    "forks": 121,
    "open_issues": 2,
    "language": "Python",
@@ -3169,7 +3104,7 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 61,
-   "rank": 94
+   "rank": 92
   },
   {
    "name": "Crane",
@@ -3180,7 +3115,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/21303438?v=4",
    "stars": 416,
    "forks": 47,
-   "open_issues": 14,
+   "open_issues": 15,
    "language": "Rust",
    "license": "MIT",
    "pushed_at": "2026-07-02T05:46:49Z",
@@ -3196,57 +3131,27 @@
    ],
    "category": "Inference Engines",
    "momentum": 61,
-   "rank": 95
+   "rank": 93
   },
   {
-   "name": "khadas_yolov8n_multithread",
-   "full_name": "alebal123bal/khadas_yolov8n_multithread",
-   "slug": "alebal123bal-khadas-yolov8n-multithread",
-   "url": "https://github.com/alebal123bal/khadas_yolov8n_multithread",
-   "owner": "alebal123bal",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/113373596?v=4",
-   "stars": 79,
-   "forks": 14,
-   "open_issues": 0,
-   "language": "C++",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-06-19T17:30:38Z",
-   "created_at": "2026-06-02T16:11:48Z",
-   "description": "Real-time YOLOv8n UAV detection on the RK3588S NPU | saturates the sensor at 46 FPS | ~140 MB RAM | fully hardware-accelerated (ISP+RGA+NPU) | on-device LLM scene summaries",
-   "topics": [
-    "computer-vision",
-    "drone",
-    "llm",
-    "multithreading",
-    "npu",
-    "rk3588s",
-    "rknpu",
-    "uav",
-    "yolov8"
-   ],
-   "category": "On-Device & Mobile",
-   "momentum": 61,
-   "rank": 96
-  },
-  {
-   "name": "METATRON",
-   "full_name": "sooryathejas/METATRON",
-   "slug": "sooryathejas-metatron",
-   "url": "https://github.com/sooryathejas/METATRON",
-   "owner": "sooryathejas",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/196668312?v=4",
-   "stars": 3247,
-   "forks": 658,
-   "open_issues": 14,
-   "language": "Python",
+   "name": "gemma-chat",
+   "full_name": "ammaarreshi/gemma-chat",
+   "slug": "ammaarreshi-gemma-chat",
+   "url": "https://github.com/ammaarreshi/gemma-chat",
+   "owner": "ammaarreshi",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/159876365?v=4",
+   "stars": 1397,
+   "forks": 256,
+   "open_issues": 27,
+   "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-04-11T07:16:57Z",
-   "created_at": "2026-04-02T06:06:43Z",
-   "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
+   "pushed_at": "2026-04-28T19:56:12Z",
+   "created_at": "2026-04-20T01:27:00Z",
+   "description": "Local AI chat + coding agent for Apple Silicon, powered by Gemma 4 via MLX / Supports Ollama",
    "topics": [],
-   "category": "Local LLM Tools",
+   "category": "Runners",
    "momentum": 60,
-   "rank": 97
+   "rank": 94
   },
   {
    "name": "openyak",
@@ -3287,33 +3192,7 @@
    ],
    "category": "Runners",
    "momentum": 60,
-   "rank": 98
-  },
-  {
-   "name": "ONE",
-   "full_name": "Samsung/ONE",
-   "slug": "samsung-one",
-   "url": "https://github.com/Samsung/ONE",
-   "owner": "Samsung",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/6210390?v=4",
-   "stars": 576,
-   "forks": 185,
-   "open_issues": 377,
-   "language": "C++",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-06-14T20:06:48Z",
-   "created_at": "2020-04-16T09:33:50Z",
-   "description": "On-device Neural Engine",
-   "topics": [
-    "compiler",
-    "neural-network",
-    "on-device-ai",
-    "optimization",
-    "runtime"
-   ],
-   "category": "On-Device & Mobile",
-   "momentum": 60,
-   "rank": 99
+   "rank": 95
   },
   {
    "name": "picollm",
@@ -3324,10 +3203,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/37164515?v=4",
    "stars": 313,
    "forks": 26,
-   "open_issues": 6,
+   "open_issues": 0,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-02T23:57:04Z",
+   "pushed_at": "2026-07-03T20:11:10Z",
    "created_at": "2024-04-09T21:23:22Z",
    "description": "On-device LLM Inference Powered by X-Bit Quantization",
    "topics": [
@@ -3353,7 +3232,7 @@
    ],
    "category": "Quantization & Formats",
    "momentum": 60,
-   "rank": 100
+   "rank": 96
   },
   {
    "name": "qvac",
@@ -3362,12 +3241,12 @@
    "url": "https://github.com/tetherto/qvac",
    "owner": "tetherto",
    "owner_avatar": "https://avatars.githubusercontent.com/u/10565375?v=4",
-   "stars": 289,
+   "stars": 291,
    "forks": 74,
-   "open_issues": 109,
+   "open_issues": 104,
    "language": "TypeScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-07-03T10:23:39Z",
+   "pushed_at": "2026-07-04T09:51:22Z",
    "created_at": "2026-01-03T01:59:01Z",
    "description": "QVAC - Local AI SDK and libraries for building private, cross-platform, peer-to-peer AI applications. Run LLMs, speech-to-text, translation, and more locally on Linux, macOS, Windows, Android, and iOS.",
    "topics": [
@@ -3388,7 +3267,7 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 60,
-   "rank": 101
+   "rank": 97
   },
   {
    "name": "TensorSharp",
@@ -3397,12 +3276,12 @@
    "url": "https://github.com/zhongkaifu/TensorSharp",
    "owner": "zhongkaifu",
    "owner_avatar": "https://avatars.githubusercontent.com/u/3347714?v=4",
-   "stars": 155,
+   "stars": 157,
    "forks": 12,
    "open_issues": 2,
    "language": "C#",
    "license": "BSD-3-Clause",
-   "pushed_at": "2026-07-02T19:04:30Z",
+   "pushed_at": "2026-07-03T19:04:07Z",
    "created_at": "2026-04-03T07:04:15Z",
    "description": "A native .NET LLM inference engine for GGUF models. TensorSharp provides a console application, a web-based chatbot interface, and Ollama/OpenAI-compatible HTTP APIs for programmatic access. It supports Windows/MacOS/Linux with full GPU capability",
    "topics": [
@@ -3421,7 +3300,57 @@
    ],
    "category": "Quantization & Formats",
    "momentum": 60,
-   "rank": 102
+   "rank": 98
+  },
+  {
+   "name": "khadas_yolov8n_multithread",
+   "full_name": "alebal123bal/khadas_yolov8n_multithread",
+   "slug": "alebal123bal-khadas-yolov8n-multithread",
+   "url": "https://github.com/alebal123bal/khadas_yolov8n_multithread",
+   "owner": "alebal123bal",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/113373596?v=4",
+   "stars": 79,
+   "forks": 14,
+   "open_issues": 0,
+   "language": "C++",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-06-19T17:30:38Z",
+   "created_at": "2026-06-02T16:11:48Z",
+   "description": "Real-time YOLOv8n UAV detection on the RK3588S NPU | saturates the sensor at 46 FPS | ~140 MB RAM | fully hardware-accelerated (ISP+RGA+NPU) | on-device LLM scene summaries",
+   "topics": [
+    "computer-vision",
+    "drone",
+    "llm",
+    "multithreading",
+    "npu",
+    "rk3588s",
+    "rknpu",
+    "uav",
+    "yolov8"
+   ],
+   "category": "On-Device & Mobile",
+   "momentum": 60,
+   "rank": 99
+  },
+  {
+   "name": "METATRON",
+   "full_name": "sooryathejas/METATRON",
+   "slug": "sooryathejas-metatron",
+   "url": "https://github.com/sooryathejas/METATRON",
+   "owner": "sooryathejas",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/196668312?v=4",
+   "stars": 3260,
+   "forks": 658,
+   "open_issues": 14,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-04-11T07:16:57Z",
+   "created_at": "2026-04-02T06:06:43Z",
+   "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
+   "topics": [],
+   "category": "Local LLM Tools",
+   "momentum": 59,
+   "rank": 100
   },
   {
    "name": "WhisperJAV",
@@ -3430,9 +3359,9 @@
    "url": "https://github.com/meizhong986/WhisperJAV",
    "owner": "meizhong986",
    "owner_avatar": "https://avatars.githubusercontent.com/u/148393222?v=4",
-   "stars": 1760,
-   "forks": 151,
-   "open_issues": 119,
+   "stars": 1805,
+   "forks": 156,
+   "open_issues": 121,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-05-10T17:16:11Z",
@@ -3455,7 +3384,7 @@
    ],
    "category": "Local LLM Tools",
    "momentum": 59,
-   "rank": 103
+   "rank": 101
   },
   {
    "name": "docsagent",
@@ -3487,7 +3416,7 @@
    ],
    "category": "Local LLM Tools",
    "momentum": 59,
-   "rank": 104
+   "rank": 102
   },
   {
    "name": "ggrun",
@@ -3496,12 +3425,12 @@
    "url": "https://github.com/raketenkater/ggrun",
    "owner": "raketenkater",
    "owner_avatar": "https://avatars.githubusercontent.com/u/49783786?v=4",
-   "stars": 240,
+   "stars": 241,
    "forks": 12,
    "open_issues": 1,
    "language": "Go",
    "license": "MIT",
-   "pushed_at": "2026-07-03T00:10:20Z",
+   "pushed_at": "2026-07-04T08:15:33Z",
    "created_at": "2026-03-11T11:15:58Z",
    "description": "Auto-tuned launcher for GGUF models on llama.cpp / ik_llama.cpp — OpenAI-compatible server with multi-GPU tensor-split, MoE expert placement, measured flag tuning (AI Tune), hardware-matched HuggingFace downloads, and crash recovery. An Ollama alternative for multi-GPU rigs.",
    "topics": [
@@ -3525,7 +3454,27 @@
    ],
    "category": "Quantization & Formats",
    "momentum": 59,
-   "rank": 105
+   "rank": 103
+  },
+  {
+   "name": "swama",
+   "full_name": "Trans-N-ai/swama",
+   "slug": "trans-n-ai-swama",
+   "url": "https://github.com/Trans-N-ai/swama",
+   "owner": "Trans-N-ai",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/170717124?v=4",
+   "stars": 569,
+   "forks": 31,
+   "open_issues": 35,
+   "language": "Swift",
+   "license": "MIT",
+   "pushed_at": "2026-06-08T00:59:35Z",
+   "created_at": "2025-06-04T04:56:57Z",
+   "description": "High-performance MLX-based LLM inference engine for macOS with native Swift implementation",
+   "topics": [],
+   "category": "Inference Engines",
+   "momentum": 58,
+   "rank": 104
   },
   {
    "name": "gguf",
@@ -3548,59 +3497,8 @@
     "node"
    ],
    "category": "Quantization & Formats",
-   "momentum": 59,
-   "rank": 106
-  },
-  {
-   "name": "SwiftLM",
-   "full_name": "SharpAI/SwiftLM",
-   "slug": "sharpai-swiftlm",
-   "url": "https://github.com/SharpAI/SwiftLM",
-   "owner": "SharpAI",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/36420545?v=4",
-   "stars": 702,
-   "forks": 42,
-   "open_issues": 9,
-   "language": "Swift",
-   "license": "MIT",
-   "pushed_at": "2026-05-19T01:34:21Z",
-   "created_at": "2026-03-21T06:48:49Z",
-   "description": "⚡ Native MLX Swift LLM inference server for Apple Silicon. OpenAI-compatible API, SSD streaming for 100B+ MoE models, TurboQuant KV cache compression, MACOS + iOS iPhone app.",
-   "topics": [
-    "apple-sili",
-    "inference",
-    "ios",
-    "llm",
-    "metal",
-    "mlx",
-    "moe",
-    "on-device-ai",
-    "openai-api",
-    "swift"
-   ],
-   "category": "Quantization & Formats",
    "momentum": 58,
-   "rank": 107
-  },
-  {
-   "name": "swama",
-   "full_name": "Trans-N-ai/swama",
-   "slug": "trans-n-ai-swama",
-   "url": "https://github.com/Trans-N-ai/swama",
-   "owner": "Trans-N-ai",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/170717124?v=4",
-   "stars": 567,
-   "forks": 31,
-   "open_issues": 35,
-   "language": "Swift",
-   "license": "MIT",
-   "pushed_at": "2026-06-08T00:59:35Z",
-   "created_at": "2025-06-04T04:56:57Z",
-   "description": "High-performance MLX-based LLM inference engine for macOS with native Swift implementation",
-   "topics": [],
-   "category": "Inference Engines",
-   "momentum": 58,
-   "rank": 108
+   "rank": 105
   },
   {
    "name": "strix-halo-guide",
@@ -3609,7 +3507,7 @@
    "url": "https://github.com/hogeheer499-commits/strix-halo-guide",
    "owner": "hogeheer499-commits",
    "owner_avatar": "https://avatars.githubusercontent.com/u/267467744?v=4",
-   "stars": 194,
+   "stars": 195,
    "forks": 9,
    "open_issues": 7,
    "language": "Python",
@@ -3641,7 +3539,7 @@
    ],
    "category": "Quantization & Formats",
    "momentum": 58,
-   "rank": 109
+   "rank": 106
   },
   {
    "name": "localmind",
@@ -3661,7 +3559,7 @@
    "topics": [],
    "category": "On-Device & Mobile",
    "momentum": 58,
-   "rank": 110
+   "rank": 107
   },
   {
    "name": "hermes-voice-ha-integration",
@@ -3690,7 +3588,38 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 58,
-   "rank": 111
+   "rank": 108
+  },
+  {
+   "name": "SwiftLM",
+   "full_name": "SharpAI/SwiftLM",
+   "slug": "sharpai-swiftlm",
+   "url": "https://github.com/SharpAI/SwiftLM",
+   "owner": "SharpAI",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/36420545?v=4",
+   "stars": 702,
+   "forks": 42,
+   "open_issues": 9,
+   "language": "Swift",
+   "license": "MIT",
+   "pushed_at": "2026-05-19T01:34:21Z",
+   "created_at": "2026-03-21T06:48:49Z",
+   "description": "⚡ Native MLX Swift LLM inference server for Apple Silicon. OpenAI-compatible API, SSD streaming for 100B+ MoE models, TurboQuant KV cache compression, MACOS + iOS iPhone app.",
+   "topics": [
+    "apple-sili",
+    "inference",
+    "ios",
+    "llm",
+    "metal",
+    "mlx",
+    "moe",
+    "on-device-ai",
+    "openai-api",
+    "swift"
+   ],
+   "category": "Quantization & Formats",
+   "momentum": 57,
+   "rank": 109
   },
   {
    "name": "jangq",
@@ -3721,7 +3650,7 @@
    ],
    "category": "Quantization & Formats",
    "momentum": 57,
-   "rank": 112
+   "rank": 110
   },
   {
    "name": "fox",
@@ -3735,13 +3664,13 @@
    "open_issues": 4,
    "language": "Rust",
    "license": "NOASSERTION",
-   "pushed_at": "2026-07-03T10:47:41Z",
+   "pushed_at": "2026-07-03T20:35:36Z",
    "created_at": "2026-03-08T21:23:29Z",
    "description": "High-performance LLM inference engine — drop-in replacement for Ollama with faster multi-turn inference, lower TTFT, and higher throughput through prefix caching and continuous batching.",
    "topics": [],
    "category": "Inference Engines",
    "momentum": 57,
-   "rank": 113
+   "rank": 111
   },
   {
    "name": "model-shelf",
@@ -3750,7 +3679,7 @@
    "url": "https://github.com/alexziskind1/model-shelf",
    "owner": "alexziskind1",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1638579?v=4",
-   "stars": 116,
+   "stars": 115,
    "forks": 24,
    "open_issues": 8,
    "language": "Python",
@@ -3761,7 +3690,7 @@
    "topics": [],
    "category": "Quantization & Formats",
    "momentum": 57,
-   "rank": 114
+   "rank": 112
   },
   {
    "name": "MobileLLM",
@@ -3781,7 +3710,7 @@
    "topics": [],
    "category": "On-Device & Mobile",
    "momentum": 56,
-   "rank": 115
+   "rank": 113
   },
   {
    "name": "eclaire",
@@ -3790,8 +3719,8 @@
    "url": "https://github.com/eclaire-labs/eclaire",
    "owner": "eclaire-labs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/229872666?v=4",
-   "stars": 882,
-   "forks": 89,
+   "stars": 883,
+   "forks": 90,
    "open_issues": 1,
    "language": "TypeScript",
    "license": "MIT",
@@ -3821,7 +3750,7 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 56,
-   "rank": 116
+   "rank": 114
   },
   {
    "name": "ETOS-LLM-Studio",
@@ -3832,7 +3761,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/121368508?v=4",
    "stars": 146,
    "forks": 9,
-   "open_issues": 8,
+   "open_issues": 7,
    "language": "Swift",
    "license": "GPL-3.0",
    "pushed_at": "2026-07-03T10:23:46Z",
@@ -3852,7 +3781,7 @@
    ],
    "category": "Quantization & Formats",
    "momentum": 56,
-   "rank": 117
+   "rank": 115
   },
   {
    "name": "BodhiApp",
@@ -3866,7 +3795,7 @@
    "open_issues": 10,
    "language": "TypeScript",
    "license": "",
-   "pushed_at": "2026-07-02T10:38:11Z",
+   "pushed_at": "2026-07-04T00:26:32Z",
    "created_at": "2024-02-29T06:58:12Z",
    "description": "Run Open Source/Open Weight LLMs locally with OpenAI compatible APIs",
    "topics": [
@@ -3882,27 +3811,7 @@
    ],
    "category": "Runners",
    "momentum": 56,
-   "rank": 118
-  },
-  {
-   "name": "anemll-flash-llama.cpp",
-   "full_name": "Anemll/anemll-flash-llama.cpp",
-   "slug": "anemll-anemll-flash-llama-cpp",
-   "url": "https://github.com/Anemll/anemll-flash-llama.cpp",
-   "owner": "Anemll",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/193841227?v=4",
-   "stars": 115,
-   "forks": 14,
-   "open_issues": 2,
-   "language": "C++",
-   "license": "MIT",
-   "pushed_at": "2026-06-20T09:03:12Z",
-   "created_at": "2026-03-31T02:01:36Z",
-   "description": "Flash-MoE sidecar slot-bank runtime for large GGUF MoE models on Apple Silicon — llama.cpp fork",
-   "topics": [],
-   "category": "Quantization & Formats",
-   "momentum": 56,
-   "rank": 119
+   "rank": 116
   },
   {
    "name": "gpt4all",
@@ -3911,9 +3820,9 @@
    "url": "https://github.com/nomic-ai/gpt4all",
    "owner": "nomic-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/102670180?v=4",
-   "stars": 77388,
-   "forks": 8308,
-   "open_issues": 763,
+   "stars": 77384,
+   "forks": 8307,
+   "open_issues": 764,
    "language": "C++",
    "license": "MIT",
    "pushed_at": "2025-05-27T20:05:19Z",
@@ -3925,7 +3834,7 @@
    ],
    "category": "Runners",
    "momentum": 55,
-   "rank": 120
+   "rank": 117
   },
   {
    "name": "pmetal",
@@ -3934,7 +3843,7 @@
    "url": "https://github.com/Epistates/pmetal",
    "owner": "Epistates",
    "owner_avatar": "https://avatars.githubusercontent.com/u/225645584?v=4",
-   "stars": 299,
+   "stars": 300,
    "forks": 22,
    "open_issues": 7,
    "language": "Rust",
@@ -3966,7 +3875,7 @@
    ],
    "category": "Quantization & Formats",
    "momentum": 55,
-   "rank": 121
+   "rank": 118
   },
   {
    "name": "Llamatik",
@@ -3975,7 +3884,7 @@
    "url": "https://github.com/ferranpons/Llamatik",
    "owner": "ferranpons",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1225463?v=4",
-   "stars": 161,
+   "stars": 162,
    "forks": 26,
    "open_issues": 8,
    "language": "Kotlin",
@@ -4007,7 +3916,7 @@
    ],
    "category": "Quantization & Formats",
    "momentum": 55,
-   "rank": 122
+   "rank": 119
   },
   {
    "name": "FunASR-GGML",
@@ -4027,7 +3936,27 @@
    "topics": [],
    "category": "Quantization & Formats",
    "momentum": 55,
-   "rank": 123
+   "rank": 120
+  },
+  {
+   "name": "anemll-flash-llama.cpp",
+   "full_name": "Anemll/anemll-flash-llama.cpp",
+   "slug": "anemll-anemll-flash-llama-cpp",
+   "url": "https://github.com/Anemll/anemll-flash-llama.cpp",
+   "owner": "Anemll",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/193841227?v=4",
+   "stars": 115,
+   "forks": 14,
+   "open_issues": 2,
+   "language": "C++",
+   "license": "MIT",
+   "pushed_at": "2026-06-20T09:03:12Z",
+   "created_at": "2026-03-31T02:01:36Z",
+   "description": "Flash-MoE sidecar slot-bank runtime for large GGUF MoE models on Apple Silicon — llama.cpp fork",
+   "topics": [],
+   "category": "Quantization & Formats",
+   "momentum": 55,
+   "rank": 121
   },
   {
    "name": "gguf-parser-go",
@@ -4053,7 +3982,7 @@
    ],
    "category": "Quantization & Formats",
    "momentum": 54,
-   "rank": 124
+   "rank": 122
   },
   {
    "name": "OfflineLLM",
@@ -4064,7 +3993,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/239281279?v=4",
    "stars": 183,
    "forks": 15,
-   "open_issues": 2,
+   "open_issues": 0,
    "language": "Kotlin",
    "license": "NOASSERTION",
    "pushed_at": "2026-05-29T02:58:10Z",
@@ -4093,7 +4022,7 @@
    ],
    "category": "Quantization & Formats",
    "momentum": 54,
-   "rank": 125
+   "rank": 123
   },
   {
    "name": "GGUF-Tool-Suite",
@@ -4113,7 +4042,7 @@
    "topics": [],
    "category": "Quantization & Formats",
    "momentum": 54,
-   "rank": 126
+   "rank": 124
   },
   {
    "name": "ToolNeuron",
@@ -4122,9 +4051,9 @@
    "url": "https://github.com/Siddhesh2377/ToolNeuron",
    "owner": "Siddhesh2377",
    "owner_avatar": "https://avatars.githubusercontent.com/u/67579112?v=4",
-   "stars": 432,
+   "stars": 433,
    "forks": 56,
-   "open_issues": 20,
+   "open_issues": 21,
    "language": "Kotlin",
    "license": "MIT",
    "pushed_at": "2026-05-18T03:57:32Z",
@@ -4138,7 +4067,7 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 53,
-   "rank": 127
+   "rank": 125
   },
   {
    "name": "llama_ros",
@@ -4176,7 +4105,7 @@
    ],
    "category": "Quantization & Formats",
    "momentum": 53,
-   "rank": 128
+   "rank": 126
   },
   {
    "name": "Qwen3-TTS-GGUF",
@@ -4185,7 +4114,7 @@
    "url": "https://github.com/HaujetZhao/Qwen3-TTS-GGUF",
    "owner": "HaujetZhao",
    "owner_avatar": "https://avatars.githubusercontent.com/u/19181833?v=4",
-   "stars": 153,
+   "stars": 155,
    "forks": 24,
    "open_issues": 15,
    "language": "Python",
@@ -4196,7 +4125,7 @@
    "topics": [],
    "category": "Quantization & Formats",
    "momentum": 53,
-   "rank": 129
+   "rank": 127
   },
   {
    "name": "HearoPilot-App",
@@ -4225,7 +4154,7 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 53,
-   "rank": 130
+   "rank": 128
   },
   {
    "name": "Langchain-Chatchat",
@@ -4234,8 +4163,8 @@
    "url": "https://github.com/chatchat-space/Langchain-Chatchat",
    "owner": "chatchat-space",
    "owner_avatar": "https://avatars.githubusercontent.com/u/139558948?v=4",
-   "stars": 38246,
-   "forks": 6216,
+   "stars": 38248,
+   "forks": 6215,
    "open_issues": 23,
    "language": "Python",
    "license": "Apache-2.0",
@@ -4266,7 +4195,7 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 52,
-   "rank": 131
+   "rank": 129
   },
   {
    "name": "UnrealGenAISupport",
@@ -4307,7 +4236,7 @@
    ],
    "category": "Inference Engines",
    "momentum": 52,
-   "rank": 132
+   "rank": 130
   },
   {
    "name": "gguf-tools",
@@ -4332,7 +4261,7 @@
    ],
    "category": "Quantization & Formats",
    "momentum": 52,
-   "rank": 133
+   "rank": 131
   },
   {
    "name": "running-llms-locally",
@@ -4352,7 +4281,7 @@
    "topics": [],
    "category": "Local UIs & Apps",
    "momentum": 52,
-   "rank": 134
+   "rank": 132
   },
   {
    "name": "edge-veda",
@@ -4388,7 +4317,7 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 52,
-   "rank": 135
+   "rank": 133
   },
   {
    "name": "voicepaste",
@@ -4408,7 +4337,7 @@
    "topics": [],
    "category": "On-Device & Mobile",
    "momentum": 52,
-   "rank": 136
+   "rank": 134
   },
   {
    "name": "dotLLM",
@@ -4428,7 +4357,7 @@
    "topics": [],
    "category": "Inference Engines",
    "momentum": 51,
-   "rank": 137
+   "rank": 135
   },
   {
    "name": "nanoPD",
@@ -4452,7 +4381,45 @@
    ],
    "category": "Inference Engines",
    "momentum": 51,
-   "rank": 138
+   "rank": 136
+  },
+  {
+   "name": "local-llms-on-android",
+   "full_name": "dineshsoudagar/local-llms-on-android",
+   "slug": "dineshsoudagar-local-llms-on-android",
+   "url": "https://github.com/dineshsoudagar/local-llms-on-android",
+   "owner": "dineshsoudagar",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/75389628?v=4",
+   "stars": 346,
+   "forks": 37,
+   "open_issues": 11,
+   "language": "Kotlin",
+   "license": "MIT",
+   "pushed_at": "2026-05-06T12:37:53Z",
+   "created_at": "2025-05-04T15:04:09Z",
+   "description": "Run local LLMs like Gemma, Qwen, and LLaMA on Android for offline, private, real-time chat and question answering with LiteRT and ONNX Runtime.",
+   "topics": [
+    "android",
+    "android-app",
+    "chatbot",
+    "gemma4",
+    "gemma4-2b",
+    "gemma4-e4b",
+    "huggingface-tokenizers",
+    "litert",
+    "litert-lm",
+    "llama3",
+    "local-llm",
+    "local-llm-integration",
+    "mobile-ai",
+    "offline-inference",
+    "on-device-ai",
+    "onnx-runtime",
+    "qwen"
+   ],
+   "category": "On-Device & Mobile",
+   "momentum": 50,
+   "rank": 137
   },
   {
    "name": "ipex-llm",
@@ -4461,7 +4428,7 @@
    "url": "https://github.com/intel/ipex-llm",
    "owner": "intel",
    "owner_avatar": "https://avatars.githubusercontent.com/u/17888862?v=4",
-   "stars": 8857,
+   "stars": 8860,
    "forks": 1429,
    "open_issues": 1484,
    "language": "Python",
@@ -4477,7 +4444,7 @@
    ],
    "category": "Inference Engines",
    "momentum": 49,
-   "rank": 139
+   "rank": 138
   },
   {
    "name": "RCLI",
@@ -4486,7 +4453,7 @@
    "url": "https://github.com/RunanywhereAI/RCLI",
    "owner": "RunanywhereAI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/220821781?v=4",
-   "stars": 1527,
+   "stars": 1528,
    "forks": 83,
    "open_issues": 12,
    "language": "C++",
@@ -4515,7 +4482,7 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 48,
-   "rank": 140
+   "rank": 139
   },
   {
    "name": "NativeMindExtension",
@@ -4545,7 +4512,7 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 48,
-   "rank": 141
+   "rank": 140
   },
   {
    "name": "mini-infer",
@@ -4582,7 +4549,7 @@
    ],
    "category": "Quantization & Formats",
    "momentum": 47,
-   "rank": 142
+   "rank": 141
   },
   {
    "name": "ovo-local-llm",
@@ -4623,7 +4590,7 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 47,
-   "rank": 143
+   "rank": 142
   },
   {
    "name": "react-native-litert-lm",
@@ -4654,7 +4621,7 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 47,
-   "rank": 144
+   "rank": 143
   },
   {
    "name": "h2ogpt",
@@ -4663,8 +4630,8 @@
    "url": "https://github.com/h2oai/h2ogpt",
    "owner": "h2oai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1402695?v=4",
-   "stars": 11974,
-   "forks": 1307,
+   "stars": 11973,
+   "forks": 1306,
    "open_issues": 329,
    "language": "Python",
    "license": "Apache-2.0",
@@ -4689,7 +4656,7 @@
    ],
    "category": "Inference Engines",
    "momentum": 46,
-   "rank": 145
+   "rank": 144
   },
   {
    "name": "ZhiLight",
@@ -4720,7 +4687,7 @@
    ],
    "category": "Inference Engines",
    "momentum": 46,
-   "rank": 146
+   "rank": 145
   },
   {
    "name": "Qwen3-ASR-GGUF",
@@ -4740,7 +4707,7 @@
    "topics": [],
    "category": "Quantization & Formats",
    "momentum": 46,
-   "rank": 147
+   "rank": 146
   },
   {
    "name": "Fun-ASR-GGUF",
@@ -4750,7 +4717,7 @@
    "owner": "HaujetZhao",
    "owner_avatar": "https://avatars.githubusercontent.com/u/19181833?v=4",
    "stars": 153,
-   "forks": 31,
+   "forks": 30,
    "open_issues": 7,
    "language": "Python",
    "license": "MIT",
@@ -4760,7 +4727,7 @@
    "topics": [],
    "category": "Quantization & Formats",
    "momentum": 46,
-   "rank": 148
+   "rank": 147
   },
   {
    "name": "obsidian-smart-composer",
@@ -4769,9 +4736,9 @@
    "url": "https://github.com/glowingjade/obsidian-smart-composer",
    "owner": "glowingjade",
    "owner_avatar": "https://avatars.githubusercontent.com/u/18643499?v=4",
-   "stars": 2301,
+   "stars": 2303,
    "forks": 188,
-   "open_issues": 113,
+   "open_issues": 112,
    "language": "TypeScript",
    "license": "MIT",
    "pushed_at": "2026-02-16T07:43:02Z",
@@ -4780,7 +4747,7 @@
    "topics": [],
    "category": "Local LLM Tools",
    "momentum": 45,
-   "rank": 149
+   "rank": 148
   },
   {
    "name": "llama.clj",
@@ -4805,27 +4772,7 @@
    ],
    "category": "Inference Engines",
    "momentum": 44,
-   "rank": 150
-  },
-  {
-   "name": "react-native-nitro-mlx",
-   "full_name": "corasan/react-native-nitro-mlx",
-   "slug": "corasan-react-native-nitro-mlx",
-   "url": "https://github.com/corasan/react-native-nitro-mlx",
-   "owner": "corasan",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/5108929?v=4",
-   "stars": 96,
-   "forks": 4,
-   "open_issues": 1,
-   "language": "TypeScript",
-   "license": "MIT",
-   "pushed_at": "2026-04-27T19:27:56Z",
-   "created_at": "2025-02-10T12:35:53Z",
-   "description": "Run LLMs on device using Apple's MLX",
-   "topics": [],
-   "category": "Runners",
-   "momentum": 43,
-   "rank": 151
+   "rank": 149
   },
   {
    "name": "termux-llm",
@@ -4834,7 +4781,7 @@
    "url": "https://github.com/orailnoor/termux-llm",
    "owner": "orailnoor",
    "owner_avatar": "https://avatars.githubusercontent.com/u/34442749?v=4",
-   "stars": 69,
+   "stars": 70,
    "forks": 19,
    "open_issues": 0,
    "language": "Shell",
@@ -4845,7 +4792,7 @@
    "topics": [],
    "category": "On-Device & Mobile",
    "momentum": 43,
-   "rank": 152
+   "rank": 150
   },
   {
    "name": "AutoGPTQ",
@@ -4854,7 +4801,7 @@
    "url": "https://github.com/AutoGPTQ/AutoGPTQ",
    "owner": "AutoGPTQ",
    "owner_avatar": "https://avatars.githubusercontent.com/u/157031366?v=4",
-   "stars": 5073,
+   "stars": 5072,
    "forks": 539,
    "open_issues": 272,
    "language": "Python",
@@ -4875,7 +4822,7 @@
    ],
    "category": "Quantization & Formats",
    "momentum": 42,
-   "rank": 153
+   "rank": 151
   },
   {
    "name": "ComfyUI-GGUF",
@@ -4884,7 +4831,7 @@
    "url": "https://github.com/city96/ComfyUI-GGUF",
    "owner": "city96",
    "owner_avatar": "https://avatars.githubusercontent.com/u/125218114?v=4",
-   "stars": 3799,
+   "stars": 3802,
    "forks": 320,
    "open_issues": 228,
    "language": "Python",
@@ -4895,7 +4842,27 @@
    "topics": [],
    "category": "Quantization & Formats",
    "momentum": 42,
-   "rank": 154
+   "rank": 152
+  },
+  {
+   "name": "react-native-nitro-mlx",
+   "full_name": "corasan/react-native-nitro-mlx",
+   "slug": "corasan-react-native-nitro-mlx",
+   "url": "https://github.com/corasan/react-native-nitro-mlx",
+   "owner": "corasan",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/5108929?v=4",
+   "stars": 96,
+   "forks": 4,
+   "open_issues": 1,
+   "language": "TypeScript",
+   "license": "MIT",
+   "pushed_at": "2026-04-27T19:27:56Z",
+   "created_at": "2025-02-10T12:35:53Z",
+   "description": "Run LLMs on device using Apple's MLX",
+   "topics": [],
+   "category": "Runners",
+   "momentum": 42,
+   "rank": 153
   },
   {
    "name": "knolo-core",
@@ -4904,7 +4871,7 @@
    "url": "https://github.com/HiveForensics-AI/knolo-core",
    "owner": "HiveForensics-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/55617133?v=4",
-   "stars": 42,
+   "stars": 40,
    "forks": 15,
    "open_issues": 0,
    "language": "TypeScript",
@@ -4931,7 +4898,7 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 42,
-   "rank": 155
+   "rank": 154
   },
   {
    "name": "LiteRT-Server",
@@ -4951,7 +4918,7 @@
    "topics": [],
    "category": "On-Device & Mobile",
    "momentum": 41,
-   "rank": 156
+   "rank": 155
   },
   {
    "name": "KoboldAI-Client",
@@ -4971,7 +4938,7 @@
    "topics": [],
    "category": "Quantization & Formats",
    "momentum": 40,
-   "rank": 157
+   "rank": 156
   },
   {
    "name": "farfalle",
@@ -5005,7 +4972,7 @@
    ],
    "category": "Local UIs & Apps",
    "momentum": 40,
-   "rank": 158
+   "rank": 157
   },
   {
    "name": "Local-File-Organizer",
@@ -5015,7 +4982,7 @@
    "owner": "QiuYannnn",
    "owner_avatar": "https://avatars.githubusercontent.com/u/89610695?v=4",
    "stars": 3280,
-   "forks": 327,
+   "forks": 328,
    "open_issues": 37,
    "language": "Python",
    "license": "MIT",
@@ -5031,7 +4998,7 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 40,
-   "rank": 159
+   "rank": 158
   },
   {
    "name": "job-application-bot-by-ollama-ai",
@@ -5056,7 +5023,52 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 40,
+   "rank": 159
+  },
+  {
+   "name": "ComfyUI-QwenVL",
+   "full_name": "1038lab/ComfyUI-QwenVL",
+   "slug": "1038lab-comfyui-qwenvl",
+   "url": "https://github.com/1038lab/ComfyUI-QwenVL",
+   "owner": "1038lab",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/129358391?v=4",
+   "stars": 800,
+   "forks": 127,
+   "open_issues": 8,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "pushed_at": "2026-02-10T00:26:58Z",
+   "created_at": "2025-03-29T15:42:39Z",
+   "description": "ComfyUI-QwenVL custom node: Integrates the Qwen-VL series, including Qwen2.5-VL and the latest Qwen3-VL, with GGUF support for advanced multimodal AI in text generation, image understanding, and video analysis.",
+   "topics": [
+    "comfyui",
+    "customnodes",
+    "qwen-vl",
+    "qwen3-vl"
+   ],
+   "category": "Quantization & Formats",
+   "momentum": 39,
    "rank": 160
+  },
+  {
+   "name": "ntransformer",
+   "full_name": "xaskasdf/ntransformer",
+   "slug": "xaskasdf-ntransformer",
+   "url": "https://github.com/xaskasdf/ntransformer",
+   "owner": "xaskasdf",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/7344616?v=4",
+   "stars": 464,
+   "forks": 19,
+   "open_issues": 10,
+   "language": "C++",
+   "license": "",
+   "pushed_at": "2026-02-22T22:59:05Z",
+   "created_at": "2026-02-18T23:13:38Z",
+   "description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090.",
+   "topics": [],
+   "category": "Inference Engines",
+   "momentum": 39,
+   "rank": 161
   },
   {
    "name": "rllama",
@@ -5084,73 +5096,8 @@
     "ruby"
    ],
    "category": "Quantization & Formats",
-   "momentum": 40,
-   "rank": 161
-  },
-  {
-   "name": "ComfyUI-QwenVL",
-   "full_name": "1038lab/ComfyUI-QwenVL",
-   "slug": "1038lab-comfyui-qwenvl",
-   "url": "https://github.com/1038lab/ComfyUI-QwenVL",
-   "owner": "1038lab",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/129358391?v=4",
-   "stars": 800,
-   "forks": 127,
-   "open_issues": 8,
-   "language": "Python",
-   "license": "GPL-3.0",
-   "pushed_at": "2026-02-10T00:26:58Z",
-   "created_at": "2025-03-29T15:42:39Z",
-   "description": "ComfyUI-QwenVL custom node: Integrates the Qwen-VL series, including Qwen2.5-VL and the latest Qwen3-VL, with GGUF support for advanced multimodal AI in text generation, image understanding, and video analysis.",
-   "topics": [
-    "comfyui",
-    "customnodes",
-    "qwen-vl",
-    "qwen3-vl"
-   ],
-   "category": "Quantization & Formats",
    "momentum": 39,
    "rank": 162
-  },
-  {
-   "name": "ntransformer",
-   "full_name": "xaskasdf/ntransformer",
-   "slug": "xaskasdf-ntransformer",
-   "url": "https://github.com/xaskasdf/ntransformer",
-   "owner": "xaskasdf",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/7344616?v=4",
-   "stars": 464,
-   "forks": 19,
-   "open_issues": 10,
-   "language": "C++",
-   "license": "",
-   "pushed_at": "2026-02-22T22:59:05Z",
-   "created_at": "2026-02-18T23:13:38Z",
-   "description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090.",
-   "topics": [],
-   "category": "Inference Engines",
-   "momentum": 39,
-   "rank": 163
-  },
-  {
-   "name": "Awesome-On-Device-LLMs",
-   "full_name": "LumosJiang/Awesome-On-Device-LLMs",
-   "slug": "lumosjiang-awesome-on-device-llms",
-   "url": "https://github.com/LumosJiang/Awesome-On-Device-LLMs",
-   "owner": "LumosJiang",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/146172268?v=4",
-   "stars": 40,
-   "forks": 4,
-   "open_issues": 0,
-   "language": "",
-   "license": "",
-   "pushed_at": "2026-04-29T05:02:05Z",
-   "created_at": "2025-10-10T11:55:15Z",
-   "description": "[ArXiv 2025] A curated list of papers on on-device large language models, focusing on model compression and system optimization techniques from the survey \"On-Device Large Language Models: A Survey of Model Compression and System Optimization\".",
-   "topics": [],
-   "category": "Collections",
-   "momentum": 39,
-   "rank": 164
   },
   {
    "name": "Ai-Systems-New",
@@ -5189,7 +5136,7 @@
    ],
    "category": "Quantization & Formats",
    "momentum": 39,
-   "rank": 165
+   "rank": 163
   },
   {
    "name": "GraphRAG-Local-UI",
@@ -5198,7 +5145,7 @@
    "url": "https://github.com/severian42/GraphRAG-Local-UI",
    "owner": "severian42",
    "owner_avatar": "https://avatars.githubusercontent.com/u/133655553?v=4",
-   "stars": 2317,
+   "stars": 2316,
    "forks": 294,
    "open_issues": 56,
    "language": "Python",
@@ -5209,34 +5156,7 @@
    "topics": [],
    "category": "Local UIs & Apps",
    "momentum": 38,
-   "rank": 166
-  },
-  {
-   "name": "icebreaker",
-   "full_name": "hecrj/icebreaker",
-   "slug": "hecrj-icebreaker",
-   "url": "https://github.com/hecrj/icebreaker",
-   "owner": "hecrj",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/518289?v=4",
-   "stars": 450,
-   "forks": 34,
-   "open_issues": 6,
-   "language": "Rust",
-   "license": "MIT",
-   "pushed_at": "2026-02-16T17:27:22Z",
-   "created_at": "2024-07-10T15:23:07Z",
-   "description": "A local AI chat app powered by 🦀 Rust, 🧊 iced, 🤗 Hugging Face, and 🦙 llama.cpp",
-   "topics": [
-    "ai",
-    "ai-chat",
-    "chat",
-    "iced",
-    "llm",
-    "rust"
-   ],
-   "category": "Local UIs & Apps",
-   "momentum": 38,
-   "rank": 167
+   "rank": 164
   },
   {
    "name": "easy-llama",
@@ -5262,7 +5182,27 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 38,
-   "rank": 168
+   "rank": 165
+  },
+  {
+   "name": "Awesome-On-Device-LLMs",
+   "full_name": "LumosJiang/Awesome-On-Device-LLMs",
+   "slug": "lumosjiang-awesome-on-device-llms",
+   "url": "https://github.com/LumosJiang/Awesome-On-Device-LLMs",
+   "owner": "LumosJiang",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/146172268?v=4",
+   "stars": 41,
+   "forks": 3,
+   "open_issues": 0,
+   "language": "",
+   "license": "",
+   "pushed_at": "2026-04-29T05:02:05Z",
+   "created_at": "2025-10-10T11:55:15Z",
+   "description": "[ArXiv 2025] A curated list of papers on on-device large language models, focusing on model compression and system optimization techniques from the survey \"On-Device Large Language Models: A Survey of Model Compression and System Optimization\".",
+   "topics": [],
+   "category": "Collections",
+   "momentum": 38,
+   "rank": 166
   },
   {
    "name": "openai-edge-tts",
@@ -5271,7 +5211,7 @@
    "url": "https://github.com/travisvn/openai-edge-tts",
    "owner": "travisvn",
    "owner_avatar": "https://avatars.githubusercontent.com/u/2686415?v=4",
-   "stars": 1964,
+   "stars": 1968,
    "forks": 298,
    "open_issues": 11,
    "language": "Python",
@@ -5302,7 +5242,7 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 37,
-   "rank": 169
+   "rank": 167
   },
   {
    "name": "Dot",
@@ -5338,7 +5278,7 @@
    ],
    "category": "Inference Engines",
    "momentum": 37,
-   "rank": 170
+   "rank": 168
   },
   {
    "name": "EdgeTAM",
@@ -5347,7 +5287,7 @@
    "url": "https://github.com/facebookresearch/EdgeTAM",
    "owner": "facebookresearch",
    "owner_avatar": "https://avatars.githubusercontent.com/u/16943930?v=4",
-   "stars": 938,
+   "stars": 939,
    "forks": 75,
    "open_issues": 21,
    "language": "Jupyter Notebook",
@@ -5362,7 +5302,7 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 37,
-   "rank": 171
+   "rank": 169
   },
   {
    "name": "whisperIME",
@@ -5390,7 +5330,34 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 37,
-   "rank": 172
+   "rank": 170
+  },
+  {
+   "name": "icebreaker",
+   "full_name": "hecrj/icebreaker",
+   "slug": "hecrj-icebreaker",
+   "url": "https://github.com/hecrj/icebreaker",
+   "owner": "hecrj",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/518289?v=4",
+   "stars": 450,
+   "forks": 34,
+   "open_issues": 6,
+   "language": "Rust",
+   "license": "MIT",
+   "pushed_at": "2026-02-16T17:27:22Z",
+   "created_at": "2024-07-10T15:23:07Z",
+   "description": "A local AI chat app powered by 🦀 Rust, 🧊 iced, 🤗 Hugging Face, and 🦙 llama.cpp",
+   "topics": [
+    "ai",
+    "ai-chat",
+    "chat",
+    "iced",
+    "llm",
+    "rust"
+   ],
+   "category": "Local UIs & Apps",
+   "momentum": 37,
+   "rank": 171
   },
   {
    "name": "Lumos",
@@ -5419,7 +5386,7 @@
    ],
    "category": "Runners",
    "momentum": 36,
-   "rank": 173
+   "rank": 172
   },
   {
    "name": "proxylessnas",
@@ -5446,7 +5413,7 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 36,
-   "rank": 174
+   "rank": 173
   },
   {
    "name": "gpu_poor",
@@ -5477,7 +5444,7 @@
    ],
    "category": "Quantization & Formats",
    "momentum": 35,
-   "rank": 175
+   "rank": 174
   },
   {
    "name": "Jlama",
@@ -5488,7 +5455,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/44456?v=4",
    "stars": 1289,
    "forks": 159,
-   "open_issues": 44,
+   "open_issues": 45,
    "language": "Java",
    "license": "Apache-2.0",
    "pushed_at": "2025-10-12T02:45:08Z",
@@ -5508,7 +5475,7 @@
    ],
    "category": "Inference Engines",
    "momentum": 35,
-   "rank": 176
+   "rank": 175
   },
   {
    "name": "agents-from-scratch",
@@ -5517,8 +5484,8 @@
    "url": "https://github.com/pguso/agents-from-scratch",
    "owner": "pguso",
    "owner_avatar": "https://avatars.githubusercontent.com/u/4007140?v=4",
-   "stars": 883,
-   "forks": 225,
+   "stars": 885,
+   "forks": 226,
    "open_issues": 6,
    "language": "Python",
    "license": "MIT",
@@ -5542,7 +5509,7 @@
    ],
    "category": "Local LLM Tools",
    "momentum": 35,
-   "rank": 177
+   "rank": 176
   },
   {
    "name": "transformers-qwen3-moe-fused",
@@ -5562,7 +5529,7 @@
    "topics": [],
    "category": "Quantization & Formats",
    "momentum": 35,
-   "rank": 178
+   "rank": 177
   },
   {
    "name": "EdgeSAM",
@@ -5586,7 +5553,7 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 34,
-   "rank": 179
+   "rank": 178
   },
   {
    "name": "chatd",
@@ -5616,7 +5583,7 @@
    ],
    "category": "Runners",
    "momentum": 34,
-   "rank": 180
+   "rank": 179
   },
   {
    "name": "web-search-mcp",
@@ -5625,7 +5592,7 @@
    "url": "https://github.com/mrkrsl/web-search-mcp",
    "owner": "mrkrsl",
    "owner_avatar": "https://avatars.githubusercontent.com/u/349371?v=4",
-   "stars": 997,
+   "stars": 999,
    "forks": 148,
    "open_issues": 31,
    "language": "TypeScript",
@@ -5642,7 +5609,7 @@
    ],
    "category": "Inference Engines",
    "momentum": 34,
-   "rank": 181
+   "rank": 180
   },
   {
    "name": "TinyChatEngine",
@@ -5673,7 +5640,7 @@
    ],
    "category": "Quantization & Formats",
    "momentum": 34,
-   "rank": 182
+   "rank": 181
   },
   {
    "name": "chatless",
@@ -5710,7 +5677,7 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 34,
-   "rank": 183
+   "rank": 182
   },
   {
    "name": "OmniQuant",
@@ -5734,7 +5701,7 @@
    ],
    "category": "Quantization & Formats",
    "momentum": 33,
-   "rank": 184
+   "rank": 183
   },
   {
    "name": "open-skills",
@@ -5743,7 +5710,7 @@
    "url": "https://github.com/instavm/open-skills",
    "owner": "instavm",
    "owner_avatar": "https://avatars.githubusercontent.com/u/219637151?v=4",
-   "stars": 415,
+   "stars": 427,
    "forks": 36,
    "open_issues": 2,
    "language": "Python",
@@ -5764,7 +5731,7 @@
    ],
    "category": "Runners",
    "momentum": 33,
-   "rank": 185
+   "rank": 184
   },
   {
    "name": "Orion",
@@ -5773,7 +5740,7 @@
    "url": "https://github.com/mechramc/Orion",
    "owner": "mechramc",
    "owner_avatar": "https://avatars.githubusercontent.com/u/246213176?v=4",
-   "stars": 103,
+   "stars": 104,
    "forks": 9,
    "open_issues": 4,
    "language": "Objective-C",
@@ -5791,7 +5758,7 @@
    ],
    "category": "On-Device & Mobile",
    "momentum": 33,
-   "rank": 186
+   "rank": 185
   },
   {
    "name": "Aios",
@@ -5811,7 +5778,7 @@
    "topics": [],
    "category": "On-Device & Mobile",
    "momentum": 33,
-   "rank": 187
+   "rank": 186
   },
   {
    "name": "LocalAIVoiceChat",
@@ -5835,7 +5802,7 @@
    ],
    "category": "Local LLM Tools",
    "momentum": 32,
-   "rank": 188
+   "rank": 187
   },
   {
    "name": "SqueezeLLM",
@@ -5868,7 +5835,7 @@
    ],
    "category": "Quantization & Formats",
    "momentum": 32,
-   "rank": 189
+   "rank": 188
   },
   {
    "name": "AmazingZImageWorkflow",
@@ -5877,7 +5844,7 @@
    "url": "https://github.com/martin-rizzo/AmazingZImageWorkflow",
    "owner": "martin-rizzo",
    "owner_avatar": "https://avatars.githubusercontent.com/u/60830236?v=4",
-   "stars": 480,
+   "stars": 481,
    "forks": 36,
    "open_issues": 10,
    "language": "Python",
@@ -5897,7 +5864,7 @@
    ],
    "category": "Quantization & Formats",
    "momentum": 32,
-   "rank": 190
+   "rank": 189
   },
   {
    "name": "tome",
@@ -5931,7 +5898,7 @@
    ],
    "category": "Runners",
    "momentum": 31,
-   "rank": 191
+   "rank": 190
   },
   {
    "name": "chatterbox-tts-api",
@@ -5971,7 +5938,7 @@
    ],
    "category": "Local UIs & Apps",
    "momentum": 31,
-   "rank": 192
+   "rank": 191
   },
   {
    "name": "simple-llm",
@@ -5991,7 +5958,7 @@
    "topics": [],
    "category": "Inference Engines",
    "momentum": 31,
-   "rank": 193
+   "rank": 192
   },
   {
    "name": "ComfyUI-Intel-Arc-Clean-Install-Windows-venv-XPU-",
@@ -6011,38 +5978,7 @@
    "topics": [],
    "category": "Quantization & Formats",
    "momentum": 31,
-   "rank": 194
-  },
-  {
-   "name": "llavavision",
-   "full_name": "lxe/llavavision",
-   "slug": "lxe-llavavision",
-   "url": "https://github.com/lxe/llavavision",
-   "owner": "lxe",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/1486609?v=4",
-   "stars": 496,
-   "forks": 34,
-   "open_issues": 3,
-   "language": "JavaScript",
-   "license": "",
-   "pushed_at": "2023-11-28T07:49:04Z",
-   "created_at": "2023-11-06T00:48:45Z",
-   "description": "A simple \"Be My Eyes\" web app with a llama.cpp/llava backend",
-   "topics": [
-    "ai",
-    "artificial-intelligence",
-    "computer-vision",
-    "llama",
-    "llamacpp",
-    "llm",
-    "local-llm",
-    "machine-learning",
-    "multimodal",
-    "webapp"
-   ],
-   "category": "Inference Engines",
-   "momentum": 30,
-   "rank": 195
+   "rank": 193
   },
   {
    "name": "android-vad",
@@ -6051,7 +5987,7 @@
    "url": "https://github.com/gkonovalov/android-vad",
    "owner": "gkonovalov",
    "owner_avatar": "https://avatars.githubusercontent.com/u/22642112?v=4",
-   "stars": 496,
+   "stars": 497,
    "forks": 98,
    "open_issues": 5,
    "language": "C",
@@ -6082,6 +6018,77 @@
     "yamnet"
    ],
    "category": "On-Device & Mobile",
+   "momentum": 30,
+   "rank": 194
+  },
+  {
+   "name": "catai",
+   "full_name": "withcatai/catai",
+   "slug": "withcatai-catai",
+   "url": "https://github.com/withcatai/catai",
+   "owner": "withcatai",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/142035548?v=4",
+   "stars": 496,
+   "forks": 39,
+   "open_issues": 2,
+   "language": "TypeScript",
+   "license": "MIT",
+   "pushed_at": "2025-11-16T18:35:45Z",
+   "created_at": "2023-03-25T15:53:57Z",
+   "description": "Run AI ✨ assistant locally! with simple API for Node.js 🚀",
+   "topics": [
+    "ai",
+    "ai-assistant",
+    "catai",
+    "chatbot",
+    "chatgpt",
+    "chatui",
+    "dalai",
+    "ggmlv3",
+    "gguf",
+    "llama-cpp",
+    "llm",
+    "local-llm",
+    "localai",
+    "node-llama-cpp",
+    "nodejs",
+    "openai",
+    "vicuna",
+    "vicuna-installation-guide",
+    "wizardlm"
+   ],
+   "category": "Quantization & Formats",
+   "momentum": 30,
+   "rank": 195
+  },
+  {
+   "name": "llavavision",
+   "full_name": "lxe/llavavision",
+   "slug": "lxe-llavavision",
+   "url": "https://github.com/lxe/llavavision",
+   "owner": "lxe",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/1486609?v=4",
+   "stars": 495,
+   "forks": 34,
+   "open_issues": 3,
+   "language": "JavaScript",
+   "license": "",
+   "pushed_at": "2023-11-28T07:49:04Z",
+   "created_at": "2023-11-06T00:48:45Z",
+   "description": "A simple \"Be My Eyes\" web app with a llama.cpp/llava backend",
+   "topics": [
+    "ai",
+    "artificial-intelligence",
+    "computer-vision",
+    "llama",
+    "llamacpp",
+    "llm",
+    "local-llm",
+    "machine-learning",
+    "multimodal",
+    "webapp"
+   ],
+   "category": "Inference Engines",
    "momentum": 30,
    "rank": 196
   },
@@ -6397,7 +6404,7 @@
    "owner": "Lucassssss",
    "owner_avatar": "https://avatars.githubusercontent.com/u/5128154?v=4",
    "stars": 343,
-   "forks": 47,
+   "forks": 46,
    "open_issues": 21,
    "language": "JavaScript",
    "license": "NOASSERTION",
@@ -6412,26 +6419,6 @@
    "category": "Local UIs & Apps",
    "momentum": 29,
    "rank": 207
-  },
-  {
-   "name": "Silicon-Studio",
-   "full_name": "rileycleavenger/Silicon-Studio",
-   "slug": "rileycleavenger-silicon-studio",
-   "url": "https://github.com/rileycleavenger/Silicon-Studio",
-   "owner": "rileycleavenger",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/73538882?v=4",
-   "stars": 278,
-   "forks": 17,
-   "open_issues": 5,
-   "language": "TypeScript",
-   "license": "MIT",
-   "pushed_at": "2026-01-10T22:40:43Z",
-   "created_at": "2026-01-04T01:23:32Z",
-   "description": "Fine-tune and run LLMs locally on your M-series Mac. A powerful desktop interface built on Apple's MLX framework for zero-setup AI.",
-   "topics": [],
-   "category": "Runners",
-   "momentum": 29,
-   "rank": 208
   },
   {
    "name": "local-agents",
@@ -6451,7 +6438,7 @@
    "topics": [],
    "category": "Runners",
    "momentum": 29,
-   "rank": 209
+   "rank": 208
   },
   {
    "name": "PicoMLXServer",
@@ -6478,7 +6465,7 @@
    ],
    "category": "Inference Engines",
    "momentum": 28,
-   "rank": 210
+   "rank": 209
   },
   {
    "name": "ComfyUI-JoyCaption",
@@ -6504,7 +6491,7 @@
    ],
    "category": "Quantization & Formats",
    "momentum": 28,
-   "rank": 211
+   "rank": 210
   },
   {
    "name": "iris_android",
@@ -6531,6 +6518,26 @@
     "local"
    ],
    "category": "Quantization & Formats",
+   "momentum": 28,
+   "rank": 211
+  },
+  {
+   "name": "Silicon-Studio",
+   "full_name": "rileycleavenger/Silicon-Studio",
+   "slug": "rileycleavenger-silicon-studio",
+   "url": "https://github.com/rileycleavenger/Silicon-Studio",
+   "owner": "rileycleavenger",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/73538882?v=4",
+   "stars": 278,
+   "forks": 17,
+   "open_issues": 5,
+   "language": "TypeScript",
+   "license": "MIT",
+   "pushed_at": "2026-01-10T22:40:43Z",
+   "created_at": "2026-01-04T01:23:32Z",
+   "description": "Fine-tune and run LLMs locally on your M-series Mac. A powerful desktop interface built on Apple's MLX framework for zero-setup AI.",
+   "topics": [],
+   "category": "Runners",
    "momentum": 28,
    "rank": 212
   },
@@ -7009,8 +7016,8 @@
    "url": "https://github.com/Gygeek/Framework-strix-halo-llm-setup",
    "owner": "Gygeek",
    "owner_avatar": "https://avatars.githubusercontent.com/u/212047006?v=4",
-   "stars": 101,
-   "forks": 5,
+   "stars": 102,
+   "forks": 6,
    "open_issues": 1,
    "language": "",
    "license": "",
