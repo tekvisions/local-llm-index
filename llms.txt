@@ -3,48 +3,48 @@
 > The living index of tools for running LLMs LOCALLY and on-device — inference
 > engines, runners, local UIs, quantization — ranked daily by GitHub momentum.
 
-Updated: 2026-07-04T10:46:37.949095+00:00
+Updated: 2026-07-05T10:55:10.668857+00:00
 Tools indexed: 243
 
 ## Top local-LLM tools by momentum
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) — momentum 86, ⭐62554 — Local LLM Tools — Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-fi
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) — momentum 81, ⭐35463 — Inference Engines — Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, sch
-- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) — momentum 81, ⭐25173 — Quantization & Formats — Distribute and run LLMs with a single file.
-- [alibaba/MNN](https://github.com/alibaba/MNN) — momentum 79, ⭐15603 — On-Device & Mobile — MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performanc
-- [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) — momentum 78, ⭐13505 — Local LLM Tools — Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feish
-- [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) — momentum 77, ⭐10301 — On-Device & Mobile — Production ready toolkit to run AI locally
-- [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) — momentum 76, ⭐8656 — Inference Engines — ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama,
-- [qualcomm/GenieX](https://github.com/qualcomm/GenieX) — momentum 76, ⭐8134 — On-Device & Mobile — Run frontier LLMs and VLMs locally on Qualcomm devices across NPU, GPU, and CPU with a few lines of 
-- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) — momentum 75, ⭐18303 — In-Browser — High-performance In-browser LLM Inference Engine
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) — momentum 75, ⭐7432 — Runners — top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — w
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) — momentum 86, ⭐62604 — Local LLM Tools — Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-fi
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) — momentum 81, ⭐35475 — Inference Engines — Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, sch
+- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) — momentum 81, ⭐25180 — Quantization & Formats — Distribute and run LLMs with a single file.
+- [alibaba/MNN](https://github.com/alibaba/MNN) — momentum 78, ⭐15607 — On-Device & Mobile — MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performanc
+- [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) — momentum 78, ⭐13537 — Local LLM Tools — Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feish
+- [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) — momentum 77, ⭐10302 — On-Device & Mobile — Production ready toolkit to run AI locally
+- [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) — momentum 76, ⭐8667 — Inference Engines — ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama,
+- [qualcomm/GenieX](https://github.com/qualcomm/GenieX) — momentum 76, ⭐8136 — On-Device & Mobile — Run frontier LLMs and VLMs locally on Qualcomm devices across NPU, GPU, and CPU with a few lines of 
+- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) — momentum 75, ⭐18308 — In-Browser — High-performance In-browser LLM Inference Engine
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) — momentum 75, ⭐7433 — Runners — top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — w
 - [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) — momentum 74, ⭐9545 — On-Device & Mobile — MiniCPM5-1B: A SOTA 1B on-device LLM, small yet powerful.
-- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — momentum 74, ⭐5776 — On-Device & Mobile — LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploy
-- [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) — momentum 74, ⭐5617 — Quantization & Formats — ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python
-- [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) — momentum 74, ⭐5546 — Quantization & Formats — Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aw
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) — momentum 74, ⭐5379 — Quantization & Formats — Low-latency AI engine for mobile devices & wearables
-- [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed) — momentum 74, ⭐1544 — Inference Engines — TokenSpeed is a speed-of-light LLM inference engine.
-- [Plaer1/junction](https://github.com/Plaer1/junction) — momentum 74, ⭐642 — Local LLM Tools — VS Code chat sidebar for local AI coding agents
-- [dograh-hq/dograh](https://github.com/dograh-hq/dograh) — momentum 73, ⭐4767 — Local LLM Tools — Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across  Spe
-- [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) — momentum 73, ⭐4757 — Inference Engines — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own G
+- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — momentum 74, ⭐5780 — On-Device & Mobile — LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploy
+- [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) — momentum 74, ⭐5568 — Quantization & Formats — Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aw
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) — momentum 74, ⭐5384 — Quantization & Formats — Low-latency AI engine for mobile devices & wearables
+- [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed) — momentum 74, ⭐1547 — Inference Engines — TokenSpeed is a speed-of-light LLM inference engine.
+- [Plaer1/junction](https://github.com/Plaer1/junction) — momentum 74, ⭐643 — Local LLM Tools — VS Code chat sidebar for local AI coding agents
+- [kennss/SiliconScope](https://github.com/kennss/SiliconScope) — momentum 74, ⭐623 — On-Device & Mobile — Sudoless Apple Silicon system monitor (native SwiftUI GUI) with ANE / Media Engine / memory-bandwidt
+- [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) — momentum 73, ⭐5618 — Quantization & Formats — ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python
+- [dograh-hq/dograh](https://github.com/dograh-hq/dograh) — momentum 73, ⭐4778 — Local LLM Tools — Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across  Spe
+- [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) — momentum 73, ⭐4764 — Inference Engines — Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own G
 - [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) — momentum 73, ⭐4733 — On-Device & Mobile — AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
-- [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) — momentum 73, ⭐4038 — On-Device & Mobile — Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 1,00
-- [kennss/SiliconScope](https://github.com/kennss/SiliconScope) — momentum 73, ⭐618 — On-Device & Mobile — Sudoless Apple Silicon system monitor (native SwiftUI GUI) with ANE / Media Engine / memory-bandwidt
-- [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) — momentum 72, ⭐4300 — Runners — Local persistent memory store for LLM applications including claude desktop, github copilot, codex, 
-- [SciSharp/LLamaSharp](https://github.com/SciSharp/LLamaSharp) — momentum 72, ⭐3728 — Inference Engines — A C#/.NET library to run LLM (🦙LLaMA/LLaVA) on your local device efficiently.
-- [itayinbarr/little-coder](https://github.com/itayinbarr/little-coder) — momentum 72, ⭐1699 — Runners — A harness optimized to smaller LLMs
-- [techjarves/Uncensored-Local-Studio](https://github.com/techjarves/Uncensored-Local-Studio) — momentum 72, ⭐476 — Quantization & Formats — Uncensored local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF 
-- [deta/surf](https://github.com/deta/surf) — momentum 71, ⭐3469 — On-Device & Mobile — Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & 
-- [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) — momentum 71, ⭐3182 — Runners — The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool
+- [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) — momentum 73, ⭐4074 — On-Device & Mobile — Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 1,00
+- [techjarves/USB-Uncensored-LLM](https://github.com/techjarves/USB-Uncensored-LLM) — momentum 73, ⭐1842 — Runners — The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, 
+- [langroid/langroid](https://github.com/langroid/langroid) — momentum 72, ⭐4053 — Local LLM Tools — Harness LLMs with Multi-Agent Programming
+- [SciSharp/LLamaSharp](https://github.com/SciSharp/LLamaSharp) — momentum 72, ⭐3729 — Inference Engines — A C#/.NET library to run LLM (🦙LLaMA/LLaVA) on your local device efficiently.
+- [itayinbarr/little-coder](https://github.com/itayinbarr/little-coder) — momentum 72, ⭐1703 — Runners — A harness optimized to smaller LLMs
+- [techjarves/Uncensored-Local-Studio](https://github.com/techjarves/Uncensored-Local-Studio) — momentum 72, ⭐491 — Quantization & Formats — Uncensored local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF 
+- [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) — momentum 71, ⭐4302 — Runners — Local persistent memory store for LLM applications including claude desktop, github copilot, codex, 
+- [deta/surf](https://github.com/deta/surf) — momentum 71, ⭐3470 — On-Device & Mobile — Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & 
+- [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) — momentum 71, ⭐3187 — Runners — The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool
 - [xyproto/algernon](https://github.com/xyproto/algernon) — momentum 71, ⭐3017 — Inference Engines — Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeS
-- [spiceai/spiceai](https://github.com/spiceai/spiceai) — momentum 71, ⭐3011 — Inference Engines — A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-ground
-- [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) — momentum 70, ⭐2913 — On-Device & Mobile — Run Claude Code 100% on-device with local AI on Apple Silicon. MLX-native Anthropic-API server, 65 t
-- [signerless/llm-checker](https://github.com/signerless/llm-checker) — momentum 70, ⭐2780 — Runners — Advanced CLI tool that scans your hardware and tells you exactly which LLM or sLLM models you can ru
-- [intel/neural-compressor](https://github.com/intel/neural-compressor) — momentum 70, ⭐2672 — Quantization & Formats — SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compressio
-- [cactus-compute/needle](https://github.com/cactus-compute/needle) — momentum 70, ⭐2666 — On-Device & Mobile — 26m function call model that runs on incredibly small devices
-- [Mininglamp-AI/Mano-P](https://github.com/Mininglamp-AI/Mano-P) — momentum 70, ⭐2398 — On-Device & Mobile — Mano-P: Open-source GUI-VLA agent for edge devices. #1 on OSWorld (specialized, 58.2%). Runs locally
-- [rafska/awesome-local-llm](https://github.com/rafska/awesome-local-llm) — momentum 70, ⭐2352 — Collections — A curated list of awesome platforms, tools, practices and resources that helps run LLMs locally
+- [spiceai/spiceai](https://github.com/spiceai/spiceai) — momentum 71, ⭐3012 — Inference Engines — A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-ground
+- [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) — momentum 70, ⭐2914 — On-Device & Mobile — Run Claude Code 100% on-device with local AI on Apple Silicon. MLX-native Anthropic-API server, 65 t
+- [signerless/llm-checker](https://github.com/signerless/llm-checker) — momentum 70, ⭐2784 — Runners — Advanced CLI tool that scans your hardware and tells you exactly which LLM or sLLM models you can ru
+- [cactus-compute/needle](https://github.com/cactus-compute/needle) — momentum 70, ⭐2674 — On-Device & Mobile — 26m function call model that runs on incredibly small devices
+- [intel/neural-compressor](https://github.com/intel/neural-compressor) — momentum 70, ⭐2673 — Quantization & Formats — SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compressio
+- [Mininglamp-AI/Mano-P](https://github.com/Mininglamp-AI/Mano-P) — momentum 70, ⭐2399 — On-Device & Mobile — Mano-P: Open-source GUI-VLA agent for edge devices. #1 on OSWorld (specialized, 58.2%). Runs locally
+- [rafska/awesome-local-llm](https://github.com/rafska/awesome-local-llm) — momentum 70, ⭐2356 — Collections — A curated list of awesome platforms, tools, practices and resources that helps run LLMs locally
 - [Jeidoban/Ironsmith](https://github.com/Jeidoban/Ironsmith) — momentum 70, ⭐265 — On-Device & Mobile — Create personal Mac apps instantly with a prompt. Supports on-device and cloud LLMs
-- [langroid/langroid](https://github.com/langroid/langroid) — momentum 69, ⭐4052 — Local LLM Tools — Harness LLMs with Multi-Agent Programming
-- [kellyvv/PhoneClaw](https://github.com/kellyvv/PhoneClaw) — momentum 69, ⭐1130 — On-Device & Mobile — Mobile-native local AI Agent framework for phones and edge devices, with an iOS runtime, fully offli
-- [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat) — momentum 69, ⭐1033 — Quantization & Formats — Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline o
+- [dphnAI/sonar](https://github.com/dphnAI/sonar) — momentum 69, ⭐1779 — Inference Engines — Large-scale LLM inference engine
