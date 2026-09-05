@@ -3,14 +3,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>john-rocky/apple-silicon-llm-bench — On-Device &amp; Mobile | The Local LLM Index</title>
-<meta name="description" content="Reproducible on-device LLM benchmarks for Apple Silicon (iPhone 17 Pro, M4 Max): Apple Core AI vs MLX vs llama.cpp vs Core ML, same model, same harness — e.g. Qwen3-0.6B decode 181 tok/s (Core AI GPU) vs 112 (MLX) on iPhone 17 Pro; hybrid Mamba-2 models (Nemotron-3 Nano, Granite-4.0-H) included.">
+<title>john-rocky/apple-silicon-llm-bench — Quantization &amp; Formats | The Local LLM Index</title>
+<meta name="description" content="Reproducible on-device LLM benchmarks for Apple Silicon (iPhone 17 Pro, M4 Max): Apple Core AI, MLX, llama.cpp, LiteRT-LM and Core ML on the same model and harness, every number with its quantization and capture session; hybrid Mamba-2 models (Nemotron-3 Nano, Granite-4.0-H, Falcon-H1) included.">
 <link rel="canonical" href="https://localllm.kymatalabs.com/p/john-rocky-apple-silicon-llm-bench/">
 <meta name="robots" content="index,follow">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://localllm.kymatalabs.com/p/john-rocky-apple-silicon-llm-bench/">
 <meta property="og:title" content="john-rocky/apple-silicon-llm-bench — The Local LLM Index">
-<meta property="og:description" content="Reproducible on-device LLM benchmarks for Apple Silicon (iPhone 17 Pro, M4 Max): Apple Core AI vs MLX vs llama.cpp vs Core ML, same model, same harness — e.g. Qwen3-0.6B decode 181 tok/s (Core AI GPU) vs 112 (MLX) on iPhone 17 Pro; hybrid Mamba-2 models (Nemotron-3 Nano, Granite-4.0-H) included.">
+<meta property="og:description" content="Reproducible on-device LLM benchmarks for Apple Silicon (iPhone 17 Pro, M4 Max): Apple Core AI, MLX, llama.cpp, LiteRT-LM and Core ML on the same model and harness, every number with its quantization and capture session; hybrid Mamba-2 models (Nemotron-3 Nano, Granite-4.0-H, Falcon-H1) included.">
 <meta property="og:image" content="https://localllm.kymatalabs.com/og.png">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/style.css">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareSourceCode", "name": "john-rocky/apple-silicon-llm-bench", "description": "Reproducible on-device LLM benchmarks for Apple Silicon (iPhone 17 Pro, M4 Max): Apple Core AI vs MLX vs llama.cpp vs Core ML, same model, same harness \u2014 e.g. Qwen3-0.6B decode 181 tok/s (Core AI GPU) vs 112 (MLX) on iPhone 17 Pro; hybrid Mamba-2 models (Nemotron-3 Nano, Granite-4.0-H) included.", "url": "https://localllm.kymatalabs.com/p/john-rocky-apple-silicon-llm-bench/", "codeRepository": "https://github.com/john-rocky/apple-silicon-llm-bench", "programmingLanguage": "Python", "author": {"@type": "Person", "name": "john-rocky"}, "license": "MIT"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareSourceCode", "name": "john-rocky/apple-silicon-llm-bench", "description": "Reproducible on-device LLM benchmarks for Apple Silicon (iPhone 17 Pro, M4 Max): Apple Core AI, MLX, llama.cpp, LiteRT-LM and Core ML on the same model and harness, every number with its quantization and capture session; hybrid Mamba-2 models (Nemotron-3 Nano, Granite-4.0-H, Falcon-H1) included.", "url": "https://localllm.kymatalabs.com/p/john-rocky-apple-silicon-llm-bench/", "codeRepository": "https://github.com/john-rocky/apple-silicon-llm-bench", "programmingLanguage": "Python", "author": {"@type": "Person", "name": "john-rocky"}, "license": "MIT"}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "The Local LLM Index", "item": "https://localllm.kymatalabs.com/"}, {"@type": "ListItem", "position": 2, "name": "john-rocky/apple-silicon-llm-bench", "item": "https://localllm.kymatalabs.com/p/john-rocky-apple-silicon-llm-bench/"}]}</script>
 <script>var t;try{t=localStorage.getItem('ll-theme')}catch(e){}if(t)document.documentElement.setAttribute('data-theme',t);</script>
 </head>
@@ -28,10 +28,10 @@
   <div class="head-actions"><a href="/">← All tools</a><button class="theme-btn" id="theme" aria-label="Toggle theme">◐</button></div>
 </div></header>
 <main class="wrap detail">
-  <div class="crumb"><a href="/">The Local LLM Index</a> / On-Device &amp; Mobile / #145</div>
+  <div class="crumb"><a href="/">The Local LLM Index</a> / Quantization &amp; Formats / #145</div>
   <h1 class="disp">john-rocky/apple-silicon-llm-bench</h1>
-  <div class="sub">by john-rocky · On-Device &amp; Mobile · updated today</div>
-  <p class="desc-big">Reproducible on-device LLM benchmarks for Apple Silicon (iPhone 17 Pro, M4 Max): Apple Core AI vs MLX vs llama.cpp vs Core ML, same model, same harness — e.g. Qwen3-0.6B decode 181 tok/s (Core AI GPU) vs 112 (MLX) on iPhone 17 Pro; hybrid Mamba-2 models (Nemotron-3 Nano, Granite-4.0-H) included.</p>
+  <div class="sub">by john-rocky · Quantization &amp; Formats · updated today</div>
+  <p class="desc-big">Reproducible on-device LLM benchmarks for Apple Silicon (iPhone 17 Pro, M4 Max): Apple Core AI, MLX, llama.cpp, LiteRT-LM and Core ML on the same model and harness, every number with its quantization and capture session; hybrid Mamba-2 models (Nemotron-3 Nano, Granite-4.0-H, Falcon-H1) included.</p>
   <div class="detail-stats">
     <div class="box"><div class="num disp">52</div><div class="lbl">momentum</div></div>
     <div class="box"><div class="num disp">63</div><div class="lbl">stars</div></div>
@@ -40,7 +40,7 @@
   </div>
   <div class="topics"><span class="topic">apple-core-ai</span><span class="topic">apple-silicon</span><span class="topic">benchmark</span><span class="topic">core-ai</span><span class="topic">coreml</span><span class="topic">granite</span><span class="topic">hybrid-mamba</span><span class="topic">ios</span><span class="topic">iphone-17-pro</span><span class="topic">llama-cpp</span><span class="topic">llm</span><span class="topic">llm-inference</span></div>
   <a class="cta" href="https://github.com/john-rocky/apple-silicon-llm-bench" target="_blank" rel="noopener">View on GitHub →</a>
-  <div class="related"><h2 class="disp">More in On-Device &amp; Mobile</h2><div class="grid"><a class="card in" href="/p/drumih-turbo-fieldfare/"><div class="card-head"><span class="cat">On-Device &amp; Mobile</span><span class="rk">#4</span></div><div class="card-body"><div class="name disp">turbo-fieldfare</div><div class="desc">Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook</div></div></a><a class="card in" href="/p/alibaba-mnn/"><div class="card-head"><span class="cat">On-Device &amp; Mobile</span><span class="rk">#7</span></div><div class="card-body"><div class="name disp">MNN</div><div class="desc">MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-</div></div></a><a class="card in" href="/p/openbmb-minicpm/"><div class="card-head"><span class="cat">On-Device &amp; Mobile</span><span class="rk">#10</span></div><div class="card-body"><div class="name disp">MiniCPM</div><div class="desc">MiniCPM5-1B: A SOTA 1B on-device LLM, small yet powerful.</div></div></a><a class="card in" href="/p/runanywhereai-runanywhere-sdks/"><div class="card-head"><span class="cat">On-Device &amp; Mobile</span><span class="rk">#11</span></div><div class="card-body"><div class="name disp">runanywhere-sdks</div><div class="desc">Production ready toolkit to run AI locally</div></div></a></div></div>
+  <div class="related"><h2 class="disp">More in Quantization &amp; Formats</h2><div class="grid"><a class="card in" href="/p/unslothai-unsloth/"><div class="card-head"><span class="cat">Quantization &amp; Formats</span><span class="rk">#1</span></div><div class="card-body"><div class="name disp">unsloth</div><div class="desc">Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek</div></div></a><a class="card in" href="/p/mozilla-ai-llamafile/"><div class="card-head"><span class="cat">Quantization &amp; Formats</span><span class="rk">#5</span></div><div class="card-body"><div class="name disp">llamafile</div><div class="desc">Distribute and run LLMs with a single file.</div></div></a><a class="card in" href="/p/syv-ai-qwen38-27b-rtx3090/"><div class="card-head"><span class="cat">Quantization &amp; Formats</span><span class="rk">#13</span></div><div class="card-body"><div class="name disp">qwen38-27b-rtx3090</div><div class="desc">Qwen3.8-27B on a single RTX 3090 with vLLM: ~1,000 tok/s at 64 concurrent (int8 tensor-cor</div></div></a><a class="card in" href="/p/makazhanalpamys-soup/"><div class="card-head"><span class="cat">Quantization &amp; Formats</span><span class="rk">#21</span></div><div class="card-body"><div class="name disp">Soup</div><div class="desc">Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.</div></div></a></div></div>
 </main>
 <footer><div class="wrap foot-row">
   <div class="blurb">The Local LLM Index is a self-updating spec sheet, recomputed daily from live GitHub signals.</div>
