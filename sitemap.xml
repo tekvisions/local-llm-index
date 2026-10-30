@@ -57,11 +57,10 @@
   <url><loc>https://localllm.kymatalabs.com/p/cosmo-wander-ai-cosmo-edge/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/dphnai-sonar/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/atomicbot-ai-atomic-chat/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://localllm.kymatalabs.com/p/software-mansion-react-native-executorch/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://localllm.kymatalabs.com/p/khoj-ai-khoj/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/cactus-compute-cactus/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/isair-jarvis/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/john-rocky-coreml-models/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://localllm.kymatalabs.com/p/software-mansion-react-native-executorch/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/siddsachar-row-bot/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/roy3838-observer/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/nobodywho-ooo-nobodywho/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -72,6 +71,7 @@
   <url><loc>https://localllm.kymatalabs.com/p/ashhart-tensorfold/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/muesli-hq-muesli/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/startluxlabs-startlux-prism/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://localllm.kymatalabs.com/p/khoj-ai-khoj/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/codedogqby-readany/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/waybarrios-vllm-mlx/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/obsei-obsei/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -150,13 +150,13 @@
   <url><loc>https://localllm.kymatalabs.com/p/kellyvv-phoneclaw/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/adammikulis-local-agents/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/gianlucamazza-xllama/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://localllm.kymatalabs.com/p/hung-yueh-react-native-litert-lm/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/abuzar-ansarii-pocketstrike/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/john-rocky-apple-silicon-llm-bench/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://localllm.kymatalabs.com/p/hung-yueh-react-native-litert-lm/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/t0msilver-localvoxtral/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/haujetzhao-qwen3-tts-gguf/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/fypklanfanqie-local-llm-with-character-setting-arknights/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://localllm.kymatalabs.com/p/ryan-yang125-chatllm-web/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://localllm.kymatalabs.com/p/krisyangdev-chatllm-web/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/bodhisearch-bodhiapp/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/mininglamp-ai-mano-p/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/techjarves-usb-uncensored-llm/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -189,8 +189,8 @@
   <url><loc>https://localllm.kymatalabs.com/p/rahulschand-gpu-poor/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/tjake-jlama/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/mrkrsl-web-search-mcp/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://localllm.kymatalabs.com/p/chongzhou96-edgesam/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/eclaire-labs-eclaire/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://localllm.kymatalabs.com/p/chongzhou96-edgesam/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/nativemindbrowser-nativemindextension/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/brucemacd-chatd/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/facebookresearch-edgetam/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -203,18 +203,18 @@
   <url><loc>https://localllm.kymatalabs.com/p/iuliaturc-gguf-docs/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/antirez-gguf-tools/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/di37-running-llms-locally/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://localllm.kymatalabs.com/p/alebal123bal-khadas-yolov8n-multithread/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/ramanujammv1988-edge-veda/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/martin-rizzo-amazingzimageworkflow/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/ai-hypercomputer-jetstream/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/xaskasdf-ntransformer/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/instavm-open-skills/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/squeezeailab-kvquant/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://localllm.kymatalabs.com/p/helldez-hearopilot-app/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://localllm.kymatalabs.com/p/alebal123bal-khadas-yolov8n-multithread/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/praxis-society-praxis-cloak/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/dusty-nv-nanollm/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/dipampaul17-kvsplit/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/intel-neural-speed/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://localllm.kymatalabs.com/p/helldez-hearopilot-app/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/1038lab-comfyui-joycaption/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/picomlx-picomlxserver/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://localllm.kymatalabs.com/p/rileycleavenger-silicon-studio/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
