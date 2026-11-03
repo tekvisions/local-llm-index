@@ -3,6 +3,7 @@
 Fully SEO'd (title/meta/canonical/OG + SoftwareSourceCode JSON-LD + breadcrumb). Run after build_data.py."""
 from __future__ import annotations
 
+import html_json
 import html
 import json
 import os
@@ -40,8 +41,12 @@ def page(it: dict, related: list[dict]) -> str:
         for r in related)
     ld = {"@context": "https://schema.org", "@type": "SoftwareSourceCode", "name": it["full_name"],
           "description": desc, "url": url, "codeRepository": it["url"],
-          "programmingLanguage": it.get("language") or "C++",
-          "author": {"@type": "Person", "name": it["owner"]}, "license": it.get("license") or ""}
+          "programmingLanguage": it.get("language"),
+           "license": it.get("license") or ""}
+    if not ld.get("programmingLanguage"):
+        ld.pop("programmingLanguage", None)
+    if ld.get("license") in (None, "", "NOASSERTION", "OTHER"):
+        ld.pop("license", None)
     crumb = {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
         {"@type": "ListItem", "position": 1, "name": "The Local LLM Index", "item": SITE_URL + "/"},
         {"@type": "ListItem", "position": 2, "name": it["full_name"], "item": url}]}
@@ -65,8 +70,8 @@ def page(it: dict, related: list[dict]) -> str:
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/style.css">
-<script type="application/ld+json">{json.dumps(ld)}</script>
-<script type="application/ld+json">{json.dumps(crumb)}</script>
+<script type="application/ld+json">{html_json.dumps(ld)}</script>
+<script type="application/ld+json">{html_json.dumps(crumb)}</script>
 <script>var t;try{{t=localStorage.getItem('ll-theme')}}catch(e){{}}if(t)document.documentElement.setAttribute('data-theme',t);</script>
 </head>
 <body>

@@ -1,0 +1,60 @@
+{
+  "host": "localllm.kymatalabs.com",
+  "reviewed_on": "2026-11-03",
+  "title": "Choose a local LLM stack for your device and model",
+  "answer": "Identify the model artifact, target hardware and interface you need. An inference engine, runner, UI and format/conversion tool occupy different layers of a local setup.",
+  "choices": [
+    {
+      "categories": [
+        "Inference Engines",
+        "Runners"
+      ],
+      "task": "Execute the model",
+      "guidance": "Verify the model architecture, artifact format, precision, context requirements and hardware backend in the runtime documentation."
+    },
+    {
+      "categories": [
+        "Local UIs & Apps",
+        "In-Browser",
+        "On-Device & Mobile"
+      ],
+      "task": "Provide the required interface",
+      "guidance": "Check which runtime and models the application actually uses, where inference occurs and how data is stored."
+    },
+    {
+      "categories": [
+        "Quantization & Formats",
+        "Local LLM Tools"
+      ],
+      "task": "Prepare or integrate an artifact",
+      "guidance": "Document conversion/quantization settings and verify the output with the intended runtime and a held-out task sample."
+    }
+  ],
+  "checks": [
+    "Record device, memory, runtime/model versions and all generation settings.",
+    "Measure cold start, latency, throughput and memory on the intended machine.",
+    "Check code/model licenses and whether any configured features call external services."
+  ],
+  "unknowns": "A local label does not establish every feature is offline; speed, memory fit and task quality remain unverified until tested for the exact configuration.",
+  "related": [
+    {
+      "url": "https://modelradar.kymatalabs.com/",
+      "label": "modelradar"
+    },
+    {
+      "url": "https://finetune.kymatalabs.com/",
+      "label": "finetune"
+    },
+    {
+      "url": "https://voice.kymatalabs.com/",
+      "label": "voice"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Published collection and scoring rules",
+      "url": "https://github.com/tekvisions/local-llm-index/blob/e86443e9c46e7b8fdb3670a50eb9c8b9295106b9/build_data.py",
+      "reviewed_on": "2026-11-03"
+    }
+  ]
+}
