@@ -246,8 +246,45 @@
     "https://localllm.kymatalabs.com/p/chanulee-coreollama/",
     "https://localllm.kymatalabs.com/p/santoshdkolur-llm-runner/"
   ],
-  "retained_references": [],
+  "retained_references": [
+    {
+      "slug": "blaizzy-nativ",
+      "entity": "Blaizzy/nativ",
+      "canonical_url": "https://localllm.kymatalabs.com/p/blaizzy-nativ/",
+      "repository": "https://github.com/Neywa-Labs/nativ",
+      "summary": "Nativ is a local AI application for Apple Silicon Macs. Its repository moved from Blaizzy/nativ to Neywa-Labs/nativ, retaining GitHub repository ID 1306758289.",
+      "selection_context": "Consult the current publisher documentation for local-model management and integrations. This existing Kymata URL preserves its former identity.",
+      "limitations": "Verify macOS, hardware, model and network-integration requirements. Publisher privacy claims are not an independent audit.",
+      "last_catalog_snapshot": "2026-11-02T18:53:38.872218+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/Neywa-Labs/nativ/blob/main/README.md",
+          "title": "Neywa-Labs/nativ publisher documentation"
+        }
+      ]
+    },
+    {
+      "slug": "mrkrsl-web-search-mcp",
+      "entity": "mrkrsl/web-search-mcp",
+      "canonical_url": "https://localllm.kymatalabs.com/p/mrkrsl-web-search-mcp/",
+      "repository": "https://github.com/mrkrsl/web-search-mcp",
+      "summary": "A locally hosted MCP server documented for adding web-search tools to local language-model clients.",
+      "selection_context": "Assess its search tools and client compatibility using publisher documentation.",
+      "limitations": "Search engines and remote sites are still contacted. Verify terms and dependencies; local hosting does not mean offline operation.",
+      "last_catalog_snapshot": "2026-11-02T18:53:38.872218+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/mrkrsl/web-search-mcp/blob/main/README.md",
+          "title": "mrkrsl/web-search-mcp publisher documentation"
+        }
+      ]
+    }
+  ],
   "retirements": [],
   "planned_release_urls": [],
-  "baseline_maintenance": "This captured baseline and proposed additions are explicit release inputs, not a rolling publication log. After each authorized release, refresh the protected baseline from verified published sitemaps before reviewing the next snapshot; keep capture provenance separate."
+  "baseline_maintenance": "This captured baseline and proposed additions are explicit release inputs, not a rolling publication log. After each authorized release, refresh the protected baseline from verified published sitemaps before reviewing the next snapshot; keep capture provenance separate.",
+  "site_name": "The Local LLM Index",
+  "detail_prefix": "p"
 }
