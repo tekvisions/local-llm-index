@@ -1,0 +1,53 @@
+[
+  {
+    "slug": "nobodywho-ooo-nobodywho",
+    "entity": "nobodywho-ooo/nobodywho",
+    "canonical_url": "https://localllm.kymatalabs.com/p/nobodywho-ooo-nobodywho/",
+    "repository": "https://github.com/nobodywho-ooo/nobodywho",
+    "summary": "An on-device inference engine with documented bindings for local language-model, speech and application workflows.",
+    "selection_context": "Compare the publisher's platform bindings and model requirements for local inference integrations.",
+    "limitations": "Verify memory, GPU drivers, supported models and platform gaps. The documentation excludes Windows ARM64 and web export; local operation and performance were not independently tested.",
+    "last_catalog_snapshot": "2026-11-02T18:53:38.872218+00:00",
+    "reviewed_on": "2026-11-05",
+    "primary_sources": [
+      {
+        "url": "https://github.com/nobodywho-ooo/nobodywho/blob/main/README.md",
+        "title": "nobodywho-ooo/nobodywho publisher README"
+      }
+    ]
+  },
+  {
+    "slug": "sergiiob-intel-arc-pro-b70-inference-cookbook",
+    "entity": "SergiioB/intel-arc-pro-b70-inference-cookbook",
+    "canonical_url": "https://localllm.kymatalabs.com/p/sergiiob-intel-arc-pro-b70-inference-cookbook/",
+    "repository": "https://github.com/SergiioB/intel-arc-pro-b70-inference-cookbook",
+    "summary": "A collection of pinned inference recipes, patches and measurement records for Intel Arc Pro B60/B70 hardware.",
+    "selection_context": "Use the publisher's decision guide and workload-specific evidence to identify a reproducible local inference setup.",
+    "limitations": "Results depend on the exact hardware, model, engine and timing protocol. Some speculative routes change greedy answers and historical speed records may not reproduce; no new benchmark result is asserted.",
+    "last_catalog_snapshot": "2026-11-02T18:53:38.872218+00:00",
+    "reviewed_on": "2026-11-05",
+    "primary_sources": [
+      {
+        "url": "https://github.com/SergiioB/intel-arc-pro-b70-inference-cookbook/blob/master/README.md",
+        "title": "SergiioB/intel-arc-pro-b70-inference-cookbook publisher README"
+      }
+    ]
+  },
+  {
+    "slug": "severian42-graphrag-local-ui",
+    "entity": "severian42/GraphRAG-Local-UI",
+    "canonical_url": "https://localllm.kymatalabs.com/p/severian42-graphrag-local-ui/",
+    "repository": "https://github.com/severian42/GraphRAG-Local-UI",
+    "summary": "An adaptation of GraphRAG with local-model support, a central API and interfaces for indexing, prompt tuning and querying.",
+    "selection_context": "Inspect the publisher's setup and architecture notes when comparing local GraphRAG interfaces.",
+    "limitations": "The README warns about a major transition and possible instability, with primary testing on a Mac Studio M2. Verify dependency compatibility, data access and API exposure before use.",
+    "last_catalog_snapshot": "2026-11-02T18:53:38.872218+00:00",
+    "reviewed_on": "2026-11-05",
+    "primary_sources": [
+      {
+        "url": "https://github.com/severian42/GraphRAG-Local-UI/blob/main/README.md",
+        "title": "severian42/GraphRAG-Local-UI publisher README"
+      }
+    ]
+  }
+]
