@@ -2,7 +2,7 @@
 
 > The Local LLM Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-06T16:21:04.411201+00:00
+Snapshot collected: 2026-11-07T16:31:06.886937+00:00
 Current catalog records: 238
 
 ## Sources and interpretation
@@ -36,29 +36,29 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [MakazhanAlpamys/Soup](https://localllm.kymatalabs.com/p/makazhanalpamys-soup/) — Quantization & Formats
 - [LearningCircuit/local-deep-research](https://localllm.kymatalabs.com/p/learningcircuit-local-deep-research/) — Inference Engines
 - [qualcomm/GenieX](https://localllm.kymatalabs.com/p/qualcomm-geniex/) — On-Device & Mobile
-- [di-sukharev/opencommit](https://localllm.kymatalabs.com/p/di-sukharev-opencommit/) — Runners
 - [google-ai-edge/LiteRT-LM](https://localllm.kymatalabs.com/p/google-ai-edge-litert-lm/) — On-Device & Mobile
 - [Andyyyy64/whichllm](https://localllm.kymatalabs.com/p/andyyyy64-whichllm/) — Runners
 - [lemonade-sdk/lemonade](https://localllm.kymatalabs.com/p/lemonade-sdk-lemonade/) — Inference Engines
+- [di-sukharev/opencommit](https://localllm.kymatalabs.com/p/di-sukharev-opencommit/) — Runners
 - [drumih/turbo-fieldfare](https://localllm.kymatalabs.com/p/drumih-turbo-fieldfare/) — On-Device & Mobile
 - [cactus-compute/engine](https://localllm.kymatalabs.com/p/cactus-compute-engine/) — Quantization & Formats
 - [dograh-hq/dograh](https://localllm.kymatalabs.com/p/dograh-hq-dograh/) — Local LLM Tools
 - [Michael-A-Kuykendall/shimmy](https://localllm.kymatalabs.com/p/michael-a-kuykendall-shimmy/) — Quantization & Formats
 - [maziyarpanahi/openmed](https://localllm.kymatalabs.com/p/maziyarpanahi-openmed/) — On-Device & Mobile
-- [syv-ai/HyperQwen](https://localllm.kymatalabs.com/p/syv-ai-hyperqwen/) — Quantization & Formats
 - [mizorewww/laya-coreml](https://localllm.kymatalabs.com/p/mizorewww-laya-coreml/) — On-Device & Mobile
-- [cobanov/PS5LM](https://localllm.kymatalabs.com/p/cobanov-ps5lm/) — Quantization & Formats
 - [thunderbird/thunderbolt](https://localllm.kymatalabs.com/p/thunderbird-thunderbolt/) — On-Device & Mobile
 - [langroid/langroid](https://localllm.kymatalabs.com/p/langroid-langroid/) — Local LLM Tools
 - [raullenchai/Rapid-MLX](https://localllm.kymatalabs.com/p/raullenchai-rapid-mlx/) — Inference Engines
+- [syv-ai/HyperQwen](https://localllm.kymatalabs.com/p/syv-ai-hyperqwen/) — Quantization & Formats
+- [cobanov/PS5LM](https://localllm.kymatalabs.com/p/cobanov-ps5lm/) — Quantization & Formats
 - [SciSharp/LLamaSharp](https://localllm.kymatalabs.com/p/scisharp-llamasharp/) — Inference Engines
-- [twinnydotdev/twinny](https://localllm.kymatalabs.com/p/twinnydotdev-twinny/) — Inference Engines
-- [sugarforever/chat-ollama](https://localllm.kymatalabs.com/p/sugarforever-chat-ollama/) — Runners
 - [PurpleDoubleD/locally-uncensored](https://localllm.kymatalabs.com/p/purpledoubled-locally-uncensored/) — Local LLM Tools
-- [AtomicBot-ai/atomic-agent](https://localllm.kymatalabs.com/p/atomicbot-ai-atomic-agent/) — Quantization & Formats
 - [off-grid-ai/OGAM](https://localllm.kymatalabs.com/p/off-grid-ai-ogam/) — Quantization & Formats
 - [vinta/pangu.js](https://localllm.kymatalabs.com/p/vinta-pangu-js/) — On-Device & Mobile
+- [twinnydotdev/twinny](https://localllm.kymatalabs.com/p/twinnydotdev-twinny/) — Inference Engines
+- [sugarforever/chat-ollama](https://localllm.kymatalabs.com/p/sugarforever-chat-ollama/) — Runners
 - [nicedreamzapp/claude-code-local](https://localllm.kymatalabs.com/p/nicedreamzapp-claude-code-local/) — On-Device & Mobile
+- [AtomicBot-ai/atomic-agent](https://localllm.kymatalabs.com/p/atomicbot-ai-atomic-agent/) — Quantization & Formats
 - [spiceai/spiceai](https://localllm.kymatalabs.com/p/spiceai-spiceai/) — Inference Engines
 - [rafska/awesome-local-llm](https://localllm.kymatalabs.com/p/rafska-awesome-local-llm/) — Collections
 - [xyproto/algernon](https://localllm.kymatalabs.com/p/xyproto-algernon/) — Inference Engines
