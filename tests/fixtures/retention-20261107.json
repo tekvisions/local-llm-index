@@ -1,0 +1,138 @@
+{
+  "entries": [
+    {
+      "slug": "woheller69-whisperime",
+      "entity": "woheller69/whisperIME",
+      "canonical_url": "https://localllm.kymatalabs.com/p/woheller69-whisperime/",
+      "repository": "https://github.com/woheller69/whisperIME",
+      "summary": "whisperIME documents an Android voice-input method and standalone speech-recognition app using Whisper, with initial model downloads followed by offline recognition.",
+      "selection_context": "Compare the documented IME, system voice-input and standalone transcription or translation modes.",
+      "limitations": "Check current Android compatibility, model download requirements, language support and recording limits. Publisher privacy and distribution-compatibility statements were reviewed as documentation; permission behavior and transcription quality were not independently tested.",
+      "schema_type": "SoftwareSourceCode",
+      "last_catalog_snapshot": "2026-11-06T16:21:04.411201+00:00",
+      "reviewed_on": "2026-11-07",
+      "last_successful_source_commit": "fb268f56f5c13fa6fa65825a285b5f718752fe1a",
+      "decision": "Retain the published route as a dated unranked reference when absent from current discovery.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/woheller69/whisperIME/blob/f78a120352812988976084630dd6b2b1037ffc8c/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "f26daed0997936ad9a85757f6e159f18e35f54f8e2c7865879c9e2069bd024d5",
+          "blob_sha": "8a38086ff557574f18f4d65b37fac4b41e7d7a0c",
+          "commit_sha": "f78a120352812988976084630dd6b2b1037ffc8c"
+        }
+      ]
+    }
+  ],
+  "saved_snapshot": "2026-11-06T16:21:04.411201+00:00",
+  "policy_sha256": "175092a40495d5e049a07ceace21a5995c475c8c12f698e4da6087204912f315",
+  "previous_references": [
+    {
+      "slug": "blaizzy-nativ",
+      "entity": "Blaizzy/nativ",
+      "canonical_url": "https://localllm.kymatalabs.com/p/blaizzy-nativ/",
+      "repository": "https://github.com/Neywa-Labs/nativ",
+      "summary": "Nativ is a local AI application for Apple Silicon Macs. Its repository moved from Blaizzy/nativ to Neywa-Labs/nativ, retaining GitHub repository ID 1306758289.",
+      "selection_context": "Consult the current publisher documentation for local-model management and integrations. This existing Kymata URL preserves its former identity.",
+      "limitations": "Verify macOS, hardware, model and network-integration requirements. Publisher privacy claims are not an independent audit.",
+      "last_catalog_snapshot": "2026-11-02T18:53:38.872218+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/Neywa-Labs/nativ/blob/main/README.md",
+          "title": "Neywa-Labs/nativ publisher documentation"
+        }
+      ]
+    },
+    {
+      "slug": "mrkrsl-web-search-mcp",
+      "entity": "mrkrsl/web-search-mcp",
+      "canonical_url": "https://localllm.kymatalabs.com/p/mrkrsl-web-search-mcp/",
+      "repository": "https://github.com/mrkrsl/web-search-mcp",
+      "summary": "A locally hosted MCP server documented for adding web-search tools to local language-model clients.",
+      "selection_context": "Assess its search tools and client compatibility using publisher documentation.",
+      "limitations": "Search engines and remote sites are still contacted. Verify terms and dependencies; local hosting does not mean offline operation.",
+      "last_catalog_snapshot": "2026-11-02T18:53:38.872218+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/mrkrsl/web-search-mcp/blob/main/README.md",
+          "title": "mrkrsl/web-search-mcp publisher documentation"
+        }
+      ]
+    },
+    {
+      "slug": "nobodywho-ooo-nobodywho",
+      "entity": "nobodywho-ooo/nobodywho",
+      "canonical_url": "https://localllm.kymatalabs.com/p/nobodywho-ooo-nobodywho/",
+      "repository": "https://github.com/nobodywho-ooo/nobodywho",
+      "summary": "An on-device inference engine with documented bindings for local language-model, speech and application workflows.",
+      "selection_context": "Compare the publisher's platform bindings and model requirements for local inference integrations.",
+      "limitations": "Verify memory, GPU drivers, supported models and platform gaps. The documentation excludes Windows ARM64 and web export; local operation and performance were not independently tested.",
+      "last_catalog_snapshot": "2026-11-02T18:53:38.872218+00:00",
+      "reviewed_on": "2026-11-05",
+      "primary_sources": [
+        {
+          "url": "https://github.com/nobodywho-ooo/nobodywho/blob/main/README.md",
+          "title": "nobodywho-ooo/nobodywho publisher README"
+        }
+      ]
+    },
+    {
+      "slug": "sergiiob-intel-arc-pro-b70-inference-cookbook",
+      "entity": "SergiioB/intel-arc-pro-b70-inference-cookbook",
+      "canonical_url": "https://localllm.kymatalabs.com/p/sergiiob-intel-arc-pro-b70-inference-cookbook/",
+      "repository": "https://github.com/SergiioB/intel-arc-pro-b70-inference-cookbook",
+      "summary": "A collection of pinned inference recipes, patches and measurement records for Intel Arc Pro B60/B70 hardware.",
+      "selection_context": "Use the publisher's decision guide and workload-specific evidence to identify a reproducible local inference setup.",
+      "limitations": "Results depend on the exact hardware, model, engine and timing protocol. Some speculative routes change greedy answers and historical speed records may not reproduce; no new benchmark result is asserted.",
+      "last_catalog_snapshot": "2026-11-02T18:53:38.872218+00:00",
+      "reviewed_on": "2026-11-05",
+      "primary_sources": [
+        {
+          "url": "https://github.com/SergiioB/intel-arc-pro-b70-inference-cookbook/blob/master/README.md",
+          "title": "SergiioB/intel-arc-pro-b70-inference-cookbook publisher README"
+        }
+      ]
+    },
+    {
+      "slug": "severian42-graphrag-local-ui",
+      "entity": "severian42/GraphRAG-Local-UI",
+      "canonical_url": "https://localllm.kymatalabs.com/p/severian42-graphrag-local-ui/",
+      "repository": "https://github.com/severian42/GraphRAG-Local-UI",
+      "summary": "An adaptation of GraphRAG with local-model support, a central API and interfaces for indexing, prompt tuning and querying.",
+      "selection_context": "Inspect the publisher's setup and architecture notes when comparing local GraphRAG interfaces.",
+      "limitations": "The README warns about a major transition and possible instability, with primary testing on a Mac Studio M2. Verify dependency compatibility, data access and API exposure before use.",
+      "last_catalog_snapshot": "2026-11-02T18:53:38.872218+00:00",
+      "reviewed_on": "2026-11-05",
+      "primary_sources": [
+        {
+          "url": "https://github.com/severian42/GraphRAG-Local-UI/blob/main/README.md",
+          "title": "severian42/GraphRAG-Local-UI publisher README"
+        }
+      ]
+    },
+    {
+      "slug": "cactus-compute-needle",
+      "entity": "cactus-compute/needle",
+      "canonical_url": "https://localllm.kymatalabs.com/p/cactus-compute-needle/",
+      "repository": "https://github.com/cactus-compute/needle",
+      "schema_type": "CreativeWork",
+      "summary": "Historical Cactus Needle reference. The publisher now directs users to cactus-compute/cactus for code, documentation, releases and issues.",
+      "selection_context": "Use this existing URL to locate the publisher migration notice and current Cactus documentation rather than treating the former Needle repository as the current implementation.",
+      "limitations": "The saved catalog snapshot describes the earlier project. Its former ranking and metrics are not current. Verify the successor package requirements and migration instructions; no model, installation or benchmark was tested for this reference.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/cactus-compute/needle/blob/main/README.md",
+          "title": "Publisher notice that Cactus Needle has moved"
+        },
+        {
+          "url": "https://github.com/cactus-compute/cactus/blob/main/README.md",
+          "title": "Current Cactus publisher README and migration guidance"
+        }
+      ],
+      "last_catalog_snapshot": "2026-11-02T18:53:38.872218+00:00",
+      "reviewed_on": "2026-11-05"
+    }
+  ]
+}

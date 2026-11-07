@@ -353,6 +353,29 @@
       ],
       "last_catalog_snapshot": "2026-11-02T18:53:38.872218+00:00",
       "reviewed_on": "2026-11-05"
+    },
+    {
+      "slug": "woheller69-whisperime",
+      "entity": "woheller69/whisperIME",
+      "canonical_url": "https://localllm.kymatalabs.com/p/woheller69-whisperime/",
+      "repository": "https://github.com/woheller69/whisperIME",
+      "summary": "whisperIME documents an Android voice-input method and standalone speech-recognition app using Whisper, with initial model downloads followed by offline recognition.",
+      "selection_context": "Compare the documented IME, system voice-input and standalone transcription or translation modes.",
+      "limitations": "Check current Android compatibility, model download requirements, language support and recording limits. Publisher privacy and distribution-compatibility statements were reviewed as documentation; permission behavior and transcription quality were not independently tested.",
+      "schema_type": "SoftwareSourceCode",
+      "last_catalog_snapshot": "2026-11-06T16:21:04.411201+00:00",
+      "reviewed_on": "2026-11-07",
+      "last_successful_source_commit": "fb268f56f5c13fa6fa65825a285b5f718752fe1a",
+      "decision": "Retain the published route as a dated unranked reference when absent from current discovery.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/woheller69/whisperIME/blob/f78a120352812988976084630dd6b2b1037ffc8c/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "f26daed0997936ad9a85757f6e159f18e35f54f8e2c7865879c9e2069bd024d5",
+          "blob_sha": "8a38086ff557574f18f4d65b37fac4b41e7d7a0c",
+          "commit_sha": "f78a120352812988976084630dd6b2b1037ffc8c"
+        }
+      ]
     }
   ],
   "retirements": [],
