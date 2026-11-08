@@ -1,0 +1,30 @@
+{
+  "unchanged_policy_sha256": "175092a40495d5e049a07ceace21a5995c475c8c12f698e4da6087204912f315",
+  "previous_reference_count": 7,
+  "previous_references_sha256": "3b569d3445894d38ba369d508a5f86f39a53597f64f448707183083aa7583c88",
+  "entries": [
+    {
+      "slug": "matt-c1-llama-3-quant-comparison",
+      "entity": "matt-c1/llama-3-quant-comparison",
+      "canonical_url": "https://localllm.kymatalabs.com/p/matt-c1-llama-3-quant-comparison/",
+      "repository": "https://github.com/matt-c1/llama-3-quant-comparison",
+      "summary": "This repository presents a dated comparison of Llama 3 Instruct quantization using MMLU, covering GGUF, EXL2 and Transformers-based variants with result tables and methodology notes.",
+      "selection_context": "Use the report to understand the author's quality-versus-model-size comparisons and experimental setup, then test the models and inference versions relevant to your hardware.",
+      "limitations": "The report evaluates the 70B model on only 50 questions per category, versus full MMLU for 8B, and warns that these results are not directly comparable. Its model-size accounting is not a measured VRAM requirement. The 2024 results are not current model rankings or independently reproduced benchmarks.",
+      "schema_type": "CreativeWork",
+      "last_catalog_snapshot": "2026-11-07T16:31:06.886937+00:00",
+      "reviewed_on": "2026-11-08",
+      "last_successful_source_commit": "c95f97e7a441b3604a59c5cf5122f1be6dff6a1a",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/matt-c1/llama-3-quant-comparison/blob/f35b7db21acd1f6258239774f3dbc0fd6cfbfbae/README.md",
+          "title": "Publisher README at reviewed commit",
+          "commit_sha": "f35b7db21acd1f6258239774f3dbc0fd6cfbfbae",
+          "blob_sha": "817bcc39c6b8e7269326176158f1a5de6b43dc82",
+          "evidence_sha256": "be28dc2fc140ab9b1c2d316ce93e8826b98b903db685cec69894376ff5e0e9fd"
+        }
+      ]
+    }
+  ]
+}
