@@ -399,6 +399,336 @@
           "evidence_sha256": "be28dc2fc140ab9b1c2d316ce93e8826b98b903db685cec69894376ff5e0e9fd"
         }
       ]
+    },
+    {
+      "slug": "akx-ggify",
+      "entity": "akx/ggify",
+      "canonical_url": "https://localllm.kymatalabs.com/p/akx-ggify/",
+      "repository": "https://github.com/akx/ggify",
+      "summary": "Publisher description of akx/ggify: Tool to download models from Huggingface Hub and convert them to GGML/GGUF for llama.cpp. The saved 2026-11-07 catalog classified it under Quantization & Formats.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Quantization & Formats work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T16:31:06.886937+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "c95f97e7a441b3604a59c5cf5122f1be6dff6a1a",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/akx/ggify/blob/master/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "3c0884577b45ea6415650ad96e4b5022cc179df59cbea06717974c372c67f4ed",
+          "blob_sha": "ec9db63fe0947bf5b85d658eae9ab3d863870602"
+        }
+      ]
+    },
+    {
+      "slug": "eric-terminal-etos-llm-studio",
+      "entity": "Eric-Terminal/ETOS-LLM-Studio",
+      "canonical_url": "https://localllm.kymatalabs.com/p/eric-terminal-etos-llm-studio/",
+      "repository": "https://github.com/Eric-Terminal/ETOS-LLM-Studio",
+      "summary": "Publisher description of Eric-Terminal/ETOS-LLM-Studio: A native LLM client for iOS & Apple Watch. Run local GGUF models offline via llama.cpp, or connect to OpenAI/Claude/Gemini. Features local RAG, Model Context Protocol (MCP) tools, Siri Shortcuts, and cross-device sync. Built with Swift. The saved 2026-11-07 catalog classified it under Quantization & Formats.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Quantization & Formats work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T16:31:06.886937+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "c95f97e7a441b3604a59c5cf5122f1be6dff6a1a",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/Eric-Terminal/ETOS-LLM-Studio/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "02bae0296f1822680aa8708832c02f7a62c8c1fae9956fcf39a73c92cf483322",
+          "blob_sha": "c7edd09cd7a70acb412143162de1ea2c6eead8cd"
+        }
+      ]
+    },
+    {
+      "slug": "haujetzhao-qwen3-tts-gguf",
+      "entity": "HaujetZhao/Qwen3-TTS-GGUF",
+      "canonical_url": "https://localllm.kymatalabs.com/p/haujetzhao-qwen3-tts-gguf/",
+      "repository": "https://github.com/HaujetZhao/Qwen3-TTS-GGUF",
+      "summary": "Publisher description of HaujetZhao/Qwen3-TTS-GGUF (translated from Chinese): a Qwen3-TTS inference approach, described by the publisher as the fastest, that exports the LLM part of Qwen3-TTS to GGUF and runs it with llama.cpp, which supports Vulkan and CUDA acceleration. The saved 2026-11-07 catalog classified it under Quantization & Formats.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Quantization & Formats work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T16:31:06.886937+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "c95f97e7a441b3604a59c5cf5122f1be6dff6a1a",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/HaujetZhao/Qwen3-TTS-GGUF/blob/main/readme.md",
+          "title": "Publisher README",
+          "evidence_sha256": "98388a79b37bdaa8671643abd85c417c46d3aa1fae4ab77424d20b455216d34d",
+          "blob_sha": "0cc3a90b56063fe656bee0a0cec474b6117610ea"
+        }
+      ]
+    },
+    {
+      "slug": "helgesverre-ollama-gui",
+      "entity": "HelgeSverre/ollama-gui",
+      "canonical_url": "https://localllm.kymatalabs.com/p/helgesverre-ollama-gui/",
+      "repository": "https://github.com/HelgeSverre/ollama-gui",
+      "summary": "Publisher description of HelgeSverre/ollama-gui: A Web Interface for chatting with your local LLMs via the ollama API. The saved 2026-11-07 catalog classified it under Local UIs & Apps.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Local UIs & Apps work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T16:31:06.886937+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "c95f97e7a441b3604a59c5cf5122f1be6dff6a1a",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/HelgeSverre/ollama-gui/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "588a6f5e6da84b2f65ec81c90ecc30619558e977f3ff8a6d8b79d696f024eb6e",
+          "blob_sha": "6e2822be158cf82a837b2bcfaa1edb161d035f2d"
+        }
+      ]
+    },
+    {
+      "slug": "hjcheng0602-nanopd",
+      "entity": "HJCheng0602/nanoPD",
+      "canonical_url": "https://localllm.kymatalabs.com/p/hjcheng0602-nanopd/",
+      "repository": "https://github.com/HJCheng0602/nanoPD",
+      "summary": "Publisher description of HJCheng0602/nanoPD: A from-scratch Prefill/Decode disaggregation inference engine for LLMs. The saved 2026-11-07 catalog classified it under Inference Engines.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Inference Engines work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T16:31:06.886937+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "c95f97e7a441b3604a59c5cf5122f1be6dff6a1a",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/HJCheng0602/nanoPD/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "23a785262674a3d2aa17ad416e5ca0f437288e5138a70b98223ac833e1632d04",
+          "blob_sha": "a4e83d1327365d98105b3e84b12c86aad23a543b"
+        }
+      ]
+    },
+    {
+      "slug": "isair-jarvis",
+      "entity": "isair/jarvis",
+      "canonical_url": "https://localllm.kymatalabs.com/p/isair-jarvis/",
+      "repository": "https://github.com/isair/jarvis",
+      "summary": "Publisher description of isair/jarvis: Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or OpenAI-compatible servers on macOS, Windows and Linux. The saved 2026-11-07 catalog classified it under Inference Engines.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Inference Engines work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T16:31:06.886937+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "c95f97e7a441b3604a59c5cf5122f1be6dff6a1a",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/isair/jarvis/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "ce17432292e20b99fd91f90415ce008080016da48e884eb2f809d5b833259967",
+          "blob_sha": "bb6a17f05b11aff2fab371b810d842d87c28d26d"
+        }
+      ]
+    },
+    {
+      "slug": "jjang-ai-jangq",
+      "entity": "jjang-ai/jangq",
+      "canonical_url": "https://localllm.kymatalabs.com/p/jjang-ai-jangq/",
+      "repository": "https://github.com/jjang-ai/jangq",
+      "summary": "Publisher description of jjang-ai/jangq: JANG, GGUF for MLX. YOU MUST USE JANG_Q RUNTIME. Adaptive Mixed-Precision Quantization + Runtime for Apple Silicon. The saved 2026-11-07 catalog classified it under Quantization & Formats.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Quantization & Formats work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T16:31:06.886937+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "c95f97e7a441b3604a59c5cf5122f1be6dff6a1a",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/jjang-ai/jangq/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "5a38889aee5ca0ce2e832a614f22bfadc2e69d552c8022ce79875a47e2343520",
+          "blob_sha": "f092f8dbc590393dd7ba0e2b8c2a42a2c969acdb"
+        }
+      ]
+    },
+    {
+      "slug": "leafspark-autogguf",
+      "entity": "leafspark/AutoGGUF",
+      "canonical_url": "https://localllm.kymatalabs.com/p/leafspark-autogguf/",
+      "repository": "https://github.com/leafspark/AutoGGUF",
+      "summary": "Publisher description of leafspark/AutoGGUF: automatically quant GGUF models. The saved 2026-11-07 catalog classified it under Quantization & Formats.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Quantization & Formats work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements. The publisher has archived the repository, so it is read-only and no longer maintained there.",
+      "last_catalog_snapshot": "2026-11-07T16:31:06.886937+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "c95f97e7a441b3604a59c5cf5122f1be6dff6a1a",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/leafspark/AutoGGUF/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "b0396243a3bf57495b8b9430ec6cc0fcf1fd36000272c88e92feb877336f5069",
+          "blob_sha": "bb9c523c7dad5d2eb48a717d137bf84bd08bcff6"
+        }
+      ]
+    },
+    {
+      "slug": "leonickson1-swiftlet",
+      "entity": "leonickson1/Swiftlet",
+      "canonical_url": "https://localllm.kymatalabs.com/p/leonickson1-swiftlet/",
+      "repository": "https://github.com/leonickson1/Swiftlet",
+      "summary": "Publisher description of leonickson1/Swiftlet: Swiftlet is a Swift and Metal runtime that runs large Qwen Mixture-of-Experts models locally on Apple devices by streaming expert weights from storage, enabling 35B and 80B models to run with low RAM, including on iPhone. The saved 2026-11-07 catalog classified it under On-Device & Mobile.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for On-Device & Mobile work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T16:31:06.886937+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "c95f97e7a441b3604a59c5cf5122f1be6dff6a1a",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/leonickson1/Swiftlet/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "c54c7594cf3d1784ee41dc0789f33c3d6debbd28fcee9db6e35fba1f6b8d1e09",
+          "blob_sha": "cca691be924bfe1b9e6ccebde9fd7a1b2a54efe0"
+        }
+      ]
+    },
+    {
+      "slug": "najmuzzaman-mohammad-gawkbot",
+      "entity": "najmuzzaman-mohammad/gawkbot",
+      "canonical_url": "https://localllm.kymatalabs.com/p/najmuzzaman-mohammad-gawkbot/",
+      "repository": "https://github.com/najmuzzaman-mohammad/gawkbot",
+      "summary": "Publisher description of najmuzzaman-mohammad/gawkbot: open source grok bot. gawk bots automate your menial work via AI models and build you microapps to manage the outcome, so that you have a false sense of control. The saved 2026-11-07 catalog classified it under On-Device & Mobile.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for On-Device & Mobile work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T16:31:06.886937+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "c95f97e7a441b3604a59c5cf5122f1be6dff6a1a",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/najmuzzaman-mohammad/gawkbot/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "96dc19ca2d5100a4443674d2cb8b2e3d65f8954e1a4d995a01c631a344f5ab27",
+          "blob_sha": "3b4f18b8cf5c48177c6563a3a91019910d4c8fb9"
+        }
+      ]
+    },
+    {
+      "slug": "obsei-obsei",
+      "entity": "obsei/obsei",
+      "canonical_url": "https://localllm.kymatalabs.com/p/obsei-obsei/",
+      "repository": "https://github.com/obsei/obsei",
+      "summary": "Publisher description of obsei/obsei: Open source, privacy-first Voice of Customer analytics. A self-hosted alternative to Enterpret and Unwrap that strips PII from feedback before any LLM sees it. The saved 2026-11-07 catalog classified it under Inference Engines.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Inference Engines work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T16:31:06.886937+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "c95f97e7a441b3604a59c5cf5122f1be6dff6a1a",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/obsei/obsei/blob/master/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "8c8f615b32bcf16275a920ff057d6585ce4f7670c9151553931871b68db33152",
+          "blob_sha": "6e5c320a95749b29545b74ae6413e1f9846969e0"
+        }
+      ]
+    },
+    {
+      "slug": "praxis-society-praxis-cloak",
+      "entity": "Praxis-Society/praxis-cloak",
+      "canonical_url": "https://localllm.kymatalabs.com/p/praxis-society-praxis-cloak/",
+      "repository": "https://github.com/Praxis-Society/praxis-cloak",
+      "summary": "Publisher description of Praxis-Society/praxis-cloak: On-device PII scrub + rehydration for cloud LLMs, chat with Claude/GPT while a local model swaps your PII out before the prompt is sent, then maps the answer back to your real entities. Built with Qwen. The saved 2026-11-07 catalog classified it under On-Device & Mobile.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for On-Device & Mobile work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T16:31:06.886937+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "c95f97e7a441b3604a59c5cf5122f1be6dff6a1a",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/Praxis-Society/praxis-cloak/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "a87de60fd51e63838db4ada20c79a2ec2577feb3dc7922cd87dd53567384716d",
+          "blob_sha": "5a111057ec985d712aeed962f1d36a8a636c2b18"
+        }
+      ]
+    },
+    {
+      "slug": "t0msilver-localvoxtral",
+      "entity": "T0mSIlver/localvoxtral",
+      "canonical_url": "https://localllm.kymatalabs.com/p/t0msilver-localvoxtral/",
+      "repository": "https://github.com/T0mSIlver/localvoxtral",
+      "summary": "Publisher description of T0mSIlver/localvoxtral: Talk to your coding agents by voice. Realtime, fully local macOS dictation that streams words as you speak and grounds LLM polishing in the exact Claude Code session under your cursor, Ghostty, iTerm2, Terminal.app, even a herdr pane. 100% on-device on Apple Silicon. The saved 2026-11-07 catalog classified it under On-Device & Mobile.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for On-Device & Mobile work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T16:31:06.886937+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "c95f97e7a441b3604a59c5cf5122f1be6dff6a1a",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/T0mSIlver/localvoxtral/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "9badc4870c031581a15cab6d62bd392ed68640bab091971c7703c87ba8ef63f6",
+          "blob_sha": "b0bc25acf04b011719323cf4a754ea4a0aa45588"
+        }
+      ]
+    },
+    {
+      "slug": "thireus-gguf-tool-suite",
+      "entity": "Thireus/GGUF-Tool-Suite",
+      "canonical_url": "https://localllm.kymatalabs.com/p/thireus-gguf-tool-suite/",
+      "repository": "https://github.com/Thireus/GGUF-Tool-Suite",
+      "summary": "Publisher description of Thireus/GGUF-Tool-Suite: Produce your own Dynamic 3.0 Quants and achieve optimum accuracy & SOTA quantization performance! Input a target size and the toolchain will create a GGUF recipe tuned to your hardware within seconds, flexible model sizing and lowest achievable perplexity/kld for GGUF enthusiasts seeking precise and automated dynamic quant production. The saved 2026-11-07 catalog classified it under Quantization & Formats.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Quantization & Formats work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T16:31:06.886937+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "c95f97e7a441b3604a59c5cf5122f1be6dff6a1a",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/Thireus/GGUF-Tool-Suite/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "008ee0e1516e17b10116c60a26005353f171f4b078bb087f9de48cb26f273267",
+          "blob_sha": "8d0682aede45d6f3399e39d521e6569fde34f797"
+        }
+      ]
+    },
+    {
+      "slug": "xyproto-algernon",
+      "entity": "xyproto/algernon",
+      "canonical_url": "https://localllm.kymatalabs.com/p/xyproto-algernon/",
+      "repository": "https://github.com/xyproto/algernon",
+      "summary": "Publisher description of xyproto/algernon: Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, npm-less React 19, SQLite, and PostgreSQL support ++. The saved 2026-11-07 catalog classified it under Inference Engines.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Inference Engines work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T16:31:06.886937+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "c95f97e7a441b3604a59c5cf5122f1be6dff6a1a",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/xyproto/algernon/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "759ad764e363943ddb4607cd87022b8e8361921d8f37aeea2f93897722efd35e",
+          "blob_sha": "7dddf2e1f29e2e20798471e4b5831b8434f79199"
+        }
+      ]
     }
   ],
   "retirements": [],
