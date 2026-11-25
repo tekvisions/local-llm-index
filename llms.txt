@@ -2,8 +2,8 @@
 
 > The Local LLM Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-07T16:31:06.886937+00:00
-Current catalog records: 238
+Snapshot collected: 2026-11-25T21:00:10.888097+00:00
+Current catalog records: 242
 
 ## Sources and interpretation
 
@@ -25,43 +25,43 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [unslothai/unsloth](https://localllm.kymatalabs.com/p/unslothai-unsloth/) — Quantization & Formats
 - [Mintplex-Labs/anything-llm](https://localllm.kymatalabs.com/p/mintplex-labs-anything-llm/) — Local LLM Tools
 - [HKUDS/nanobot](https://localllm.kymatalabs.com/p/hkuds-nanobot/) — Local UIs & Apps
+- [codewhale-hq/Codewhale](https://localllm.kymatalabs.com/p/codewhale-hq-codewhale/) — Runners
+- [qybaihe/bla](https://localllm.kymatalabs.com/p/qybaihe-bla/) — Quantization & Formats
+- [simplexai-labs/linger](https://localllm.kymatalabs.com/p/simplexai-labs-linger/) — Runners
+- [Edge0-AI/Edge0](https://localllm.kymatalabs.com/p/edge0-ai-edge0/) — On-Device & Mobile
+- [iamajmeena/neonclipping](https://localllm.kymatalabs.com/p/iamajmeena-neonclipping/) — Runners
 - [AienTech/dossier](https://localllm.kymatalabs.com/p/aientech-dossier/) — Runners
+- [sybil-solutions/inference-optimisation-skill](https://localllm.kymatalabs.com/p/sybil-solutions-inference-optimisation-skill/) — Quantization & Formats
 - [mozilla-ai/llamafile](https://localllm.kymatalabs.com/p/mozilla-ai-llamafile/) — Quantization & Formats
-- [mw00/project-maya](https://localllm.kymatalabs.com/p/mw00-project-maya/) — Quantization & Formats
 - [mlc-ai/web-llm](https://localllm.kymatalabs.com/p/mlc-ai-web-llm/) — In-Browser
+- [MODSetter/SurfSense](https://localllm.kymatalabs.com/p/modsetter-surfsense/) — Inference Engines
 - [alibaba/MNN](https://localllm.kymatalabs.com/p/alibaba-mnn/) — On-Device & Mobile
 - [chenhg5/cc-connect](https://localllm.kymatalabs.com/p/chenhg5-cc-connect/) — Local LLM Tools
+- [mw00/project-maya](https://localllm.kymatalabs.com/p/mw00-project-maya/) — Quantization & Formats
 - [cactus-compute/cactus](https://localllm.kymatalabs.com/p/cactus-compute-cactus/) — On-Device & Mobile
-- [RunanywhereAI/runanywhere-sdks](https://localllm.kymatalabs.com/p/runanywhereai-runanywhere-sdks/) — On-Device & Mobile
+- [RunanywhereAI/trnrt](https://localllm.kymatalabs.com/p/runanywhereai-trnrt/) — Inference Engines
 - [MakazhanAlpamys/Soup](https://localllm.kymatalabs.com/p/makazhanalpamys-soup/) — Quantization & Formats
 - [LearningCircuit/local-deep-research](https://localllm.kymatalabs.com/p/learningcircuit-local-deep-research/) — Inference Engines
 - [qualcomm/GenieX](https://localllm.kymatalabs.com/p/qualcomm-geniex/) — On-Device & Mobile
-- [google-ai-edge/LiteRT-LM](https://localllm.kymatalabs.com/p/google-ai-edge-litert-lm/) — On-Device & Mobile
-- [Andyyyy64/whichllm](https://localllm.kymatalabs.com/p/andyyyy64-whichllm/) — Runners
-- [lemonade-sdk/lemonade](https://localllm.kymatalabs.com/p/lemonade-sdk-lemonade/) — Inference Engines
+- [OpenBMB/MiniCPM](https://localllm.kymatalabs.com/p/openbmb-minicpm/) — On-Device & Mobile
 - [di-sukharev/opencommit](https://localllm.kymatalabs.com/p/di-sukharev-opencommit/) — Runners
 - [drumih/turbo-fieldfare](https://localllm.kymatalabs.com/p/drumih-turbo-fieldfare/) — On-Device & Mobile
-- [cactus-compute/engine](https://localllm.kymatalabs.com/p/cactus-compute-engine/) — Quantization & Formats
-- [dograh-hq/dograh](https://localllm.kymatalabs.com/p/dograh-hq-dograh/) — Local LLM Tools
-- [Michael-A-Kuykendall/shimmy](https://localllm.kymatalabs.com/p/michael-a-kuykendall-shimmy/) — Quantization & Formats
+- [google-ai-edge/LiteRT-LM](https://localllm.kymatalabs.com/p/google-ai-edge-litert-lm/) — On-Device & Mobile
+- [lemonade-sdk/lemonade](https://localllm.kymatalabs.com/p/lemonade-sdk-lemonade/) — Inference Engines
+- [w01fb0ss/PiBot](https://localllm.kymatalabs.com/p/w01fb0ss-pibot/) — On-Device & Mobile
+- [RunanywhereAI/runanywhere-sdks](https://localllm.kymatalabs.com/p/runanywhereai-runanywhere-sdks/) — On-Device & Mobile
+- [Andyyyy64/whichllm](https://localllm.kymatalabs.com/p/andyyyy64-whichllm/) — Runners
 - [maziyarpanahi/openmed](https://localllm.kymatalabs.com/p/maziyarpanahi-openmed/) — On-Device & Mobile
 - [mizorewww/laya-coreml](https://localllm.kymatalabs.com/p/mizorewww-laya-coreml/) — On-Device & Mobile
+- [dograh-hq/dograh](https://localllm.kymatalabs.com/p/dograh-hq-dograh/) — Local LLM Tools
 - [thunderbird/thunderbolt](https://localllm.kymatalabs.com/p/thunderbird-thunderbolt/) — On-Device & Mobile
-- [langroid/langroid](https://localllm.kymatalabs.com/p/langroid-langroid/) — Local LLM Tools
-- [raullenchai/Rapid-MLX](https://localllm.kymatalabs.com/p/raullenchai-rapid-mlx/) — Inference Engines
-- [syv-ai/HyperQwen](https://localllm.kymatalabs.com/p/syv-ai-hyperqwen/) — Quantization & Formats
-- [cobanov/PS5LM](https://localllm.kymatalabs.com/p/cobanov-ps5lm/) — Quantization & Formats
-- [SciSharp/LLamaSharp](https://localllm.kymatalabs.com/p/scisharp-llamasharp/) — Inference Engines
 - [PurpleDoubleD/locally-uncensored](https://localllm.kymatalabs.com/p/purpledoubled-locally-uncensored/) — Local LLM Tools
-- [off-grid-ai/OGAM](https://localllm.kymatalabs.com/p/off-grid-ai-ogam/) — Quantization & Formats
-- [vinta/pangu.js](https://localllm.kymatalabs.com/p/vinta-pangu-js/) — On-Device & Mobile
+- [raullenchai/Rapid-MLX](https://localllm.kymatalabs.com/p/raullenchai-rapid-mlx/) — Inference Engines
+- [langroid/langroid](https://localllm.kymatalabs.com/p/langroid-langroid/) — Local LLM Tools
+- [Michael-A-Kuykendall/shimmy](https://localllm.kymatalabs.com/p/michael-a-kuykendall-shimmy/) — Quantization & Formats
 - [twinnydotdev/twinny](https://localllm.kymatalabs.com/p/twinnydotdev-twinny/) — Inference Engines
-- [sugarforever/chat-ollama](https://localllm.kymatalabs.com/p/sugarforever-chat-ollama/) — Runners
-- [nicedreamzapp/claude-code-local](https://localllm.kymatalabs.com/p/nicedreamzapp-claude-code-local/) — On-Device & Mobile
+- [off-grid-ai/OGAM](https://localllm.kymatalabs.com/p/off-grid-ai-ogam/) — Quantization & Formats
 - [AtomicBot-ai/atomic-agent](https://localllm.kymatalabs.com/p/atomicbot-ai-atomic-agent/) — Quantization & Formats
-- [spiceai/spiceai](https://localllm.kymatalabs.com/p/spiceai-spiceai/) — Inference Engines
-- [rafska/awesome-local-llm](https://localllm.kymatalabs.com/p/rafska-awesome-local-llm/) — Collections
-- [xyproto/algernon](https://localllm.kymatalabs.com/p/xyproto-algernon/) — Inference Engines
 
 <!-- Kymata discovery capabilities -->
 ## Mission and scope
@@ -82,3 +82,12 @@ Explore the tools for running language models on your own hardware.
 
 - [Machine-readable capabilities, resources and dated coverage](https://localllm.kymatalabs.com/capabilities.json)
 - The capabilities document uses Kymata's descriptive format; it is not a standard agent tool protocol.
+
+## More from Kymata Labs
+Other products from the same publisher. They are not part of this index or its rankings.
+- [Keyspoken](https://keyspoken.com/): On-device dictation for iPhone
+- [Kymata Health](https://kymatahealth.com/): Evidence-based health guides and calculators
+- [CrowLingo](https://crowlingo.org/): American crow call atlas
+- [Verse Made Simple](https://www.versemadesimple.com/): Bible verses in three reading styles
+- [PercentEase](https://percentease.com/): Percentage calculator
+- [Enzo Adventures](https://enzoadventures.com/): Comic stories and coloring books
