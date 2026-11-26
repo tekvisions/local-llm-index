@@ -729,6 +729,29 @@
           "blob_sha": "7dddf2e1f29e2e20798471e4b5831b8434f79199"
         }
       ]
+    },
+    {
+      "slug": "hung-yueh-react-native-litert-lm",
+      "entity": "hung-yueh/react-native-litert-lm",
+      "canonical_url": "https://localllm.kymatalabs.com/p/hung-yueh-react-native-litert-lm/",
+      "repository": "https://github.com/hung-yueh/react-native-litert-lm",
+      "summary": "Publisher description of hung-yueh/react-native-litert-lm: High-performance on-device LLM inference for React Native, powered by LiteRT-LM and Nitro Modules. The saved 2026-11-25 catalog classified it under On-Device & Mobile.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for On-Device & Mobile work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Automated dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-25T22:04:25.516002+00:00",
+      "reviewed_on": "2026-11-26",
+      "last_successful_source_commit": "9b58996758c0fb0b24989a3128937078db96dbbd",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "upstream_status": "publisher source reachable (HTTP 200) on the 2026-11-26 automated check",
+      "primary_sources": [
+        {
+          "url": "https://github.com/hung-yueh/react-native-litert-lm/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "124029d81030ea961a157ba464819155f8e50e36915b34ba2acc4bb54701fceb",
+          "blob_sha": "4c5bdc4ac1b169237ded38e5a7778b7319a8528a"
+        }
+      ],
+      "evidence_sha256": "124029d81030ea961a157ba464819155f8e50e36915b34ba2acc4bb54701fceb"
     }
   ],
   "retirements": [],
