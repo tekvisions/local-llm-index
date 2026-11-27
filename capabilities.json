@@ -42,8 +42,8 @@
   "mission": "Kymata Labs makes open-source AI tools, models and infrastructure easier to understand through focused, source-backed indexes. We publish dated source signals, explain ranking methods and limitations, and separate advertising from ranking and inclusion.",
   "scope": "Explore the tools for running language models on your own hardware.",
   "snapshot": {
-    "collected_at": "2026-11-26T18:40:47.675105+00:00",
-    "records_in_saved_snapshot": 243,
+    "collected_at": "2026-11-27T18:30:37.718096+00:00",
+    "records_in_saved_snapshot": 242,
     "coverage": "focused source selection; not an exhaustive census of the ecosystem"
   },
   "capabilities": [
